@@ -12,7 +12,8 @@
     "sync:lily": "node bin/vendor-lily.mjs",
     "dev": "vite dev",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "postinstall": "node bin/fix-lily-picker-resolution.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.10",
@@ -25,6 +26,10 @@
   "dependencies": {
     "@lilydesignsystem/svelte-headless": "^0.2.0",
     "@lilydesignsystem/svelte-picker-bar": "^0.1.0",
+    "@lilydesignsystem/svelte-locale-picker": "0.1.2",
+    "@lilydesignsystem/svelte-theme-picker": "0.1.2",
+    "@lilydesignsystem/svelte-text-size-picker": "0.1.2",
+    "@lilydesignsystem/svelte-share-picker": "0.1.2",
     "github-slugger": "^2.0.0",
     "marked": "^18.0.10"
   }
