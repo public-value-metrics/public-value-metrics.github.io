@@ -60,7 +60,7 @@ This is where [ai-productivity-in-the-public-sector](../ai-productivity-in-the-p
 
 ## Pitfalls
 
-- **AI-washing**: relabelling existing rules-based automation as "AI" to access funding or attention earmarked for AI adoption, without the accuracy or bias risks that actually justify the framework's extra scrutiny.
+- **AI-washing**: relabeling existing rules-based automation as "AI" to access funding or attention earmarked for AI adoption, without the accuracy or bias risks that actually justify the framework's extra scrutiny.
 - **Measuring pilot productivity, not production productivity**: pilots run on curated test cases with engaged, attentive reviewers; production runs on the full messy case mix with reviewers who, over time, develop automation bias and under-check outputs — both distort the honest oversight-cost figure.
 - **Skipping ATRS registration because the tool "isn't really automated decision-making"**: the standard's threshold is significant influence on a decision about an individual, which most citizen-facing AI drafting or triage tools meet even when a human technically signs off.
 - **Ignoring distributional impact of errors**: an AI system's error rate averaged across all users can hide a much higher error or bias rate for specific groups; [distributional-weighting](../distributional-weighting/) should be applied to the risk-adjusted harm term, not just the aggregate accuracy figure.

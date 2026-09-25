@@ -36,7 +36,7 @@ Social impact bond investor return:
   Investor return   = outcome payments received − investor outlay
                        (a rate of return, often capped, reflecting risk taken)
 
-Key design parameters that determine the whole contract's behaviour:
+Key design parameters that determine the whole contract's behavior:
   Outcome metric        — must be an outcome, not an output (see outcomes-vs-outputs)
   Comparison/counterfactual — usually a matched cohort (see counterfactual-analysis)
   Payment threshold      — minimum improvement before any payment triggers

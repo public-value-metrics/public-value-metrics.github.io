@@ -16,7 +16,7 @@ a service must simultaneously deliver **public value** (the mission outcome), ma
 **legitimacy and support** (political and public backing), and be **operationally feasible**
 (deliverable with the resources and capability actually available). Paul Niven's *Balanced
 Scorecard: Step-by-Step for Government and Nonprofit Agencies* (2003) is the practitioner's manual
-for translating Kaplan and Norton's four boxes into this triangle — typically re-labelling
+for translating Kaplan and Norton's four boxes into this triangle — typically re-labeling
 "financial" as "stewardship of resources," putting "mission" at the top instead of "shareholder
 value" at the bottom, and treating customer and stakeholder perspectives as co-equal rather than
 subordinate to profit. The reason this matters to a delivery team is that a public digital service
@@ -85,7 +85,7 @@ legitimacy perspective with real, sourced indicators rather than a proxy nobody 
   the scorecard exists to prevent.
 - **Copying the private-sector "financial" perspective unchanged**: a public body's stewardship
   perspective is about staying within authorized, often ring-fenced, budgets, not about maximizing
-  revenue — Niven's relabelling is not cosmetic.
+  revenue — Niven's relabeling is not cosmetic.
 - **Choosing indicators the team that owns the scorecard can unilaterally move**: a legitimacy
   indicator sourced from the same team it judges (self-reported complaints handling, for instance)
   is not independent evidence.

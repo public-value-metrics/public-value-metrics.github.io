@@ -75,7 +75,7 @@ New here? Start with [public value](locales/en-gb-oxendict/topics/public-value/)
 - [GDP alternatives](locales/en-gb-oxendict/topics/gdp-alternatives/) — The Genuine Progress Indicator, Gross National Happiness, and GDP's well-known blind spots
 - [Human Development Index (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — Life expectancy, education, and income combined into one number — and what it flattens
 - [Multidimensional Poverty Index (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — Counting deprivations, not just income, across health, education, and living standards
-- [Wellbeing-adjusted life years (WELBY)](locales/en-gb-oxendict/topics/wellbeing-adjusted-life-years/) — The WELBY: a QALY-shaped unit for policies whose currency is life satisfaction, not health
+- [Wellbeing-adjusted life years (WELLBY)](locales/en-gb-oxendict/topics/wellbeing-adjusted-life-years/) — The WELLBY: a QALY-shaped unit for policies whose currency is life satisfaction, not health
 - [Index of Multiple Deprivation (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — England's small-area deprivation ranking, and how it routes funding and attention
 - [Social capital metrics](locales/en-gb-oxendict/topics/social-capital-metrics/) — Trust, networks, and civic participation as an economic asset with no ledger entry
 - [Natural capital accounting](locales/en-gb-oxendict/topics/natural-capital-accounting/) — Putting the environment on the balance sheet, from the UK's 25 Year Environment Plan onward
@@ -94,7 +94,7 @@ New here? Start with [public value](locales/en-gb-oxendict/topics/public-value/)
 
 ## Locales
 
-This book is maintained in sixteen locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. Every non-canonical locale keeps the *English* (`en-gb-oxendict`) slug for its topic directories — only the content is translated, never the directory name:
+This book is maintained in seventeen locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. Every non-canonical locale keeps the *English* (`en-gb-oxendict`) slug for its topic directories — only the content is translated, never the directory name:
 
 - `en-gb-oxendict` — English (Great Britain, Oxford spelling) — the canonical locale this README links into
 - `en-001` — English (World)
@@ -103,6 +103,7 @@ This book is maintained in sixteen locales, tracked across directories with a [`
 - `cy-gb` — Cymraeg (Great Britain)
 - `cy-001` — Cymraeg (World)
 - `zh-001` — Chinese (World)
+- `zh-cn` — Chinese (China) — content-identical to `zh-001`; both use simplified script and this book has no Mainland-specific subject matter
 - `hi-001` — Hindi (World)
 - `ar-001` — Arabic (World)
 - `es-001` — Spanish (World)

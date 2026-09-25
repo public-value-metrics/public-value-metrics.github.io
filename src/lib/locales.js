@@ -12,6 +12,7 @@ export const LOCALE_LABELS = {
 	'cy-gb': 'Cymraeg (Y Deyrnas Unedig)',
 	'cy-001': 'Cymraeg (Byd)',
 	'zh-001': '中文（世界）',
+	'zh-cn': '中文（中国大陆）',
 	'hi-001': 'हिन्दी (विश्व)',
 	'ar-001': 'العربية (العالم)',
 	'es-001': 'Español (Mundo)',

@@ -2,7 +2,7 @@
 
 A key performance indicator (KPI) is a chosen, tracked measure that stands in for whether a public
 service is doing its job well. In government the choice of KPI is never neutral: because KPIs
-attach to budgets, league tables, and careers, the act of selecting one shapes the behaviour of
+attach to budgets, league tables, and careers, the act of selecting one shapes the behavior of
 everyone downstream of it, often more than the policy that created the service.
 
 ## Why it matters

@@ -71,7 +71,7 @@ reasons (a factory closure) entirely outside the program's control.
 RBA maps directly onto a familiar SRE distinction: population indicators are like business-level
 North Star metrics that no single engineering team owns end to end (company revenue, market share),
 while performance measures are like a team's own SLOs — the things that team's design decisions
-actually move. A dashboard that reports both without labelling which is which invites exactly the
+actually move. A dashboard that reports both without labeling which is which invites exactly the
 misattribution RBA was built to prevent: an on-call engineer getting blamed for a metric a
 dependency team controls. When commissioning or building reporting tools for outcomes contracts,
 build the "how much / how well / better off" triad as first-class, separately-filterable fields

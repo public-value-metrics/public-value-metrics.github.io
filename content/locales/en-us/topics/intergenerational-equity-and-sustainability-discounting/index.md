@@ -24,7 +24,7 @@ the ethical debate further: Stern argued that pure time preference should be set
 preference for the present over the future), producing a far lower effective discount rate than
 conventional Green Book practice and, correspondingly, a far larger present-day case for climate
 action. Critics (notably William Nordhaus) argued Stern's near-zero rate was ethically defensible
-but inconsistent with actual observed savings and investment behaviour. The disagreement is not a
+but inconsistent with actual observed savings and investment behavior. The disagreement is not a
 technical footnote — it is the single largest reason two equally rigorous economists can reach
 wildly different conclusions about how much the present generation should sacrifice for the
 future, and it is the reason software supporting long-horizon public investment appraisal must

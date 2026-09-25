@@ -632,6 +632,7 @@ const TRANSLATIONS = {
 	'ru-001': ru,
 	'zh-cn': zh,
 	'zh-001': zh,
+	'zh-cn': zh,
 	'ar-eg': ar,
 	'ar-001': ar,
 	'cy-gb': cy,

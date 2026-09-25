@@ -39,7 +39,7 @@ with that targeting, rather than valuing a pound of benefit the same regardless 
 
 Each domain score: indicators standardized (ranked, then transformed
 towards a normal distribution) and combined by exponential transformation
-so that high deprivation on any one indicator cannot be fully cancelled
+so that high deprivation on any one indicator cannot be fully canceled
 out by low deprivation on others within that domain.
 
 IMD composite score (LSOA) = Σ (domain score × domain weight)

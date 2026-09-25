@@ -1,6 +1,6 @@
 # Revealed Preference Valuation
 
-Revealed preference methods infer the value of a non-market good from observable behaviour in a
+Revealed preference methods infer the value of a non-market good from observable behavior in a
 related market, rather than asking people directly. Hedonic pricing and the travel-cost method are
 the two workhorse techniques: both start from a real transaction and back out an implicit price for
 the thing that was never directly sold.

@@ -47,7 +47,7 @@ Engineering organizations routinely approve platform and tooling investments on 
 - **No pre-go-live baseline**: the fatal, unfixable omission — without it, no realization rate can ever be computed, only asserted.
 - **Benefit orphanhood**: a benefit with no named owner has no one collecting the data, and every portfolio review reports it as "broadly on track" by default.
 - **Double-counted benefits across a program portfolio**: two projects both claiming the same freed caseworker capacity as their benefit — keep a single benefit register across the portfolio to catch this.
-- **Realization theatre**: measuring and reporting the easy qualitative wins prominently while the cash and capacity lines go quietly unexamined.
+- **Realization theater**: measuring and reporting the easy qualitative wins prominently while the cash and capacity lines go quietly unexamined.
 - **Confusing delivery with realization**: a project closing its milestones "on time and on budget" says nothing about whether the forecast benefit ever actually occurred — the IPA's guidance treats these as two separate questions with two separate evidence trails.
 
 ## Sources

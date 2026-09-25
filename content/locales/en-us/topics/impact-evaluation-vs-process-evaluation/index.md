@@ -62,7 +62,7 @@ one unusually good site.
 ## Software engineering connection
 
 Process evaluation data is exactly what delivery systems are well placed to capture: attendance
-against plan, session dosage, and drop-off at each stage of a referral or enrolment funnel — the
+against plan, session dosage, and drop-off at each stage of a referral or enrollment funnel — the
 same funnel analytics engineers already build for product features, applied to a social
 program's delivery pipeline instead. Feeding fidelity and reach metrics to program managers in
 near-real time, rather than waiting for an end-of-grant evaluation, lets a broken referral pathway

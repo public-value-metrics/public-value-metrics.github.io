@@ -73,7 +73,7 @@ resisting the temptation to let "case closed" stand in for "outcome achieved." W
 grant management or CRM platform, ask which of the two metrics each dashboard is actually showing,
 and label it accordingly; conflating them in a single "impact" tile is one of the most common
 software-level causes of the pitfalls below. See [unit cost databases](../unit-cost-databases/)
-for benchmarking either metric once it is correctly labelled.
+for benchmarking either metric once it is correctly labeled.
 
 ## Pitfalls
 
