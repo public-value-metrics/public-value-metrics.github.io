@@ -1,4 +1,4 @@
-# बहुआयामी ग़रीबी सूचकांक (Multidimensional Poverty Index, MPI)
+# बहुआयामी ग़रीबी सूचकांक (MPI)
 
 MPI ग़रीबी को उन ओवरलैपिंग वंचनाओं के रूप में मापता है जिनका अनुभव कोई व्यक्ति एक ही समय पर करता है — स्वास्थ्य, शिक्षा और जीवन-स्तर में — न कि केवल आय के किसी रेखा से नीचे गिरने के रूप में। इसे Oxford Poverty and Human Development Initiative (OPHI) द्वारा Sabina Alkire और James Foster के साथ विकसित किया गया, और यह 2010 से हर Human Development Report में [मानव विकास सूचकांक](../human-development-index/) के साथ संयुक्त रूप से UNDP के साथ प्रकाशित किया जाता है।
 

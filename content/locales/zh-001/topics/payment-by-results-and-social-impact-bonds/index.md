@@ -1,4 +1,4 @@
-# 按效果付费与社会效益债券（Payment by Results and Social Impact Bonds, PbR/SIBs）
+# 按效果付费与社会效益债券（PbR/SIBs）
 
 按效果付费（Payment by results，PbR）依据已核实达成的成果、而非已执行的活动，向服务提供方付款。社会效益债券（Social Impact Bond，SIB）是一种具体的 PbR 融资结构，在该结构中，私人或慈善投资者预先为服务交付提供资金，只有在独立测量的成果达到商定门槛时，才由政府委托方连本带息偿还——将交付风险从纳税人转移到投资者身上。
 

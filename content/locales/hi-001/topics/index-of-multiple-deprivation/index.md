@@ -1,4 +1,4 @@
-# बहु-वंचना सूचकांक (Index of Multiple Deprivation, IMD)
+# बहु-वंचना सूचकांक (IMD)
 
 IMD इंग्लैंड में छोटे क्षेत्रों के लिए सापेक्ष वंचना (deprivation) का आधिकारिक माप है, जो देश के सभी 32,844 Lower-layer Super Output Areas (LSOA, हर एक में लगभग 1,500 निवासी) को 1 (सबसे वंचित) से 32,844 (सबसे कम वंचित) तक रैंक करता है। यह अब Ministry of Housing, Communities and Local Government (MHCLG, पहले MHCLG/DCLG) द्वारा प्रकाशित किया जाता है, सबसे हाल में English Indices of Deprivation 2019 के रूप में, और यह सीधे केंद्र-सरकार वित्तपोषण, सार्वजनिक स्वास्थ्य प्राथमिकीकरण, और दर्जनों स्थानीय योजनाओं की पात्रता को निर्देशित करता है।
 

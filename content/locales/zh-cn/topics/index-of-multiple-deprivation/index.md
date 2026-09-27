@@ -1,4 +1,4 @@
-# 多重贫困指数（Index of Multiple Deprivation, IMD）
+# 多重贫困指数（IMD）
 
 多重贫困指数是英格兰小型地区相对贫困程度的官方衡量指标，对全国 32,844 个低层超级产出区（Lower-layer Super Output Areas，LSOA，每个约有 1,500 名居民）逐一进行排名，从 1（最贫困）到 32,844（最不贫困）。它由现称住房、社区与地方政府部（Ministry of Housing, Communities and Local Government，MHCLG，前身为 MHCLG/DCLG）发布，最新一版为 2019 年《英格兰贫困指数》（English Indices of Deprivation 2019），它直接决定了中央政府资金的流向、公共卫生优先级的排序，以及数十项地方计划的资格认定。
 

@@ -1,4 +1,4 @@
-# 面向公共价值的 DORA 指标（DORA Metrics for Public Value）
+# 面向公共价值的 DORA 指标
 
 DORA（DevOps Research and Assessment，DevOps 研究与评估）指标——部署频率、变更前置时间、变更失败率、服务恢复时间，加上作为第五项的可靠性——是软件行业验证最充分的交付绩效基准。转化为公共部门问责制的语言后，每一项都直接代理着公共价值到达公民手中的速度与安全程度。
 

@@ -1,4 +1,4 @@
-# 成果导向问责制（Outcomes-Based Accountability, OBA）
+# 成果导向问责制（OBA）
 
 成果导向问责制，又称结果导向问责制（Results-Based Accountability，RBA），是 Mark Friedman 提出的框架，用于分离两个公共部门报告中习惯性地混为一谈的问题："人群状况是否良好？"（人群层面问责）与"这个具体项目本身表现是否良好？"（绩效层面问责）。在 Friedman 看来，将这两者混为一谈，是运营良好的项目被归咎于其根本无力左右的人群层面趋势的最常见原因。
 

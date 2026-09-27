@@ -1,4 +1,4 @@
-# 多维贫困指数（Multidimensional Poverty Index, MPI）
+# 多维贫困指数（MPI）
 
 多维贫困指数将贫困衡量为一个人同时经历的多重叠加剥夺——健康、教育和生活水平方面的剥夺——而不仅仅是收入低于某条贫困线。它由牛津贫困与人类发展倡议组织（Oxford Poverty and Human Development Initiative，OPHI）与 Sabina Alkire 和 James Foster 共同开发，自 2010 年以来一直与[人类发展指数](../human-development-index/)一同，出现在联合国开发计划署每一版《人类发展报告》中。
 

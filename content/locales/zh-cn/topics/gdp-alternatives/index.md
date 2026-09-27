@@ -1,4 +1,4 @@
-# GDP 的替代指标（GDP Alternatives）
+# GDP 的替代指标
 
 GDP 的替代指标，是为了捕捉国内生产总值（GDP）在结构上所忽略的东西而设计的指标：无偿照护劳动、环境消耗、收入分配，以及增长是否真正改善了人们的生活。其中最知名的是真实进步指标（Genuine Progress Indicator，GPI）和不丹的国民幸福总值（Gross National Happiness，GNH）指数；2009 年的斯蒂格利茨-森-菲图西委员会（Stiglitz-Sen-Fitoussi Commission）对认真对待这些指标的必要性给出了最具影响力的论证。对于构建政府仪表盘或关键绩效指标系统的工程师而言，"哪个数字才算进步"是一项具有真实后果的设计决策，直接关系到什么会获得资助。
 
