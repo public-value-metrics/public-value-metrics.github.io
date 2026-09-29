@@ -742,10 +742,15 @@ const TRANSLATIONS = {
 	'cy-gb': cy,
 	'cy-001': cy,
 	'hi-001': hi,
+	'hi-in': hi,
 	'bn-001': bn,
+	'bn-bd': bn,
 	'pt-001': pt,
+	'pt-pt': pt,
 	'id-001': id,
-	'ur-001': ur
+	'id-id': id,
+	'ur-001': ur,
+	'ur-pk': ur
 };
 
 /** This locale's UI strings, falling back to English for any missing key. */

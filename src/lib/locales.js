@@ -23,7 +23,16 @@ export const LOCALE_LABELS = {
 	'id-001': 'Bahasa Indonesia',
 	'ur-001': 'اردو',
 	'de-de': 'Deutsch - Deutschland',
-	'ja-jp': '日本語 - 日本'
+	'ja-jp': '日本語 - 日本',
+	'ar-eg': 'العربية - مصر',
+	'bn-bd': 'বাংলা - বাংলাদেশ',
+	'hi-in': 'हिन्दी - भारत',
+	'es-es': 'Español - España',
+	'fr-fr': 'Français - France',
+	'ru-ru': 'Русский - Россия',
+	'pt-pt': 'Português - Portugal',
+	'ur-pk': 'اردو - پاکستان',
+	'id-id': 'Bahasa Indonesia - Indonesia'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';
