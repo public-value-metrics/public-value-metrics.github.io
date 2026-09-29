@@ -21,7 +21,8 @@ export const LOCALE_LABELS = {
 	'bn-001': 'বাংলা',
 	'pt-001': 'Português',
 	'id-001': 'Bahasa Indonesia',
-	'ur-001': 'اردو'
+	'ur-001': 'اردو',
+	'de-de': 'Deutsch - Deutschland'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';

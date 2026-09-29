@@ -623,7 +623,59 @@ const ur = {
 	paginationNext: 'اگلا'
 };
 
+const de = {
+	skipToContent: 'Zum Inhalt springen',
+	navHome: 'Startseite',
+	navContents: 'Inhalt',
+	navTopicsAZ: 'Themen A–Z',
+	navSearch: 'Suche',
+	navAbout: 'Über',
+	footerSourceLink: 'Quellcode',
+	footerTaglineSuffix:
+		' — Mathematik, Beispiele und Argumentation des öffentlichen Werts für Softwareentwicklerinnen und -entwickler, die für staatliche und soziale Organisationen weltweit bauen.',
+	footerNote:
+		'Die Zahlen in diesem Buch veralten schnell. Jedes Thema datiert seine Vergleichswerte direkt im Text; prüfen Sie sie erneut, bevor Sie eine Zahl in einem echten Business Case verwenden.',
+	pickerTheme: 'Thema',
+	pickerLanguage: 'Sprache',
+	pickerTextSize: 'Textgröße',
+	pickerShare: 'Teilen',
+	shareCopyLink: 'Link kopieren',
+	shareCopied: 'Kopiert',
+	shareCopyFailed: 'Kopieren fehlgeschlagen',
+	shareEmailLabel: 'Link per E-Mail senden',
+	shareLinkedinLabel: 'Auf LinkedIn teilen',
+	shareRedditLabel: 'Auf Reddit teilen',
+	shareBlueskyLabel: 'Auf Bluesky teilen',
+	shareMastodonLabel: 'Auf Mastodon teilen',
+	startHere: 'Hier beginnen',
+	startHereSubtitle: 'Die drei Ideen, auf denen alles andere aufbaut.',
+	contentsMetaDescription: (bookTitle) => `Alle Themen in ${bookTitle}, in Lesereihenfolge.`,
+	contentsIntro: (count, parts) =>
+		`Alle ${count} Themen in Lesereihenfolge, verteilt auf ${parts} Teile. Jedes Thema behandelt eine Kennzahl oder ein Konzept: Definition, warum es wichtig ist, die Berechnung, ein durchgerechnetes Beispiel, den Bezug zur Softwareentwicklung, Fallstricke und Quellen.`,
+	topicsCountSubtitle: (n) => `${n} Themen`,
+	topicsMetaDescription: (bookTitle) => `Alle Themen in ${bookTitle}, alphabetisch von A bis Z.`,
+	topicsIntroPrefix: (count) => `Alle ${count} Themen in alphabetischer Reihenfolge. Für die Lesereihenfolge siehe das`,
+	contentsLinkText: 'Inhaltsverzeichnis',
+	jumpToLetter: 'Zum Buchstaben springen',
+	searchMetaDescription: (bookTitle) => `Alle Themen in ${bookTitle} durchsuchen.`,
+	searchIntro: (count) =>
+		`Durchsuchen Sie alle ${count} Themen nach Titel, Teil, Zusammenfassung und Abschnittsüberschrift. Alles läuft in Ihrem Browser — nichts, was Sie eingeben, verlässt diese Seite.`,
+	searchInputLabel: 'Themen durchsuchen',
+	searchPlaceholder: 'SROI, Diskontierung, Kosten pro Ergebnis…',
+	searchHintEmptyHtml: 'Zum Suchen tippen. Probieren Sie <em>SROI</em>, <em>Mitnahmeeffekt</em>, oder <em>Wirtschaftlichkeit</em>.',
+	noResultsPrefix: 'Kein Thema passt zu ',
+	noResultsMiddle: '. Versuchen Sie einen breiteren Begriff, oder durchstöbern Sie das ',
+	resultsCountSingular: 'Thema',
+	resultsCountPlural: 'Themen',
+	topicPosition: (index, total) => `Thema ${index} von ${total}`,
+	onThisPage: 'Auf dieser Seite',
+	paginationLabel: 'Buch',
+	paginationPrevious: 'Zurück',
+	paginationNext: 'Weiter'
+};
+
 const TRANSLATIONS = {
+	'de-de': de,
 	'es-es': es,
 	'es-001': es,
 	'fr-fr': fr,
