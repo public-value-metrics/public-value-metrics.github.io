@@ -674,8 +674,60 @@ const de = {
 	paginationNext: 'Weiter'
 };
 
+const ja = {
+	skipToContent: 'コンテンツへスキップ',
+	navHome: 'ホーム',
+	navContents: '目次',
+	navTopicsAZ: 'トピック A–Z',
+	navSearch: '検索',
+	navAbout: 'このサイトについて',
+	footerSourceLink: 'ソース',
+	footerTaglineSuffix:
+		' — 世界中の政府・社会セクター組織のために構築するソフトウェアエンジニアのための、公共価値の数学、事例、そして推論。',
+	footerNote:
+		'この本の数字はすぐに古くなる。各トピックはそのベンチマークを本文中に日付付きで示している。実際のビジネスケースで数字を使う前に必ず再検証すること。',
+	pickerTheme: 'テーマ',
+	pickerLanguage: '言語',
+	pickerTextSize: '文字サイズ',
+	pickerShare: '共有',
+	shareCopyLink: 'リンクをコピー',
+	shareCopied: 'コピーしました',
+	shareCopyFailed: 'コピーに失敗しました',
+	shareEmailLabel: 'メールでリンクを送る',
+	shareLinkedinLabel: 'LinkedInで共有',
+	shareRedditLabel: 'Redditで共有',
+	shareBlueskyLabel: 'Blueskyで共有',
+	shareMastodonLabel: 'Mastodonで共有',
+	startHere: 'ここから始める',
+	startHereSubtitle: '他のすべてがその上に築かれる三つの考え方。',
+	contentsMetaDescription: (bookTitle) => `${bookTitle}のすべてのトピックを、読む順に。`,
+	contentsIntro: (count, parts) =>
+		`${parts}のパートにわたる、読む順の全${count}トピック。各トピックは一つの指標あるいは概念を扱う——定義、重要な理由、計算式、計算例、ソフトウェア開発との関連、落とし穴、そして出典。`,
+	topicsCountSubtitle: (n) => `${n}トピック`,
+	topicsMetaDescription: (bookTitle) => `${bookTitle}のすべてのトピックを、A–Z順に。`,
+	topicsIntroPrefix: (count) => `全${count}トピックをアルファベット順に。読む順については`,
+	contentsLinkText: '目次',
+	jumpToLetter: '文字へジャンプ',
+	searchMetaDescription: (bookTitle) => `${bookTitle}のすべてのトピックを検索。`,
+	searchIntro: (count) =>
+		`全${count}トピックを、タイトル、パート、概要、セクション見出しで検索。すべてブラウザ内で実行される——入力した内容がこのページから外に出ることはない。`,
+	searchInputLabel: 'トピックを検索',
+	searchPlaceholder: 'SROI、割引、成果あたりコスト…',
+	searchHintEmptyHtml: '入力して検索。<em>SROI</em>、<em>死荷重</em>、<em>バリュー・フォー・マネー</em>などを試してみること。',
+	noResultsPrefix: '一致するトピックがありません: ',
+	noResultsMiddle: '。より広い言葉を試すか、',
+	resultsCountSingular: 'トピック',
+	resultsCountPlural: 'トピック',
+	topicPosition: (index, total) => `トピック ${index} / ${total}`,
+	onThisPage: 'このページの内容',
+	paginationLabel: '本',
+	paginationPrevious: '前へ',
+	paginationNext: '次へ'
+};
+
 const TRANSLATIONS = {
 	'de-de': de,
+	'ja-jp': ja,
 	'es-es': es,
 	'es-001': es,
 	'fr-fr': fr,
