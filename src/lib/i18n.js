@@ -725,9 +725,61 @@ const ja = {
 	paginationNext: '次へ'
 };
 
+const ko = {
+	skipToContent: '콘텐츠로 건너뛰기',
+	navHome: '홈',
+	navContents: '목차',
+	navTopicsAZ: '주제 A–Z',
+	navSearch: '검색',
+	navAbout: '소개',
+	footerSourceLink: '소스',
+	footerTaglineSuffix:
+		' — 전 세계 정부와 사회 부문 조직을 위해 구축하는 소프트웨어 엔지니어를 위한 공공 가치의 수학, 사례, 그리고 추론.',
+	footerNote:
+		'이 책의 수치는 빠르게 오래된다. 각 주제는 본문 내에 그 벤치마크의 날짜를 명시한다. 실제 비즈니스 케이스에서 어떤 숫자든 사용하기 전에 재검증할 것.',
+	pickerTheme: '테마',
+	pickerLanguage: '언어',
+	pickerTextSize: '글자 크기',
+	pickerShare: '공유',
+	shareCopyLink: '링크 복사',
+	shareCopied: '복사됨',
+	shareCopyFailed: '복사 실패',
+	shareEmailLabel: '이메일로 링크 보내기',
+	shareLinkedinLabel: 'LinkedIn에 공유',
+	shareRedditLabel: 'Reddit에 공유',
+	shareBlueskyLabel: 'Bluesky에 공유',
+	shareMastodonLabel: 'Mastodon에 공유',
+	startHere: '여기서 시작',
+	startHereSubtitle: '다른 모든 것이 그 위에 세워지는 세 가지 생각.',
+	contentsMetaDescription: (bookTitle) => `${bookTitle}의 모든 주제를, 읽는 순서대로.`,
+	contentsIntro: (count, parts) =>
+		`${parts}개의 파트에 걸친, 읽는 순서의 전체 ${count}개 주제. 각 주제는 하나의 지표나 개념을 다룬다——정의, 중요한 이유, 계산식, 계산 예시, 소프트웨어 개발과의 연관성, 함정, 그리고 출처.`,
+	topicsCountSubtitle: (n) => `${n}개 주제`,
+	topicsMetaDescription: (bookTitle) => `${bookTitle}의 모든 주제를, A–Z 순서로.`,
+	topicsIntroPrefix: (count) => `전체 ${count}개 주제를 알파벳 순서로. 읽는 순서에 대해서는`,
+	contentsLinkText: '목차',
+	jumpToLetter: '문자로 이동',
+	searchMetaDescription: (bookTitle) => `${bookTitle}의 모든 주제를 검색.`,
+	searchIntro: (count) =>
+		`전체 ${count}개 주제를 제목, 파트, 요약, 섹션 제목으로 검색. 모든 것이 브라우저 안에서 실행된다——입력한 내용이 이 페이지를 벗어나지 않는다.`,
+	searchInputLabel: '주제 검색',
+	searchPlaceholder: 'SROI, 할인, 성과당 비용…',
+	searchHintEmptyHtml: '검색하려면 입력하세요. <em>SROI</em>, <em>사중손실</em>, 또는 <em>바리류 포 머니</em>를 시도해 보세요.',
+	noResultsPrefix: '일치하는 주제가 없습니다: ',
+	noResultsMiddle: '. 더 넓은 용어를 시도하거나, ',
+	resultsCountSingular: '주제',
+	resultsCountPlural: '주제',
+	topicPosition: (index, total) => `주제 ${index} / ${total}`,
+	onThisPage: '이 페이지의 내용',
+	paginationLabel: '책',
+	paginationPrevious: '이전',
+	paginationNext: '다음'
+};
+
 const TRANSLATIONS = {
 	'de-de': de,
 	'ja-jp': ja,
+	'ko-kr': ko,
 	'es-es': es,
 	'es-001': es,
 	'fr-fr': fr,

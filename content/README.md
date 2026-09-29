@@ -94,7 +94,7 @@ New here? Start with [public value](locales/en-gb-oxendict/topics/public-value/)
 
 ## Locales
 
-This book is maintained in twenty-eight locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. Every non-canonical locale keeps the *English* (`en-gb-oxendict`) slug for its topic directories — only the content is translated, never the directory name:
+This book is maintained in twenty-nine locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. Every non-canonical locale keeps the *English* (`en-gb-oxendict`) slug for its topic directories — only the content is translated, never the directory name:
 
 - `en-gb-oxendict` — English (Great Britain, Oxford spelling) — the canonical locale this README links into
 - `en-001` — English (World)
@@ -124,6 +124,7 @@ This book is maintained in twenty-eight locales, tracked across directories with
 - `pt-pt` — Português (Portugal) — content-identical to `pt-001`
 - `ur-pk` — اردو (Pakistan) — content-identical to `ur-001`
 - `id-id` — Bahasa Indonesia (Indonesia) — content-identical to `id-001`
+- `ko-kr` — 한국어 (Korea)
 
 See [locale-help](https://github.com/SixArm/locale-help) for the conventions this repo follows: locale directory naming, slug format, and the `.locale-peer-id` cross-locale tracking file.
 

@@ -32,7 +32,8 @@ export const LOCALE_LABELS = {
 	'ru-ru': 'Русский - Россия',
 	'pt-pt': 'Português - Portugal',
 	'ur-pk': 'اردو - پاکستان',
-	'id-id': 'Bahasa Indonesia - Indonesia'
+	'id-id': 'Bahasa Indonesia - Indonesia',
+	'ko-kr': '한국어 - 대한민국'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';
