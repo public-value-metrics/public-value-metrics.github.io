@@ -776,10 +776,62 @@ const ko = {
 	paginationNext: '다음'
 };
 
+const sv = {
+	skipToContent: 'Hoppa till innehåll',
+	navHome: 'Hem',
+	navContents: 'Innehåll',
+	navTopicsAZ: 'Ämnen A–Ö',
+	navSearch: 'Sök',
+	navAbout: 'Om',
+	footerSourceLink: 'Källa',
+	footerTaglineSuffix:
+		' — matematik, exempel och resonemang om offentligt värde för mjukvaruingenjörer som bygger för statliga och sociala sektorns organisationer världen över.',
+	footerNote:
+		'Siffror i denna bok blir snabbt föråldrade. Varje ämne daterar sina jämförelsevärden i texten; verifiera på nytt innan du använder något tal i ett verkligt affärsärende.',
+	pickerTheme: 'Tema',
+	pickerLanguage: 'Språk',
+	pickerTextSize: 'Textstorlek',
+	pickerShare: 'Dela',
+	shareCopyLink: 'Kopiera länk',
+	shareCopied: 'Kopierat',
+	shareCopyFailed: 'Kopiering misslyckades',
+	shareEmailLabel: 'Skicka länk via e-post',
+	shareLinkedinLabel: 'Dela på LinkedIn',
+	shareRedditLabel: 'Dela på Reddit',
+	shareBlueskyLabel: 'Dela på Bluesky',
+	shareMastodonLabel: 'Dela på Mastodon',
+	startHere: 'Börja här',
+	startHereSubtitle: 'De tre idéerna allt annat bygger på.',
+	contentsMetaDescription: (bookTitle) => `Alla ämnen i ${bookTitle}, i läsordning.`,
+	contentsIntro: (count, parts) =>
+		`Alla ${count} ämnen i läsordning, över ${parts} delar. Varje ämne täcker ett mått eller koncept: definition, varför det spelar roll, matematiken, ett genomräknat exempel, kopplingen till mjukvaruutveckling, fallgropar och källor.`,
+	topicsCountSubtitle: (n) => `${n} ämnen`,
+	topicsMetaDescription: (bookTitle) => `Alla ämnen i ${bookTitle}, listade A till Ö.`,
+	topicsIntroPrefix: (count) => `Alla ${count} ämnen i alfabetisk ordning. För läsordning, se`,
+	contentsLinkText: 'innehållet',
+	jumpToLetter: 'Hoppa till bokstav',
+	searchMetaDescription: (bookTitle) => `Sök i alla ämnen i ${bookTitle}.`,
+	searchIntro: (count) =>
+		`Sök bland alla ${count} ämnen efter titel, del, sammanfattning och avsnittsrubrik. Allt körs i din webbläsare — inget du skriver lämnar denna sida.`,
+	searchInputLabel: 'Sök ämnen',
+	searchPlaceholder: 'SROI, diskontering, kostnad per utfall…',
+	searchHintEmptyHtml: 'Skriv för att söka. Prova <em>SROI</em>, <em>dödviktsförlust</em>, eller <em>valuta för pengarna</em>.',
+	noResultsPrefix: 'Inga ämnen matchar ',
+	noResultsMiddle: '. Prova en bredare term, eller bläddra i ',
+	resultsCountSingular: 'ämne',
+	resultsCountPlural: 'ämnen',
+	topicPosition: (index, total) => `Ämne ${index} av ${total}`,
+	onThisPage: 'På denna sida',
+	paginationLabel: 'Bok',
+	paginationPrevious: 'Föregående',
+	paginationNext: 'Nästa'
+};
+
 const TRANSLATIONS = {
 	'de-de': de,
 	'ja-jp': ja,
 	'ko-kr': ko,
+	'sv-se': sv,
 	'es-es': es,
 	'es-001': es,
 	'fr-fr': fr,
