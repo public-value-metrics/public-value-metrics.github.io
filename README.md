@@ -8,7 +8,7 @@ Published at <https://public-value-metrics.github.io/>.
 
 A [SvelteKit](https://svelte.dev/docs/kit) site built with [adapter-static](https://svelte.dev/docs/kit/adapter-static). Every page is prerendered to plain HTML at build time, so GitHub Pages serves files and nothing else — no server, no database, no tracking.
 
-The book's Markdown is **vendored** into `content/` rather than read across repositories, so a fresh clone builds on its own. The site's user interface is built from the [Lily Design System](https://github.com/LilyDesignSystem): the headless components and the theme/locale/text-size/share pickers are ordinary npm dependencies (`@lilydesignsystem/svelte-headless`, `@lilydesignsystem/svelte-picker-bar`), imported from `node_modules` like any other package. Only the theme stylesheets are vendored, into `static/assets/themes/`, because Lily does not publish those as an npm package.
+The book's Markdown is **vendored** into `content/` rather than read across repositories, so a fresh clone builds on its own. The site's user interface is built from the [Lily Design System](https://github.com/LilyDesignSystem): the headless components, the theme/locale/text-size/share pickers, and the theme stylesheets (`@lilydesignsystem/themes`) are all ordinary npm dependencies — see `package.json`. The theme stylesheets are CSS, not JS, so they can't be `import`ed like the components; `bin/sync-themes.mjs` copies them from `node_modules` into `static/assets/themes/` automatically on every `pnpm install` (see `postinstall`), so that directory is gitignored rather than committed.
 
 ### The book's README is the table of contents
 
@@ -37,32 +37,29 @@ pnpm run preview
 ## Sync from upstream
 
 ```sh
-pnpm run sync           # both of the below
-pnpm run sync:content   # book Markdown -> content/
-pnpm run sync:lily      # Lily themes  -> static/assets/themes
+pnpm run sync           # book Markdown -> content/
 ```
 
-Both scripts default to sibling checkouts and can be pointed elsewhere:
+The book sync defaults to a sibling checkout and can be pointed elsewhere:
 
 ```sh
 BOOK=/path/to/public-value-metrics pnpm run sync:content
-LILY=/path/to/lily-design-system pnpm run sync:lily
 ```
 
-Vendored files carry a "do not edit here" banner. Change them upstream, then re-sync. The Lily components themselves are not vendored — bump `@lilydesignsystem/svelte-headless` and `@lilydesignsystem/svelte-picker-bar` in `package.json` instead.
+Vendored content carries a "do not edit here" banner. Change it upstream, then re-sync. Lily theme stylesheets are not vendored by hand any more — bump `@lilydesignsystem/themes` in `package.json` and reinstall, same as any other Lily dependency (`@lilydesignsystem/svelte-headless`, `@lilydesignsystem/svelte-picker-bar`, ...).
 
 ## Layout
 
 ```
 bin/sync-content.mjs   vendor the book's Markdown into content/
-bin/vendor-lily.mjs    vendor Lily's theme stylesheets (components are npm deps)
+bin/sync-themes.mjs    copy Lily's theme CSS from node_modules into static/ (postinstall)
 content/               the book, verbatim (generated — do not edit)
 src/lib/markdown.js    Markdown -> HTML: link rewriting, heading ids
 src/lib/paths.js       content path <-> site route mapping
 src/lib/server/        content access and book structure (server-only)
 src/routes/            home, contents, topics A-Z, topic pages, search, about
 static/assets/style.css  the site's own styling; Lily ships none
-static/assets/themes/  vendored Lily themes, swapped by the theme picker
+static/assets/themes/  Lily theme CSS, synced from node_modules (generated — do not edit, not committed)
 ```
 
 The Lily headless components (`ArticleLayout`, `Header`, `Card`, ...) come from `@lilydesignsystem/svelte-headless`; the header's theme/locale/text-size/share row comes from `@lilydesignsystem/svelte-picker-bar`. Both are regular npm dependencies — see `package.json`.
@@ -79,7 +76,7 @@ Every locale keeps the book's English slugs for its topic directories (only the 
 
 All Lily default themes ship in `static/assets/themes/` — not a curated subset. `PickerBar` offers them in its own default order, so the site never hand-maintains a theme list. The site's stylesheet is written against Lily's semantic tokens (`--lily-surface`, `--lily-text`, `--lily-space-*`), so every theme works without a per-theme branch. Theme and text size choices persist in the reader's browser.
 
-`pnpm run sync:lily` re-vendors every theme stylesheet found in the Lily checkout's `themes/` directory — there is no per-site curation to edit.
+`bin/sync-themes.mjs` re-copies every theme stylesheet the `@lilydesignsystem/themes` package ships, on every `pnpm install` — there is no per-site curation to edit.
 
 ## Deploy
 

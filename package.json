@@ -7,13 +7,12 @@
   "license": "ISC",
   "packageManager": "pnpm@11.0.8",
   "scripts": {
-    "sync": "node bin/sync-content.mjs && node bin/vendor-lily.mjs",
+    "sync": "node bin/sync-content.mjs",
     "sync:content": "node bin/sync-content.mjs",
-    "sync:lily": "node bin/vendor-lily.mjs",
     "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
-    "postinstall": "node bin/fix-lily-picker-resolution.mjs"
+    "postinstall": "node bin/fix-lily-picker-resolution.mjs && node bin/sync-themes.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.10",
@@ -30,6 +29,7 @@
     "@lilydesignsystem/svelte-theme-picker": "0.1.2",
     "@lilydesignsystem/svelte-text-size-picker": "0.1.2",
     "@lilydesignsystem/svelte-share-picker": "0.1.2",
+    "@lilydesignsystem/themes": "0.1.0",
     "github-slugger": "^2.0.0",
     "marked": "^18.0.10"
   }

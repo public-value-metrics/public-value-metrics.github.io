@@ -26,6 +26,9 @@ importers:
       '@lilydesignsystem/svelte-theme-picker':
         specifier: 0.1.2
         version: 0.1.2(svelte@5.57.1)
+      '@lilydesignsystem/themes':
+        specifier: 0.1.0
+        version: 0.1.0
       github-slugger:
         specifier: ^2.0.0
         version: 2.0.0
@@ -135,6 +138,10 @@ packages:
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
+
+  '@lilydesignsystem/themes@0.1.0':
+    resolution: {integrity: sha512-Oa52SvChIe0kE7g0xqa+XUkXO4Bi6GRJmOvPjDWkk+zJ9W2O1N1DZk0l8/BEsAGUMSZZBDL+IobTfR0Ps20DmA==}
+    engines: {node: '=26'}
 
   '@oxc-project/types@0.151.0':
     resolution: {integrity: sha512-J1yXrIlNDZVzE3ada310xeAw7nH8yCAyLPuUIsjKatFPmfn5bS1oW+cM+QsGOtVWd5nhSpbwZWx/rue+r5Z+PA==}
@@ -631,6 +638,8 @@ snapshots:
     dependencies:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
+
+  '@lilydesignsystem/themes@0.1.0': {}
 
   '@oxc-project/types@0.151.0': {}
 
