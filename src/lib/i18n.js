@@ -827,10 +827,62 @@ const sv = {
 	paginationNext: 'Nästa'
 };
 
+const nl = {
+	skipToContent: 'Ga naar inhoud',
+	navHome: 'Home',
+	navContents: 'Inhoud',
+	navTopicsAZ: 'Onderwerpen A-Z',
+	navSearch: 'Zoeken',
+	navAbout: 'Over',
+	footerSourceLink: 'Bron',
+	footerTaglineSuffix:
+		' — wiskunde, voorbeelden, en redenering over public value voor softwareingenieurs die bouwen voor overheids- en socialesectororganisaties wereldwijd.',
+	footerNote:
+		'Cijfers in dit boek verouderen snel. Elk onderwerp dateert zijn benchmarks in de tekst; verifieer opnieuw voordat je enig cijfer gebruikt in een echte businesscase.',
+	pickerTheme: 'Thema',
+	pickerLanguage: 'Taal',
+	pickerTextSize: 'Tekstgrootte',
+	pickerShare: 'Delen',
+	shareCopyLink: 'Link kopiëren',
+	shareCopied: 'Gekopieerd',
+	shareCopyFailed: 'Kopiëren mislukt',
+	shareEmailLabel: 'Link versturen via e-mail',
+	shareLinkedinLabel: 'Delen op LinkedIn',
+	shareRedditLabel: 'Delen op Reddit',
+	shareBlueskyLabel: 'Delen op Bluesky',
+	shareMastodonLabel: 'Delen op Mastodon',
+	startHere: 'Begin hier',
+	startHereSubtitle: 'De drie ideeën waarop alles anders bouwt.',
+	contentsMetaDescription: (bookTitle) => `Alle onderwerpen in ${bookTitle}, in leesvolgorde.`,
+	contentsIntro: (count, parts) =>
+		`Alle ${count} onderwerpen in leesvolgorde, over ${parts} delen. Elk onderwerp behandelt een maatstaf of concept: definitie, waarom het ertoe doet, de berekening, een uitgewerkt voorbeeld, het verband met softwareontwikkeling, valkuilen, en bronnen.`,
+	topicsCountSubtitle: (n) => `${n} onderwerpen`,
+	topicsMetaDescription: (bookTitle) => `Alle onderwerpen in ${bookTitle}, alfabetisch gerangschikt.`,
+	topicsIntroPrefix: (count) => `Alle ${count} onderwerpen in alfabetische volgorde. Voor leesvolgorde, zie`,
+	contentsLinkText: 'de inhoud',
+	jumpToLetter: 'Ga naar letter',
+	searchMetaDescription: (bookTitle) => `Zoek in alle onderwerpen van ${bookTitle}.`,
+	searchIntro: (count) =>
+		`Zoek door alle ${count} onderwerpen op titel, deel, samenvatting, en sectiekop. Alles draait in je browser — niets dat je typt verlaat deze pagina.`,
+	searchInputLabel: 'Onderwerpen zoeken',
+	searchPlaceholder: 'SROI, discontering, kosten per uitkomst…',
+	searchHintEmptyHtml: 'Typ om te zoeken. Probeer <em>SROI</em>, <em>deadweight</em>, of <em>value for money</em>.',
+	noResultsPrefix: 'Geen onderwerpen komen overeen met ',
+	noResultsMiddle: '. Probeer een bredere term, of blader door ',
+	resultsCountSingular: 'onderwerp',
+	resultsCountPlural: 'onderwerpen',
+	topicPosition: (index, total) => `Onderwerp ${index} van ${total}`,
+	onThisPage: 'Op deze pagina',
+	paginationLabel: 'Boek',
+	paginationPrevious: 'Vorige',
+	paginationNext: 'Volgende'
+};
+
 const TRANSLATIONS = {
 	'de-de': de,
 	'ja-jp': ja,
 	'ko-kr': ko,
+	'nl-nl': nl,
 	'sv-se': sv,
 	'es-es': es,
 	'es-001': es,

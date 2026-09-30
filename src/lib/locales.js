@@ -34,7 +34,8 @@ export const LOCALE_LABELS = {
 	'ur-pk': 'اردو - پاکستان',
 	'id-id': 'Bahasa Indonesia - Indonesia',
 	'ko-kr': '한국어 - 대한민국',
-	'sv-se': 'Svenska - Sverige'
+	'sv-se': 'Svenska - Sverige',
+	'nl-nl': 'Nederlands - Nederland'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';
