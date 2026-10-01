@@ -24,6 +24,7 @@ export const LOCALE_LABELS = {
 	'ur-001': 'اردو',
 	'de-de': 'Deutsch - Deutschland',
 	'ja-jp': '日本語 - 日本',
+	'ja-001': '日本語',
 	'ar-eg': 'العربية - مصر',
 	'bn-bd': 'বাংলা - বাংলাদেশ',
 	'hi-in': 'हिन्दी - भारत',
