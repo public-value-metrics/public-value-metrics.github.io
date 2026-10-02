@@ -94,7 +94,7 @@ New here? Start with [public value](locales/en-gb-oxendict/topics/public-value/)
 
 ## Locales
 
-This book is maintained in thirty-two locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. Every non-canonical locale keeps the *English* (`en-gb-oxendict`) slug for its topic directories — only the content is translated, never the directory name:
+This book is maintained in thirty-three locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. Every non-canonical locale keeps the *English* (`en-gb-oxendict`) slug for its topic directories — only the content is translated, never the directory name:
 
 - `en-gb-oxendict` — English (Great Britain, Oxford spelling) — the canonical locale this README links into
 - `en-001` — English (World)
@@ -114,6 +114,7 @@ This book is maintained in thirty-two locales, tracked across directories with a
 - `id-001` — Indonesian (World)
 - `ur-001` — Urdu (World)
 - `de-de` — Deutsch (Germany)
+- `de-001` — Deutsch (World) — content-identical to `de-de`; this book has no Germany-specific subject matter
 - `ja-jp` — 日本語 (Japan)
 - `ja-001` — 日本語 (World) — content-identical to `ja-jp`; this book has no Japan-specific subject matter
 - `ar-eg` — العربية (Egypt) — content-identical to `ar-001`; this book has no Egypt-specific subject matter

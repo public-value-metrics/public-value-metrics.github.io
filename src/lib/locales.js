@@ -23,6 +23,7 @@ export const LOCALE_LABELS = {
 	'id-001': 'Bahasa Indonesia',
 	'ur-001': 'اردو',
 	'de-de': 'Deutsch - Deutschland',
+	'de-001': 'Deutsch',
 	'ja-jp': '日本語 - 日本',
 	'ja-001': '日本語',
 	'ar-eg': 'العربية - مصر',

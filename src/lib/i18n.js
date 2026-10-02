@@ -880,6 +880,7 @@ const nl = {
 
 const TRANSLATIONS = {
 	'de-de': de,
+	'de-001': de,
 	'ja-jp': ja,
 	'ja-001': ja,
 	'ko-kr': ko,
