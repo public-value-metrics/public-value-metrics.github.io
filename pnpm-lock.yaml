@@ -12,8 +12,8 @@ importers:
         specifier: ^0.2.0
         version: 0.2.0(svelte@5.57.1)
       '@lilydesignsystem/svelte-locale-picker':
-        specifier: 0.1.2
-        version: 0.1.2(svelte@5.57.1)
+        specifier: 0.1.3
+        version: 0.1.3(svelte@5.57.1)
       '@lilydesignsystem/svelte-picker-bar':
         specifier: ^0.1.0
         version: 0.1.0(svelte@5.57.1)
@@ -81,6 +81,12 @@ packages:
 
   '@lilydesignsystem/svelte-locale-picker@0.1.2':
     resolution: {integrity: sha512-vFaQiIOtp5S9HKzcWwVhQWu0mesbo2gbhpV9AWODkhMEuAvHiCdjuIgZwGCQKXXphCP/84laEFuuGBxkJ7DmEA==}
+    engines: {node: '=26'}
+    peerDependencies:
+      svelte: ^5.0.0
+
+  '@lilydesignsystem/svelte-locale-picker@0.1.3':
+    resolution: {integrity: sha512-HzOx7G/EwOY3iqXefu4GB8r9Y3+xs1Qukr8RoOgLBAN+3SJl5cNGIxjbd4eJo/ivVXVIADq9ZVNVhervGCTRsg==}
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
@@ -547,6 +553,11 @@ snapshots:
       svelte: 5.57.1
 
   '@lilydesignsystem/svelte-locale-picker@0.1.2(svelte@5.57.1)':
+    dependencies:
+      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
+      svelte: 5.57.1
+
+  '@lilydesignsystem/svelte-locale-picker@0.1.3(svelte@5.57.1)':
     dependencies:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
