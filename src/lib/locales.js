@@ -36,6 +36,7 @@ export const LOCALE_LABELS = {
 	'ur-pk': 'اردو - پاکستان',
 	'id-id': 'Bahasa Indonesia - Indonesia',
 	'ko-kr': '한국어 - 대한민국',
+	'ko-001': '한국어',
 	'sv-se': 'Svenska - Sverige',
 	'sv-001': 'Svenska',
 	'nl-nl': 'Nederlands - Nederland'

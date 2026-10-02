@@ -884,6 +884,7 @@ const TRANSLATIONS = {
 	'ja-jp': ja,
 	'ja-001': ja,
 	'ko-kr': ko,
+	'ko-001': ko,
 	'nl-nl': nl,
 	'sv-se': sv,
 	'sv-001': sv,
