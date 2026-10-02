@@ -10,7 +10,7 @@
     "sync": "node bin/sync-content.mjs",
     "sync:content": "node bin/sync-content.mjs",
     "dev": "vite dev",
-    "build": "vite build",
+    "build": "vite build && node scripts/build-search-index.mjs build",
     "preview": "vite preview",
     "postinstall": "node bin/fix-lily-picker-resolution.mjs && node bin/sync-themes.mjs"
   },
