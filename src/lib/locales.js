@@ -40,7 +40,8 @@ export const LOCALE_LABELS = {
 	'sv-se': 'Svenska - Sverige',
 	'sv-001': 'Svenska',
 	'nl-nl': 'Nederlands - Nederland',
-	'nl-001': 'Nederlands'
+	'nl-001': 'Nederlands',
+	'vi-001': 'Tiếng Việt'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';

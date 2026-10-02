@@ -878,7 +878,59 @@ const nl = {
 	paginationNext: 'Volgende'
 };
 
+const vi = {
+	skipToContent: 'Chuyển đến nội dung',
+	navHome: 'Trang chủ',
+	navContents: 'Mục lục',
+	navTopicsAZ: 'Chủ đề A–Z',
+	navSearch: 'Tìm kiếm',
+	navAbout: 'Giới thiệu',
+	footerSourceLink: 'Nguồn',
+	footerTaglineSuffix:
+		' — toán học, các ví dụ, và lý luận về giá trị công cho các kỹ sư phần mềm xây dựng cho các tổ chức chính phủ và khu vực xã hội trên toàn thế giới.',
+	footerNote:
+		'Các số liệu trong cuốn sách này nhanh chóng lỗi thời. Mỗi chủ đề ghi ngày các benchmark của nó trong văn bản; xác minh lại trước khi sử dụng bất kỳ con số trong một trường hợp kinh doanh trực tiếp.',
+	pickerTheme: 'Chủ đề',
+	pickerLanguage: 'Ngôn ngữ',
+	pickerTextSize: 'Kích thước văn bản',
+	pickerShare: 'Chia sẻ',
+	shareCopyLink: 'Sao chép liên kết',
+	shareCopied: 'Đã sao chép',
+	shareCopyFailed: 'Sao chép thất bại',
+	shareEmailLabel: 'Gửi liên kết qua email',
+	shareLinkedinLabel: 'Chia sẻ trên LinkedIn',
+	shareRedditLabel: 'Chia sẻ trên Reddit',
+	shareBlueskyLabel: 'Chia sẻ trên Bluesky',
+	shareMastodonLabel: 'Chia sẻ trên Mastodon',
+	startHere: 'Bắt đầu ở đây',
+	startHereSubtitle: 'Ba ý tưởng mà mọi thứ khác xây dựng trên.',
+	contentsMetaDescription: (bookTitle) => `Mọi chủ đề trong ${bookTitle}, theo thứ tự đọc.`,
+	contentsIntro: (count, parts) =>
+		`Tất cả ${count} chủ đề theo thứ tự đọc, trên ${parts} phần. Mỗi chủ đề bao gồm một thước đo hoặc khái niệm: định nghĩa, tại sao nó quan trọng, toán học, một ví dụ minh họa, liên hệ với phát triển phần mềm, các cạm bẫy, và nguồn tham khảo.`,
+	topicsCountSubtitle: (n) => `${n} chủ đề`,
+	topicsMetaDescription: (bookTitle) => `Mọi chủ đề trong ${bookTitle}, được liệt kê từ A đến Z.`,
+	topicsIntroPrefix: (count) => `Tất cả ${count} chủ đề theo thứ tự chữ cái. Đối với thứ tự đọc, xem`,
+	contentsLinkText: 'mục lục',
+	jumpToLetter: 'Chuyển đến chữ cái',
+	searchMetaDescription: (bookTitle) => `Tìm kiếm mọi chủ đề trong ${bookTitle}.`,
+	searchIntro: (count) =>
+		`Tìm kiếm tất cả ${count} chủ đề theo tiêu đề, phần, tóm tắt, và tiêu đề mục. Mọi thứ chạy trong trình duyệt của bạn — không có gì bạn nhập rời khỏi trang này.`,
+	searchInputLabel: 'Tìm kiếm chủ đề',
+	searchPlaceholder: 'SROI, chiết khấu, chi phí mỗi kết quả…',
+	searchHintEmptyHtml: 'Nhập để tìm kiếm. Thử <em>SROI</em>, <em>trọng lượng chết</em>, hoặc <em>giá trị đồng tiền</em>.',
+	noResultsPrefix: 'Không có chủ đề nào khớp ',
+	noResultsMiddle: '. Thử một thuật ngữ rộng hơn, hoặc duyệt ',
+	resultsCountSingular: 'chủ đề',
+	resultsCountPlural: 'chủ đề',
+	topicPosition: (index, total) => `Chủ đề ${index} của ${total}`,
+	onThisPage: 'Trên trang này',
+	paginationLabel: 'Sách',
+	paginationPrevious: 'Trước',
+	paginationNext: 'Tiếp theo'
+};
+
 const TRANSLATIONS = {
+	'vi-001': vi,
 	'de-de': de,
 	'de-001': de,
 	'ja-jp': ja,
