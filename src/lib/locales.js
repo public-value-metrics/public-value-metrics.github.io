@@ -39,7 +39,8 @@ export const LOCALE_LABELS = {
 	'ko-001': '한국어',
 	'sv-se': 'Svenska - Sverige',
 	'sv-001': 'Svenska',
-	'nl-nl': 'Nederlands - Nederland'
+	'nl-nl': 'Nederlands - Nederland',
+	'nl-001': 'Nederlands'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';
