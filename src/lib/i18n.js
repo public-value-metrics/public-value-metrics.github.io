@@ -886,6 +886,7 @@ const TRANSLATIONS = {
 	'ko-kr': ko,
 	'nl-nl': nl,
 	'sv-se': sv,
+	'sv-001': sv,
 	'es-es': es,
 	'es-001': es,
 	'fr-fr': fr,
