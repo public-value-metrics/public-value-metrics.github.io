@@ -15,11 +15,11 @@
     "postinstall": "node bin/fix-lily-picker-resolution.mjs && node bin/sync-themes.mjs"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^3.0.10",
-    "@sveltejs/kit": "^2.70.3",
+    "@sveltejs/adapter-static": "^4.0.0",
+    "@sveltejs/kit": "^3.0.0",
     "@sveltejs/vite-plugin-svelte": "^7.3.1",
     "svelte": "^5.57.1",
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.3",
     "vite": "^8.3.1"
   },
   "dependencies": {
@@ -32,5 +32,9 @@
     "@lilydesignsystem/themes": "0.1.0",
     "github-slugger": "^2.0.0",
     "marked": "^18.0.14"
+  },
+  "imports": {
+    "#lib": "./src/lib/index.js",
+    "#lib/*": "./src/lib/*"
   }
 }

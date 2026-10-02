@@ -1,5 +1,5 @@
 <script>
-	import { base } from '$app/paths';
+	import { resolve } from '$app/paths';
 
 	let { data } = $props();
 </script>
@@ -27,8 +27,9 @@
 			engineering connection, pitfalls, and sources.
 		</p>
 		<p>
-			Pick a language from the <a href="{base}/">home page</a>, then use that locale's contents
-			page for reading order, its A–Z index to look one thing up, or its search.
+			Pick a language from the 
+			<a href={resolve('')}>home page</a>
+			, then use that locale's contents page for reading order, its A–Z index to look one thing up, or its search.
 		</p>
 
 		<h2>Benchmark freshness</h2>
