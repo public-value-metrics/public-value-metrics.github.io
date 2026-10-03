@@ -44,6 +44,28 @@ export function locales() {
 	return [...set].sort();
 }
 
+const WORLD_LOCALE = /^([a-z]{2})-001$/;
+
+/**
+ * Two-letter alias -> its "World" locale ("en" -> "en-001"), for every locale
+ * family that has a `*-001` variant. Lets a reader type the bare language
+ * code and land on that language's World edition, without a second,
+ * independently-maintained copy of the content at the two-letter path — see
+ * the [locale] layout, which redirects an alias to its target rather than
+ * rendering it directly.
+ */
+export function localeAliases() {
+	const map = {};
+	for (const locale of locales()) {
+		const m = WORLD_LOCALE.exec(locale);
+		// Only when the bare two-letter code isn't itself a real locale (it
+		// never is, in this book, but checking keeps an alias from ever
+		// shadowing a genuine one if that changes).
+		if (m && !locales().includes(m[1])) map[m[1]] = locale;
+	}
+	return map;
+}
+
 /** Every topic slug present in a locale's topics/, sorted A-Z. */
 export function topicSlugs(locale) {
 	const prefix = `locales/${locale}/topics/`;

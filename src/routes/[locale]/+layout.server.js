@@ -1,12 +1,22 @@
-import { error } from '@sveltejs/kit';
+import { error, redirect } from '@sveltejs/kit';
+import { resolve } from '$app/paths';
 import { book } from '#lib/server/book.js';
-import { locales } from '#lib/server/content.js';
+import { locales, localeAliases } from '#lib/server/content.js';
 
 // `entries()` for the [locale] segment lives in +page.server.js (this
 // directory's own) and in topics/[slug]/+page.server.js — `entries()` is only
 // a valid export from +page.js/+page.server.js/+server.js, not from a layout.
 
-export function load({ params }) {
+export function load({ params, url }) {
+	const aliasTarget = localeAliases()[params.locale];
+	if (aliasTarget) {
+		// A bare two-letter code ("en") for a "World" locale ("en-001") — one
+		// canonical address per locale, so redirect rather than rendering the
+		// same content under two URLs. Runs for every route under [locale],
+		// so the whole subtree (not just the locale root) follows the alias.
+		const tail = url.pathname.slice(`/${params.locale}`.length) || '/';
+		redirect(301, resolve(`${aliasTarget}${tail}`));
+	}
 	if (!locales().includes(params.locale)) {
 		error(404, `Unknown locale: ${params.locale}`);
 	}

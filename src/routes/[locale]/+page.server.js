@@ -1,6 +1,6 @@
 import { render } from '#lib/markdown.js';
 import { book, localizeHtml, readmeSource } from '#lib/server/book.js';
-import { locales } from '#lib/server/content.js';
+import { locales, localeAliases } from '#lib/server/content.js';
 
 // This is the first page reached for each locale, so its entries() drives
 // prerendering for the whole [locale] subtree: the crawler discovers
@@ -8,8 +8,12 @@ import { locales } from '#lib/server/content.js';
 // the shared layout) renders. Only topics/[slug] needs its own entries(),
 // since slugs vary by locale in a way a plain crawl still handles fine, but
 // declaring it explicitly is more robust (see that file).
+//
+// Each two-letter alias ("en") is entered too, so its redirect page (see the
+// layout) gets prerendered — the alias never reaches this file's own load(),
+// since the layout's redirect runs first and short-circuits it.
 export function entries() {
-	return locales().map((locale) => ({ locale }));
+	return [...locales(), ...Object.keys(localeAliases())].map((locale) => ({ locale }));
 }
 
 export function load({ params }) {

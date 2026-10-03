@@ -194,6 +194,10 @@
 		<p class="site-footer-note">
 			{t.footerNote}
 		</p>
+		<p>
+			{t.footerLedBy}
+			<a href="https://linkedin.com/in/joelparkerhenderson" rel="noopener">Joel Parker Henderson</a>.
+		</p>
 		<nav class="site-footer-links" aria-label="Footer">
 			{#if locale}
 				<a href={resolve(`${locale}/contents/`)}>{t.navContents}</a>

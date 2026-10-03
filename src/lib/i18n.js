@@ -20,6 +20,7 @@ const EN = {
 		' — public value math, examples, and reasoning for software engineers building for governmental and social sector organizations worldwide.',
 	footerNote:
 		'Figures in this book date quickly. Each topic dates its benchmarks in-line; re-verify before using any number in a live business case.',
+	footerLedBy: 'Led by',
 	pickerTheme: 'Theme',
 	pickerLanguage: 'Language',
 	pickerTextSize: 'Text size',
