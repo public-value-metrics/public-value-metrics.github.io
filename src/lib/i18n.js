@@ -980,9 +980,61 @@ const da = {
 	paginationNext: 'Næste'
 };
 
+const et = {
+	skipToContent: 'Liigu edasi sisu juurde',
+	navHome: 'Avaleht',
+	navContents: 'Sisukord',
+	navTopicsAZ: 'Teemad A–Ü',
+	navSearch: 'Otsing',
+	navAbout: 'Teave',
+	footerSourceLink: 'Allikas',
+	footerTaglineSuffix:
+		' — avaliku väärtuse matemaatika, näited, ja arutluskäik tarkvarainseneridele, kes ehitavad statslikele ja sotsiaalsektori organisatsioonidele üle maailma.',
+	footerNote:
+		'Selle raamatu numbrid vananevad kiiresti. Iga teema dateerib oma benchmarkid tekstis; verifitseeri uuesti, enne kui kasutad mistahes numbrit live äriJuhtumis.',
+	pickerTheme: 'Teema',
+	pickerLanguage: 'Keel',
+	pickerTextSize: 'Teksti suurus',
+	pickerShare: 'Jaga',
+	shareCopyLink: 'Kopeeri link',
+	shareCopied: 'Kopeeritud',
+	shareCopyFailed: 'Kopeerimine ebaõnnestus',
+	shareEmailLabel: 'Saada link e-mailiga',
+	shareLinkedinLabel: 'Jaga LinkedIn\'is',
+	shareRedditLabel: 'Jaga Reddit\'is',
+	shareBlueskyLabel: 'Jaga Bluesky\'l',
+	shareMastodonLabel: 'Jaga Mastodon\'il',
+	startHere: 'Alusta siit',
+	startHereSubtitle: 'Kolm ideed, millele kõik muu ehitab.',
+	contentsMetaDescription: (bookTitle) => `Iga teema ${bookTitle}'s, lugemisJärjekorras.`,
+	contentsIntro: (count, parts) =>
+		`Kõik ${count} teemat lugemisJärjekorras, üle ${parts} osa. Iga teema katab mõõdiku või kontseptsiooni: definitsioon, miks see on oluline, matemaatika, läbitöötatud näide, seos tarkvaraarendusega, lõksud, ja allikad.`,
+	topicsCountSubtitle: (n) => `${n} teemat`,
+	topicsMetaDescription: (bookTitle) => `Iga teema ${bookTitle}'s, loetletud A kuni Ü.`,
+	topicsIntroPrefix: (count) => `Kõik ${count} teemat tähestikulises järjekorras. LugemisJärjekorra jaoks, vaata`,
+	contentsLinkText: 'sisukorda',
+	jumpToLetter: 'Liigu tähe juurde',
+	searchMetaDescription: (bookTitle) => `Otsi igast teemast ${bookTitle}'s.`,
+	searchIntro: (count) =>
+		`Otsi kõigist ${count} teemast pealkirja, osa, kokkuvõtte, ja sektsiooniPealkirjade järgi. Kõik jookseb teie brauseris — mitte midagi, mida sisestate, ei lahku sellelt lehelt.`,
+	searchInputLabel: 'Otsi teemasid',
+	searchPlaceholder: 'SROI, diskonteerimine, kulu tulemuse kohta…',
+	searchHintEmptyHtml: 'Kirjuta otsimiseks. Proovi <em>SROI</em>, <em>surnud kaal</em>, või <em>value for money</em>.',
+	noResultsPrefix: 'Ükski teema ei vasta ',
+	noResultsMiddle: '. Proovi laiemat termini, või sirvi ',
+	resultsCountSingular: 'teema',
+	resultsCountPlural: 'teemat',
+	topicPosition: (index, total) => `Teema ${index} ${total}-st`,
+	onThisPage: 'Sellel lehel',
+	paginationLabel: 'Raamat',
+	paginationPrevious: 'Eelmine',
+	paginationNext: 'Järgmine'
+};
+
 const TRANSLATIONS = {
 	'vi-001': vi,
 	'da-001': da,
+	'et-001': et,
 	'de-de': de,
 	'de-001': de,
 	'ja-jp': ja,
