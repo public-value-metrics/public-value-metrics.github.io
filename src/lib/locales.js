@@ -43,7 +43,8 @@ export const LOCALE_LABELS = {
 	'nl-001': 'Nederlands',
 	'vi-001': 'Tiếng Việt',
 	'da-001': 'Dansk',
-	'et-001': 'Eesti'
+	'et-001': 'Eesti',
+	'it-001': 'Italiano'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';

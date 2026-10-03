@@ -1031,10 +1031,62 @@ const et = {
 	paginationNext: 'Järgmine'
 };
 
+const it = {
+	skipToContent: 'Vai al contenuto',
+	navHome: 'Home',
+	navContents: 'Indice',
+	navTopicsAZ: 'Argomenti A-Z',
+	navSearch: 'Ricerca',
+	navAbout: 'Informazioni',
+	footerSourceLink: 'Fonte',
+	footerTaglineSuffix:
+		' — la matematica, gli esempi, e il ragionamento del valore pubblico per ingegneri software che costruiscono per organizzazioni statali e del settore sociale in tutto il mondo.',
+	footerNote:
+		'I numeri in questo libro invecchiano rapidamente. Ogni argomento data i propri benchmark nel testo; verifica di nuovo prima di usare qualsiasi numero in un caso aziendale in produzione.',
+	pickerTheme: 'Tema',
+	pickerLanguage: 'Lingua',
+	pickerTextSize: 'Dimensione testo',
+	pickerShare: 'Condividi',
+	shareCopyLink: 'Copia link',
+	shareCopied: 'Copiato',
+	shareCopyFailed: 'Copia fallita',
+	shareEmailLabel: 'Invia link via email',
+	shareLinkedinLabel: 'Condividi su LinkedIn',
+	shareRedditLabel: 'Condividi su Reddit',
+	shareBlueskyLabel: 'Condividi su Bluesky',
+	shareMastodonLabel: 'Condividi su Mastodon',
+	startHere: 'Inizia qui',
+	startHereSubtitle: 'Tre idee su cui tutto il resto costruisce.',
+	contentsMetaDescription: (bookTitle) => `Ogni argomento in ${bookTitle}, in ordine di lettura.`,
+	contentsIntro: (count, parts) =>
+		`Tutti i ${count} argomenti in ordine di lettura, attraverso ${parts} parti. Ogni argomento copre una metrica o un concetto: definizione, perché è importante, il calcolo, esempio pratico, collegamento con lo sviluppo software, insidie, e fonti.`,
+	topicsCountSubtitle: (n) => `${n} argomenti`,
+	topicsMetaDescription: (bookTitle) => `Ogni argomento in ${bookTitle}, elencato dalla A alla Z.`,
+	topicsIntroPrefix: (count) => `Tutti i ${count} argomenti in ordine alfabetico. Per l'ordine di lettura, vedi`,
+	contentsLinkText: "l'indice",
+	jumpToLetter: 'Vai alla lettera',
+	searchMetaDescription: (bookTitle) => `Cerca in ogni argomento di ${bookTitle}.`,
+	searchIntro: (count) =>
+		`Cerca in tutti i ${count} argomenti per titolo, parte, sommario, e intestazioni di sezione. Tutto funziona nel tuo browser — nulla di ciò che digiti lascia questa pagina.`,
+	searchInputLabel: 'Cerca argomenti',
+	searchPlaceholder: 'SROI, sconto, costo per risultato…',
+	searchHintEmptyHtml: 'Digita per cercare. Prova <em>SROI</em>, <em>peso morto</em>, o <em>value for money</em>.',
+	noResultsPrefix: 'Nessun argomento corrisponde a ',
+	noResultsMiddle: '. Prova un termine più ampio, o sfoglia ',
+	resultsCountSingular: 'argomento',
+	resultsCountPlural: 'argomenti',
+	topicPosition: (index, total) => `Argomento ${index} di ${total}`,
+	onThisPage: 'In questa pagina',
+	paginationLabel: 'Libro',
+	paginationPrevious: 'Precedente',
+	paginationNext: 'Successivo'
+};
+
 const TRANSLATIONS = {
 	'vi-001': vi,
 	'da-001': da,
 	'et-001': et,
+	'it-001': it,
 	'de-de': de,
 	'de-001': de,
 	'ja-jp': ja,
