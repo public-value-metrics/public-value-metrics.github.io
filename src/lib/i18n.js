@@ -929,8 +929,60 @@ const vi = {
 	paginationNext: 'Tiếp theo'
 };
 
+const da = {
+	skipToContent: 'Gå til indhold',
+	navHome: 'Hjem',
+	navContents: 'Indholdsfortegnelse',
+	navTopicsAZ: 'Emner A–Å',
+	navSearch: 'Søg',
+	navAbout: 'Om',
+	footerSourceLink: 'Kilde',
+	footerTaglineSuffix:
+		' — offentlig-værdi-matematik, eksempler, og ræsonnement for softwareingeniører, der bygger for statslige og social-sektor-organisationer verdensomspændende.',
+	footerNote:
+		'Tallene i denne bog forfalder hurtigt. Hvert emne daterer sine benchmarks i teksten; verificér igen, før du bruger noget tal i en live business-case.',
+	pickerTheme: 'Tema',
+	pickerLanguage: 'Sprog',
+	pickerTextSize: 'Tekststørrelse',
+	pickerShare: 'Del',
+	shareCopyLink: 'Kopiér link',
+	shareCopied: 'Kopieret',
+	shareCopyFailed: 'Kopiering mislykkedes',
+	shareEmailLabel: 'Send link via e-mail',
+	shareLinkedinLabel: 'Del på LinkedIn',
+	shareRedditLabel: 'Del på Reddit',
+	shareBlueskyLabel: 'Del på Bluesky',
+	shareMastodonLabel: 'Del på Mastodon',
+	startHere: 'Start her',
+	startHereSubtitle: 'De tre ideer, alt andet bygger på.',
+	contentsMetaDescription: (bookTitle) => `Hvert emne i ${bookTitle}, i læseOrden.`,
+	contentsIntro: (count, parts) =>
+		`Alle ${count} emner i læseOrden, over ${parts} dele. Hvert emne dækker en måling eller koncept: definition, hvorfor det betyder noget, matematikken, et gennemregnet eksempel, forbindelse til softwareudvikling, faldgruber, og kilder.`,
+	topicsCountSubtitle: (n) => `${n} emner`,
+	topicsMetaDescription: (bookTitle) => `Hvert emne i ${bookTitle}, listet A til Å.`,
+	topicsIntroPrefix: (count) => `Alle ${count} emner i alfabetisk orden. For læseOrden, se`,
+	contentsLinkText: 'indholdsfortegnelsen',
+	jumpToLetter: 'Gå til bogstav',
+	searchMetaDescription: (bookTitle) => `Søg i hvert emne i ${bookTitle}.`,
+	searchIntro: (count) =>
+		`Søg i alle ${count} emner efter titel, del, resumé, og sektionsTitler. Alt kører i din browser — intet, du indTaster, forlader denne side.`,
+	searchInputLabel: 'Søg emner',
+	searchPlaceholder: 'SROI, diskontering, kostpris pr. resultat…',
+	searchHintEmptyHtml: 'Skriv for at søge. Prøv <em>SROI</em>, <em>dødvægt</em>, eller <em>value for money</em>.',
+	noResultsPrefix: 'Ingen emner matcher ',
+	noResultsMiddle: '. Prøv en bredere term, eller gennemSe ',
+	resultsCountSingular: 'emne',
+	resultsCountPlural: 'emner',
+	topicPosition: (index, total) => `Emne ${index} af ${total}`,
+	onThisPage: 'På denne side',
+	paginationLabel: 'Bog',
+	paginationPrevious: 'Forrige',
+	paginationNext: 'Næste'
+};
+
 const TRANSLATIONS = {
 	'vi-001': vi,
+	'da-001': da,
 	'de-de': de,
 	'de-001': de,
 	'ja-jp': ja,
