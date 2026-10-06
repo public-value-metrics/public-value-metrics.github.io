@@ -46,7 +46,7 @@ sy'n macsimeiddio'r llinell economaidd wrth ddinistrio'r llinell gymdeithasol yn
 
 Yn ymarferol, mae sefydliadau'n brasamcanu'r cymysgedd gyda cherdyn sgorio: dangosyddion wedi'u
 henwi ar gyfer pob llinell, wedi'u hadrodd gyda'i gilydd, heb eu netio'n un rhif. Dyma'r un reddf
-sy'n sail i [elw cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) (sy'n ceisio netio
+sy'n sail i [elw cymdeithasol ar fuddsoddiad](../adenillion-cymdeithasol-o-fuddsoddi/) (sy'n ceisio netio
 ariannol) a [cyfrifyddu cyfalaf naturiol](../cyfrifeg-cyfalaf-naturiol/) (sy'n gwneud yr un fath
 ar gyfer y llinell amgylcheddol) — mae'r ddau'n atebion rhannol, un-llinell i'r cwestiwn y mae
 gwerth cyfunol yn ei ofyn yn ei gyfanrwydd.
@@ -82,7 +82,7 @@ cymdeithasol neu amgylcheddol wedi'u sownd ymlaen fel nodiadau testun rhydd. Mae
 yn awgrymu'r gwrthwyneb yn union o ran dyluniad: tair ffrwd werth flaenllaw, wedi'u strwythuro'n
 gyfartal, ynghlwm wrth bob trafodiad neu gofnod grant, pob un â'i uned, ei ffynhonnell, a'i lefel
 hyder ei hun, wedi'u harddangos gyda'i gilydd yn hytrach na'u netio'n un sgôr sy'n gamarweiniol o
-fanwl gywir. Gweler [elw cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) a
+fanwl gywir. Gweler [elw cymdeithasol ar fuddsoddiad](../adenillion-cymdeithasol-o-fuddsoddi/) a
 [cerdyn sgorio gwerth cyhoeddus](../cerdyn-sgorio-gwerth-cyhoeddus/) am ddwy ffordd strwythuredig o
 adeiladu'r arddangosiad hwnnw heb chwalu'r cymysgedd.
 

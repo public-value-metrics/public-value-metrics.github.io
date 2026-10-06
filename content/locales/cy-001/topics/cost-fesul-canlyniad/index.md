@@ -13,7 +13,7 @@ a ddosbarthwyd fod yn £15. Gall cost fesul aelwyd sy'n mynd ymlaen i gyflawni d
 angen cymorth bwyd brys mwyach, wedi'i wirio ar bwynt dilynol — fod yn £340. Mae'r ddau'n wir. Dim
 ond un sy'n dweud wrth gyllidwr a yw'r arian yn gweithio. Y bwlch rhyngddynt yw'r bwlch rhwng
 allbwn a chanlyniad: mae parsel a roddwyd yn allbwn; mae aelwyd nad yw bellach mewn argyfwng yn
-ganlyniad. Gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/).
+ganlyniad. Gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/).
 
 Mae'r trydydd sector yn y DU wedi treulio dau ddegawd yn adeiladu seilwaith i orfodi'r gwahaniaeth
 hwn. Mae "dull y pedwar piler" New Philanthropy Capital ar gyfer effeithiolrwydd elusennol yn
@@ -78,7 +78,7 @@ ailgysylltu, ymarfer cysylltu data) fel nodwedd flaenllaw, nid rhywbeth wedi'i s
 gyfer adroddiad blynyddol. Dylai peirianwyr sy'n adeiladu llwyfannau rheoli grantiau neu reoli
 achosion ar gyfer y sector drin "beth yw digwyddiad y canlyniad, a sut ydym yn ei arsylwi" fel
 cwestiwn gofynion i'w ofyn cyn i'r model data gael ei bennu — mae'n llawer anos ôl-osod maes
-canlyniad nag ychwanegu cownter allbwn. Gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/)
+canlyniad nag ychwanegu cownter allbwn. Gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/)
 a [model rhesymeg](../model-rhesymeg/) am sut i strwythuro'r sgwrs gofynion honno, a
 [cost fesul buddiolwr](../cost-fesul-buddiolwr/) am y mesur cyflymach, mwy bras y mae timau'n troi
 ato pan nad yw tracio canlyniadau wedi'i adeiladu eto.
@@ -104,4 +104,4 @@ ato pan nad yw tracio canlyniadau wedi'i adeiladu eto.
 - New Philanthropy Capital (NPC), "Four Pillar Approach" i effeithiolrwydd elusennol. <https://www.thinknpc.org/resource-hub/four-pillar-approach/>
 - Inspiring Impact, Outcomes Matrix ac adnoddau mesur effaith. <https://inspiringimpact.org/>
 - Ymddiriedolaeth Trussell a Phrifysgol Heriot-Watt, rhaglen ymchwil "State of Hunger". <https://www.trusselltrust.org/state-of-hunger/>
-- GiveWell, "Our criteria" (cost-effeithiolrwydd fel y prif faen prawf ar gyfer argymell elusen). <https://www.givewell.org/how-we-work/our-criteria>
+- GiveWell, "Our criteria" (costeffeithiolrwydd fel y prif faen prawf ar gyfer argymell elusen). <https://www.givewell.org/how-we-work/our-criteria>

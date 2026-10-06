@@ -87,7 +87,7 @@ ddata ansawdd sylfaenol — e.e. cyfraddau goroesi — gael ei gwblhau, felly rh
 yr afon sy'n defnyddio'r ystadegau hyn drin diwygiadau ôl-ddyddiedig, nid dim ond atodi cyfnodau newydd).
 Mae hefyd yn croesi'n uniongyrchol â
 [chyfanswm cost perchnogaeth](../cyfanswm-cost-perchnogaeth-mewn-tg-y-llywodraeth/) a
-[chynhyrchiant AI yn y sector cyhoeddus](../cynhyrchedd-ai-yn-y-sector-cyhoeddus/): nid yw system sy'n
+[chynhyrchiant Deallusrwydd Artiffisial yn y sector cyhoeddus](../cynhyrchiant-deallusrwydd-artiffisial-yn-y-sector-cyhoeddus/): nid yw system sy'n
 cynyddu cyfaint gweithgaredd amrwd heb wella na chynnal ansawdd yn welliant cynhyrchiant, yn ôl
 diffiniad ONS ei hun.
 

@@ -32,7 +32,7 @@ Cyfradd gwblhau        = trafodion a gwblhawyd / trafodion a ddechreuwyd × 100
 Defnydd digidol         = trafodion sianel ddigidol / trafodion pob sianel × 100
 Boddhad defnyddwyr      = % boddhaus + boddhaus iawn, arolwg 5-pwynt o fewn gwasanaeth
 
-Arbediad sifft sianel = cyfaint trafodion × sifft defnydd × (cost fesul trafodiad ar
+Arbediad newid sianeli = cyfaint trafodion × sifft defnydd × (cost fesul trafodiad ar
                          yr hen sianel − cost fesul trafodiad yn ddigidol)
 
 Cost galw methiant = (1 − cyfradd gwblhau) × trafodion a geisiwyd yn ddigidol ×
@@ -80,7 +80,7 @@ mae defnydd digidol yn fesur tegwch mewn gwisg effeithlonrwydd — mae'r dinasyd
 fyddant yn newid sianel yn anghymesur o hŷn, yn anabl, neu wedi'u heithrio'n ddigidol, felly mae cau
 sianel ymosodol yn troi "arbediad" yn niwed mynediad (gweler
 [cynhwysiant digidol](../cynhwysiant-digidol/) ac
-[arbedion sifft sianel](../arbedion-sifft-sianel/)). Y safon 14 pwynt ei hun yw'r fanyleb broses y tu
+[arbedion newid sianeli](../arbedion-newid-sianeli/)). Y safon 14 pwynt ei hun yw'r fanyleb broses y tu
 ôl i'r ffigurau hyn — gweler [safon gwasanaeth digidol](../safon-gwasanaeth-digidol/) am y safon yn
 llawn, a [mesurau boddhad dinasyddion](../mesurau-boddhad-dinasyddion/) am sut mae'r ffigur boddhad
 yma'n perthyn i fesur ymddiriedaeth ehangach.

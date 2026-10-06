@@ -54,7 +54,7 @@ atchweliad a'r rheolyddion, nid dim ond y cyfernod pennawd.
 
 ## Enghraifft waith
 
-**Llywodraeth genedlaethol**: mae methodoleg pris cysgodol carbon y Llyfr Gwyrdd ei hun yn tynnu'n
+**Llywodraeth genedlaethol**: mae methodoleg pris cysgod carbon y Llyfr Gwyrdd ei hun yn tynnu'n
 rhannol ar dystiolaeth hedonig, ond achos symlach i'w ddarlunio yw sŵn awyrennau. Mae astudiaeth
 hedonig sy'n atchweilio prisiau gwerthu tai mewn ardal llwybr hedfan yn erbyn amlygiad sŵn wedi'i
 bwysoli yn ôl pellter, gan reoli am faint, oedran, a dalgylch ysgol, yn canfod bod pob cynnydd o 1

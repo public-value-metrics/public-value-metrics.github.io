@@ -17,8 +17,8 @@ oherwydd bod y gwaith prisio sylfaenol — [prisio llesiant](../prisio-llesiant/
 methodoleg, ac yn araf i'w redeg o'r dechrau ar gyfer pob prosiect. Mae llyfrgell procsïau a
 rennir ac a gyhoeddir yn troi'r hyn a fyddai'n ymarferiad ymchwil o sawl mis yn chwiliad, a dyna pam
 maent yn bwysig ar gyfer cyfrifiadau
-[enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) a gwerthusiadau tendr
-[Social Value Act](../social-value-act/) fel ei gilydd: hebddynt, dim ond sefydliadau digon mawr i
+[adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/) a gwerthusiadau tendr
+[Deddf Gwerth Cymdeithasol](../deddf-gwasanaethau-cyhoeddus-2012/) fel ei gilydd: hebddynt, dim ond sefydliadau digon mawr i
 gomisiynu eu hastudiaethau eu hunain a allai fforddio ariannu trylwyr.
 
 ## Y fathemateg
@@ -35,10 +35,10 @@ Gwerth procsi ariannol = pris marchnad, NEU bris cysgodol, NEU brisio llesiant,
 Gwerth wedi'i gymhwyso = nifer y canlyniadau a gyflawnwyd × gwerth procsi uned
 ```
 
-Gweler [prisio cysgodol](../prisio-cysgodol/) am sut mae procsi'n cael ei lunio pan nad oes pris
+Gweler [prisio cysgod](../prisio-cysgod/) am sut mae procsi'n cael ei lunio pan nad oes pris
 marchnad ar gael, a
-[enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) am sut mae'r gwerth wedi'i
-gymhwyso wedyn yn bwydo i mewn i gymhareb ar ôl addasiadau pwysau marw a phriodoli.
+[adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/) am sut mae'r gwerth wedi'i
+gymhwyso wedyn yn bwydo i mewn i gymhareb ar ôl addasiadau diffrwythedd a phriodoli.
 
 ## Enghraifft waith
 
@@ -51,9 +51,9 @@ gronfa ddata'n cyflenwi'r rhif, ond cyfrifoldeb y dadansoddwr yw osgoi'r gorgyff
 
 **Awdurdod lleol (SROI clwb gwaith)**: mae cofnod cronfa ddata cost fesul uned ar gyfer "symud o
 ddiweithdra i gyflogaeth gynaliadwy" yn cael ei gymhwyso i 45 o gyfranogwyr ar brocsi enghreifftiol o
-£8,500 y pen y flwyddyn: 45 × £8,500 = £382,500 o werth crynswth, cyn yr addasiadau pwysau marw a
+£8,500 y pen y flwyddyn: 45 × £8,500 = £382,500 o werth crynswth, cyn yr addasiadau diffrwythedd a
 phriodoli a ddangosir yn
-[enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/).
+[adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/).
 
 ## Cysylltiad peirianneg feddalwedd
 
@@ -64,13 +64,13 @@ fel na fydd gwahanol dimau ar draws sefydliad yn dewis gwerthoedd ychydig yn wah
 canlyniad. Mae lapio data agored Global Value Exchange y tu ôl i wasanaeth chwilio, gyda'r
 ffynhonnell a'r dyddiad bob amser yn cael eu dangos ochr yn ochr â'r ffigur, yn cadw'r procsi'n
 archwiliadwy yn hytrach nag yn rhif hudol wedi'i gladdu mewn taenlen. Gweler
-[enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) a
-[social value act](../social-value-act/) am y ddau brif le y defnyddir y procsïau hyn.
+[adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/) a
+[social value act](../deddf-gwasanaethau-cyhoeddus-2012/) am y ddau brif le y defnyddir y procsïau hyn.
 
 ## Peryglon
 
 - **Trin procsïau fel rhai manwl gywir.** Mae'r rhan fwyaf o brocsïau cyhoeddedig yn gyfartaleddau
-  wedi'u modelu o astudiaethau prisio llesiant gydag ystodau hyder eang; mae dyfynnu un i'r bunt yn
+  wedi'u modelu o astudiaethau prisio llesiant gydag cyfyngau hyder eang; mae dyfynnu un i'r bunt yn
   gor-honni'r manylder y mae'r ymchwil sylfaenol yn ei gefnogi.
 - **Cyfrif dwbl procsïau sy'n gorgyffwrdd.** Mae cyfuno procsïau (e.e. "llai o unigrwydd" a "gwell
   llesiant meddyliol") sydd wedi'u deillio o gwestiynau arolwg sy'n gorgyffwrdd yn rhoi gwerth ar yr

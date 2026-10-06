@@ -19,7 +19,7 @@ oherwydd eu bod yn rhad i'w cynhyrchu ac yn gyfeillgar i archwilio.
 
 Y perygl yw trin cost fesul buddiolwr fel pe bai'n ateb y cwestiwn na all ei ateb: a weithiodd yr
 arian. Gweler [cost fesul canlyniad](../cost-fesul-canlyniad/) am y mesur sydd mewn gwirionedd yn
-ateb hynny, a [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/) am y gwahaniaeth
+ateb hynny, a [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/) am y gwahaniaeth
 sylfaenol. Mae cost fesul buddiolwr yn fesur cyrhaeddiad a didoli dilys — mae'n dweud wrth
 gyllidwr pa mor bell y mae arian yn ymestyn — ond gall cost fesul buddiolwr isel olygu naill ai
 effeithlonrwydd gwirioneddol neu wasanaeth mor denau nes na fydd yn newid dim.

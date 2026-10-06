@@ -53,7 +53,7 @@ Amcangyfrif gweithgarwch i lawr yr afon (mwy dyfaliadol, angen gwrthffeithiol):
   data'n aros ar gau neu wedi'i drwyddedu'n fasnachol
   (counterfactual-analysis), gan y byddai peth o'r gweithgarwch
   hwnnw'n digwydd beth bynnag ar ddata a dalwyd amdano am bris uwch,
-  sy'n bwysau marw yn yr ystyr "gwerth a grëwyd gan ei agor"
+  sy'n ddiffrwythedd yn yr ystyr "gwerth a grëwyd gan ei agor"
 
 Mae achos busnes amddiffynadwy yn adrodd y ffigwr cost a osgowyd fel y
 terfyn isaf cadarn, ac yn trin y ffigwr gweithgarwch i lawr yr afon
@@ -62,12 +62,12 @@ fel senario terfyn uchaf, nid ffaith.
 
 ## Cysylltiad peirianneg feddalwedd
 
-I beirianwyr, mae'r cwestiwn gwerth data agored ymarferol fel arfer yn gulach na'r ffigurau blaenllaw cenedlaethol: a yw agor yr API neu'r set ddata benodol hon (yn hytrach na'i chadw y tu ôl i gytundeb partner) yn cynyddu ailddefnydd ddigon i gyfiawnhau cost barhaus ei dogfennu, ei fersiynu a'i chynnal fel rhyngwyneb cyhoeddus? Mae'r gost cynnal a chadw honno'n wirioneddol ac yn gymar i economeg adeiladu-unwaith-ailddefnyddio'n-aml [Llywodraeth fel Platfform](../llywodraeth-fel-platfform/) — mae'r ddau bwnc yn gefndryd agos, un ynghylch cod a seilwaith a rennir, y llall ynghylch data a rennir. Dylid gwirio unrhyw hawliad gwerth data agored yn erbyn [additionality-and-deadweight](../ychwanegolrwydd-a-phwysau-marw/) cyn iddo fynd i mewn i achos busnes: nid yw gweithgarwch a fyddai wedi digwydd beth bynnag, ar ddata wedi'i drwyddedu'n fasnachol, yn werth a grëwyd gan yr *agor* ei hun.
+I beirianwyr, mae'r cwestiwn gwerth data agored ymarferol fel arfer yn gulach na'r ffigurau blaenllaw cenedlaethol: a yw agor yr API neu'r set ddata benodol hon (yn hytrach na'i chadw y tu ôl i gytundeb partner) yn cynyddu ailddefnydd ddigon i gyfiawnhau cost barhaus ei dogfennu, ei fersiynu a'i chynnal fel rhyngwyneb cyhoeddus? Mae'r gost cynnal a chadw honno'n wirioneddol ac yn gymar i economeg adeiladu-unwaith-ailddefnyddio'n-aml [Llywodraeth fel Platfform](../llywodraeth-fel-platfform/) — mae'r ddau bwnc yn gefndryd agos, un ynghylch cod a seilwaith a rennir, y llall ynghylch data a rennir. Dylid gwirio unrhyw hawliad gwerth data agored yn erbyn [additionality-and-deadweight](../ychwanegedd-a-diffrwythedd/) cyn iddo fynd i mewn i achos busnes: nid yw gweithgarwch a fyddai wedi digwydd beth bynnag, ar ddata wedi'i drwyddedu'n fasnachol, yn werth a grëwyd gan yr *agor* ei hun.
 
 ## Peryglon
 
 - **Dyfynnu ffigwr $3–5 triliwn McKinsey fel un penodol i'r DU neu fel cyfran y set ddata hon**: amcangyfrif senario byd-eang, saith sector o 2013 ydyw — mae ei ddefnyddio fel lluosydd manwl ar gyfer un set ddata genedlaethol yn camliwio'r hyn y mae'r rhif yn ei olygu.
-- **Dim gwrthffeithiol**: hawlio clod am yr holl weithgarwch economaidd i lawr yr afon a adeiladwyd ar ddata agored, heb ofyn faint ohono a fyddai wedi digwydd beth bynnag ar ddata a dalwyd amdano neu a drwyddedwyd am bris uwch (gweler [additionality-and-deadweight](../ychwanegolrwydd-a-phwysau-marw/) a [counterfactual-analysis](../dadansoddiad-gwrthffeithiol/)).
+- **Dim gwrthffeithiol**: hawlio clod am yr holl weithgarwch economaidd i lawr yr afon a adeiladwyd ar ddata agored, heb ofyn faint ohono a fyddai wedi digwydd beth bynnag ar ddata a dalwyd amdano neu a drwyddedwyd am bris uwch (gweler [additionality-and-deadweight](../ychwanegedd-a-diffrwythedd/) a [counterfactual-analysis](../dadansoddiad-gwrthffeithiol/)).
 - **Drysu cost cynhyrchu â gwerth a grëwyd**: nid yw set ddata a oedd yn ddrud i'w chasglu'n awtomatig o werth i'w rhyddhau, ac nid yw un rad yn awtomatig o werth isel — mae gwerth yn dilyn defnydd i lawr yr afon, nid cost i fyny'r afon.
 - **Anwybyddu cost cynnal a chadw barhaus "agored"**: nid yr un ymrwymiad yw cyhoeddi detholiad CSV untro â rhedeg API agored wedi'i dogfennu, ei fersiynu a'i gefnogi — mae tanariannu'r ail ar ôl cyhoeddiad y lansiad yn fethiant cyffredin.
 

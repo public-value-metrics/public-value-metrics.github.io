@@ -89,7 +89,7 @@ trigolion ynysig ddisgwyl i'w effaith gael ei mesur fel hyn yn y pen draw, sy'n 
 ddadansoddeg cynnyrch ddal *pwy* a gyrhaeddir ac am *ba hyd*, nid dim ond cyfrifon defnydd. Adeiladwch
 offerynnau arolwg llesiant (ONS4 neu gyfwerth dilys) i mewn i werthusiad gwasanaeth o'r cychwyn yn
 hytrach na'u bolltio ymlaen yn ôl-weithredol; mae ychwanegu llinell sylfaen llesiant ar ôl i wasanaeth
-lansio yn colli'r gymhariaeth cyn/ar ôl yn llwyr. Gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/)
+lansio yn colli'r gymhariaeth cyn/ar ôl yn llwyr. Gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/)
 a [dulliau gwerthuso effaith](../dulliau-gwerthuso-effaith/).
 
 ## Peryglon
@@ -97,7 +97,7 @@ a [dulliau gwerthuso effaith](../dulliau-gwerthuso-effaith/).
 - **Dim grŵp gwrthffeithiol na chymharu.** Mae enillion llesiant cyn/ar ôl heb reolaeth ar beth
   fyddai wedi digwydd beth bynnag yn gorbwysleisio effaith y rhaglen; gweler
   [dadansoddiad gwrthffeithiol](../dadansoddiad-gwrthffeithiol/) a
-  [ychwanegoldeb a phwysau marw](../ychwanegolrwydd-a-phwysau-marw/).
+  [ychwanegoldeb a diffrwythedd](../ychwanegedd-a-diffrwythedd/).
 - **Samplau bach, hunan-ddetholedig.** Mae arolygon llesiant cyfranogwyr rhaglen a ddewisodd ymuno yn
   dueddol o ragfarn ddethol — y bobl a ymunodd ac a arhosodd, mae'n bosibl eu bod eisoes ar dueddiad
   gwella.

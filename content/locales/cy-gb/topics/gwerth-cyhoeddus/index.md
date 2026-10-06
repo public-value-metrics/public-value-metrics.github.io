@@ -57,7 +57,7 @@ wag o werth (dangosfwrdd nad oes neb yn ei ddefnyddio).
 
 ## Enghraifft waith
 
-**Awdurdod lleol**: mae tîm digidol cyngor yn cynnig teclyn didoli AI ar gyfer hawliadau budd-dal
+**Awdurdod lleol**: mae tîm digidol cyngor yn cynnig teclyn didoli deallusrwydd artiffisial ar gyfer hawliadau budd-dal
 tai.
 
 - *Cyfreithlondeb*: mae cabinet y cyngor wedi cymeradwyo strategaeth digidol-yn-gyntaf, ond nid
@@ -87,7 +87,7 @@ Gwerth cyhoeddus yw'r cysyniad ymbarél y mae'r ystorfa gyfan hon yn eistedd odd
 o ran a gafodd adnoddau eu defnyddio'n dda; mae
 [cost cyfle mewn gwariant cyhoeddus](../cost-cyfle-mewn-gwariant-cyhoeddus/) yn prisio beth arall
 y gallai'r arian fod wedi'i wneud; ac mae
-[ychwanegolrwydd a phwysau marw](../ychwanegolrwydd-a-phwysau-marw/),
+[ychwanegedd a diffrwythedd](../ychwanegedd-a-diffrwythedd/),
 [dadleoliad a phriodoliad](../dadleoliad-a-phriodoliad/), a
 [dadansoddiad gwrthffeithiol](../dadansoddiad-gwrthffeithiol/) gyda'i gilydd yn profi a yw'r gwerth a
 hawlir yn wirioneddol yn hytrach nag yn dybiedig. I beirianwyr, mae'r triongl strategol yn
@@ -101,7 +101,7 @@ post-mortem rhagweithiol defnyddiol ar gyfer unrhyw benderfyniad cynnyrch yn y s
 - Dylai dogfennau gofynion cynnyrch ar gyfer gwasanaethau cyhoeddus ddatgan yr honiad gwerth
   cyhoeddus yn benodol, nid dim ond stori'r defnyddiwr, gan nad yr un peth bob amser yw gwerth i'r
   defnyddiwr a gwerth cyhoeddus (gweler
-  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/)).
+  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/)).
 
 ## Peryglon
 

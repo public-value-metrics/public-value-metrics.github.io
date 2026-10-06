@@ -21,7 +21,7 @@ grynhoi data ar lefel grantai i naratif SDG ar lefel portffolio. Mae GIIN yn adr
 IRIS yn cael eu defnyddio gan tua hanner o fuddsoddwyr effaith a'r rhan fwyaf helaeth o reolwyr
 cronfeydd, banciau, a sefydliadau cyllid datblygu sy'n weithredol yn y maes.
 
-Mae'r safoni'n bwysicaf lle mae'n rhyngweithio â [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/):
+Mae'r safoni'n bwysicaf lle mae'n rhyngweithio â [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/):
 mae IRIS+ yn gwthio adrodd tuag at fesurau canlyniad ac effaith diffiniedig yn hytrach nag unrhyw
 beth y mae system rheoli achosion bresennol grantai yn digwydd ei gofnodi, sef yn union y bwlch y
 mae [cost fesul canlyniad](../cost-fesul-canlyniad/) yn erbyn [cost fesul buddiolwr](../cost-fesul-buddiolwr/)

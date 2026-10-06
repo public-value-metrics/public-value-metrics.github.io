@@ -2,7 +2,7 @@
 
 Gwerth amser gwirfoddoli yw'r amcangyfrif ariannol a roddir i lafur di-dâl, a ddefnyddir amlaf i
 ddatgan ôl-troed economaidd gwirioneddol elusen — ei chyfrifon ynghyd â'r llafur nad oedd yn rhaid
-iddi dalu amdano — neu i wneud yr achos bod ymyriad penodol yn fwy cost-effeithiol nag y mae ei
+iddi dalu amdano — neu i wneud yr achos bod ymyriad penodol yn fwy costeffeithiol nag y mae ei
 chyllideb arian parod yn unig yn ei awgrymu. Mae dwy fethodoleg genedlaethol yn dominyddu:
 amcangyfrif Independent Sector yr Unol Daleithiau a dull y Swyddfa Ystadegau Gwladol (ONS) / NCVO
 yn y Deyrnas Unedig, ac maent yn prisio'r un awr o lafur yn eithaf gwahanol.
@@ -83,7 +83,7 @@ cyfradd cost amnewid fesul rôl yn hytrach nag un gyfradd gyfartalog genedlaetho
 gweithlu gwirfoddol cymysg (nid yw awr ymddiriedolwr ac awr stiwardio yn economaidd gyfatebol).
 Mae storio'r gyfradd a'r fethodoleg a ddefnyddiwyd ochr yn ochr â'r gwerth a gyfrifwyd — nid dim
 ond y ffigur arian terfynol — yn caniatáu i adrodd i lawr yr afon (cyfrifon blynyddol, cyfrifiadau
-[elw cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/), adroddiadau cyllidwyr)
+[elw cymdeithasol ar fuddsoddiad](../adenillion-cymdeithasol-o-fuddsoddi/), adroddiadau cyllidwyr)
 atgynhyrchu neu herio'r rhif yn nes ymlaen yn hytrach na'i drin fel cysonyn didreiddiadwy. Gweler
 [cost fesul canlyniad](../cost-fesul-canlyniad/) am pam mae hepgor gwerth amser gwirfoddol yn
 tanamcangyfrif yn systematig y gwir gost cyflenwi.

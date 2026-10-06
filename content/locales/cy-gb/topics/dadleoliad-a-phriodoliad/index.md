@@ -4,7 +4,7 @@ Mae dadleoliad yn digwydd pan gyflawnir budd ymddangosiadol rhaglen drwy dynnu g
 fudd o rywle arall, yn hytrach na chreu rhywbeth newydd — mae eich ennill chi'n golled i rywun arall.
 Priodoliad yw'r cwestiwn cysylltiedig o ba gymaint o ganlyniad a arsylwyd y gall eich ymyrraeth chi
 ei hawlio'n wirioneddol, pan fo actorion a ffactorau eraill hefyd wedi cyfrannu. Mae'r ddau'n
-addasiadau safonol yng nghanllawiau gwerthuso sector cyhoeddus y DU, ochr yn ochr â phwysau marw a
+addasiadau safonol yng nghanllawiau gwerthuso sector cyhoeddus y DU, ochr yn ochr â diffrwythedd a
 gollyngiad, ac mae'r ddau'n cael eu hepgor yn rheolaidd gan honiadau effaith sy'n edrych yn llawer
 cryfach nag ydynt mewn gwirionedd.
 
@@ -14,7 +14,7 @@ Gall cynllun grant busnes awdurdod lleol sy'n helpu 50 o siopau i adleoli i bart
 "50 o fusnesau wedi'u cefnogi, 200 o swyddi wedi'u creu" — ond os oedd y busnesau hynny wedi symud yn
 syml o stryd fawr gyfagos yn hytrach nag ehangu, cafodd y swyddi eu dadleoli, nid eu creu, a gallai'r
 effaith net ar draws y fwrdeistref (neu'r rhanbarth) fod yn agos at sero. Mae Llyfr Magenta Trysorlys
-EF a'r Canllaw Ychwanegolrwydd hirsefydlog yn trin dadleoliad fel didyniad gofynnol yn union am fod
+EF a'r Canllaw Ychwanegedd hirsefydlog yn trin dadleoliad fel didyniad gofynnol yn union am fod
 straeon llwyddiant lleol yn gyffredin hyd yn oed pan nad ydynt yn cynhyrchu unrhyw fudd net
 cenedlaethol neu ranbarthol — mae gwerth wedi symud yn syml, yn aml er anfantais i'r ardal neu'r
 actorion a'i collodd. Mae canllawiau gwerthuso cronfeydd strwythurol (a ddefnyddir ar gyfer hen
@@ -36,10 +36,10 @@ hytrach na "ni a achosodd hyn."
 ## Y fathemateg
 
 Dadleoliad fel rhan o'r dilyniant effaith net safonol (gweler
-[ychwanegolrwydd a phwysau marw](../ychwanegolrwydd-a-phwysau-marw/) am y gadwyn lawn):
+[ychwanegedd a diffrwythedd](../ychwanegedd-a-diffrwythedd/) am y gadwyn lawn):
 
 ```
-Effaith net ychwanegol = Canlyniad crynswth − Pwysau marw − Dadleoliad − Gollyngiad, × Lluosydd
+Effaith net ychwanegol = Canlyniad crynswth − Diffrwythedd − Dadleoliad − Gollyngiad, × Lluosydd
 
 Cyfradd dadleoliad = budd/gweithgaredd a ddargyfeiriwyd o rywle arall
                       / cyfanswm y budd/gweithgaredd crynswth a arsylwyd
@@ -99,7 +99,7 @@ canlyniadau ar gyfer cyflenwi aml-safle neu aml-bartner:
   o leiaf fflagio priodoliad ar y cyd) yn hytrach na gadael i fodiwl adrodd pob partner hawlio 100% o
   ganlyniad a rennir yn annibynnol — fel arall bydd cyfangymhwysiadau lefel portffolio'n gorddweud
   cyfanswm effaith, weithiau'n ddifrifol.
-- Mae hyn yn cysylltu ag [elw cymdeithasol ar fuddsoddiad (SROI)](../enillion-cymdeithasol-ar-fuddsoddiad/) a
+- Mae hyn yn cysylltu ag [elw cymdeithasol ar fuddsoddiad (SROI)](../adenillion-cymdeithasol-o-fuddsoddi/) a
   [adrodd canlyniadau grant](../adrodd-ar-ganlyniadau-grantiau/): bydd cyfrifiad SROI neu IRIS+ sy'n
   anwybyddu dadleoliad neu'n gor-briodoli canlyniadau a rennir yn cynhyrchu cymhareb chwyddedig na
   fydd yn goroesi archwiliad na dyblygu.

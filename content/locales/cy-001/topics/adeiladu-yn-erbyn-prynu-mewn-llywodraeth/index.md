@@ -4,7 +4,7 @@ Mae adeiladu-yn-erbyn-prynu yn gymhariaeth strwythuredig, wedi'i haddasu ar gyfe
 
 ## Pam mae hyn yn bwysig
 
-Mae Cod Ymarfer Technoleg y Government Digital Service (<https://www.gov.uk/guidance/the-technology-code-of-practice>) a'r canllawiau Llawlyfr Gwasanaeth cysylltiedig ar benderfynu p'un a ddylid adeiladu neu brynu yn gwthio adrannau i gyfiawnhau datblygiad pwrpasol yn erbyn tybiaeth y dylid prynu galluedd nwyddau, nid ei adeiladu, ac mai dim ond galluedd sy'n wirioneddol newydd, sy'n gwahaniaethu'r genhadaeth, sy'n cyfiawnhau cod pwrpasol. Mae canllawiau atodol gogwydd optimistiaeth Trysorlys EF i'r Llyfr Gwyrdd, wedi'u tynnu o adolygiad Mott MacDonald yn 2002 o gaffaeliadau cyhoeddus mawr, yn rhoi'r ystod codi ehangaf o unrhyw gategori a asesir i brosiectau TG — argymhellir codi amcangyfrifon cost gyfalaf o 10% ar y pen isaf a hyd at 200% ar y pen uchaf cyn eu defnyddio mewn gwerthusiad, gan adlewyrchu pa mor wael y mae adeiladau meddalwedd wedi cael eu tanamcangyfrif yn hanesyddol ar draws caffael cyhoeddus. Mae dadansoddiad adeiladu-yn-erbyn-prynu yn bodoli'n benodol i orfodi'r addasiad risg hwnnw ar y bwrdd cyn cymeradwyo, yn hytrach na gadael iddo ymddangos fel cais gorwario o fewn y flwyddyn.
+Mae Cod Ymarfer Technoleg y Government Digital Service (<https://www.gov.uk/guidance/the-technology-code-of-practice>) a'r canllawiau Llawlyfr Gwasanaeth cysylltiedig ar benderfynu p'un a ddylid adeiladu neu brynu yn gwthio adrannau i gyfiawnhau datblygiad pwrpasol yn erbyn tybiaeth y dylid prynu galluedd nwyddau, nid ei adeiladu, ac mai dim ond galluedd sy'n wirioneddol newydd, sy'n gwahaniaethu'r genhadaeth, sy'n cyfiawnhau cod pwrpasol. Mae canllawiau atodol tuedd optimistiaeth Trysorlys EF i'r Llyfr Gwyrdd, wedi'u tynnu o adolygiad Mott MacDonald yn 2002 o gaffaeliadau cyhoeddus mawr, yn rhoi'r ystod codi ehangaf o unrhyw gategori a asesir i brosiectau TG — argymhellir codi amcangyfrifon cost gyfalaf o 10% ar y pen isaf a hyd at 200% ar y pen uchaf cyn eu defnyddio mewn gwerthusiad, gan adlewyrchu pa mor wael y mae adeiladau meddalwedd wedi cael eu tanamcangyfrif yn hanesyddol ar draws caffael cyhoeddus. Mae dadansoddiad adeiladu-yn-erbyn-prynu yn bodoli'n benodol i orfodi'r addasiad risg hwnnw ar y bwrdd cyn cymeradwyo, yn hytrach na gadael iddo ymddangos fel cais gorwario o fewn y flwyddyn.
 
 ## Y fathemateg
 
@@ -14,7 +14,7 @@ ddisgowntio gymdeithasol y Llyfr Gwyrdd (gweler social-discount-rate.md):
 
 GPN_opsiwn = GP(buddion, wedi'u symud yn ôl amser-i-werth) − GP(TCO)
 
-Addasiadau risg (patrwm gogwydd optimistiaeth y Llyfr Gwyrdd):
+Addasiadau risg (patrwm tuedd optimistiaeth y Llyfr Gwyrdd):
   cost adeiladu × 1.1–3.0        (ystod codi prosiect TG, Mott MacDonald)
   amser-i-werth adeiladu + 40–60% (rhagdyb oedi defnyddio)
   prynu: ychwanegwch wiriad realiti integreiddio a chostau ymadael contract yn lle hynny

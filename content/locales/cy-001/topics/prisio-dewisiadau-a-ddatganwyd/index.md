@@ -66,7 +66,7 @@ GP(budd) ≈ £9.52m × 14.2 ≈ £135m
 ```
 
 Cymherir y ffigur cyfun hwn wedyn yn erbyn ochr gost
-[dadansoddiad cost-budd cymdeithasol](../dadansoddiad-cost-budd-cymdeithasol/) y rhaglen. Mae'r Llyfr Gwyrdd
+[dadansoddiad cost a budd cymdeithasol](../dadansoddiad-cost a budd-cymdeithasol/) y rhaglen. Mae'r Llyfr Gwyrdd
 yn ei gwneud yn ofynnol i'r math hwn o dystiolaeth dewisiadau a ddatganwyd gael ei hadrodd ochr yn
 ochr â'i chyfwng hyder a methodoleg yr arolwg, nid fel amcangyfrif pwynt noeth, yn union am fod y rhif
 sylfaenol yn fwy bregus na phris marchnad.
@@ -102,7 +102,7 @@ ddidoli data barn gyhoeddus a fydd yn dwyn pwysau dadansoddol.
   fel rhan o fwndel mwy yn cynhyrchu amcangyfrifon WTP gwahanol; adroddwch beth arall, os o gwbl, oedd
   yn ffrâm yr arolwg.
 - **Trin amcangyfrif pwynt un arolwg fel un sefydlog.** Mae arfer y Llyfr Gwyrdd yn disgwyl amrediad a
-  thrafodaeth o dueddiadau hysbys, nid rhif noeth wedi'i gario ymlaen i'r tabl cost-budd fel pe bai'n
+  thrafodaeth o dueddiadau hysbys, nid rhif noeth wedi'i gario ymlaen i'r tabl cost a budd fel pe bai'n
   bris marchnad.
 
 ## Ffynonellau

@@ -10,8 +10,8 @@ canlyniadau sy'n bwysig i un rhif.
 Mae'r Llyfr Gwyrdd yn sancsiynu MCDA yn benodol (mae ei atodiad astudiaeth achos Bocs 2 ac Atodiad A
 ill dau yn ei drafod yn uniongyrchol) ar gyfer arfarniadau lle mae buddion yn "wirioneddol
 anghymharadwy" — lle byddai trosi popeth yn arian drwy
-[ddadansoddiad cost-budd cymdeithasol](../dadansoddiad-cost-budd-cymdeithasol/), neu i un canlyniad drwy
-[ddadansoddiad cost-effeithiolrwydd](../dadansoddiad-cost-effeithiolrwydd-yn-y-llywodraeth/), yn camgynrychioli'r
+[ddadansoddiad cost a budd cymdeithasol](../dadansoddiad-cost a budd-cymdeithasol/), neu i un canlyniad drwy
+[ddadansoddiad costeffeithiolrwydd](../dadansoddiad-costeffeithiolrwydd-yn-y-llywodraeth/), yn camgynrychioli'r
 penderfyniad yn hytrach na'i egluro
 (<https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government>).
 Mae dewis safle ar gyfer carchar newydd, er enghraifft, yn cyfnewid cost gyfalaf yn erbyn effaith ar
@@ -81,7 +81,7 @@ weld wedi'i adrodd.
 
 **Elusen**: mae sefydliad sy'n rhoi grantiau, wrth ddewis rhwng ariannu gwasanaeth cynghori ar ddyled,
 rhwydwaith banciau bwyd, a rhaglen llythrennedd ariannol, yn defnyddio MCDA yn hytrach na SROI
-(gweler [enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/)) yn union am fod yr
+(gweler [adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/)) yn union am fod yr
 ymddiriedolwyr yn anghytuno, mewn ffydd dda, ynghylch a ddylai ryddhad argyfwng neu atal bwyso'n
 drymach — mae MCDA yn eu galluogi i gytuno ar *siâp* yr anghytundeb (amrediad pwysau) yn hytrach na
 esgus bod un gymhareb SROI yn ei ddatrys.
@@ -108,7 +108,7 @@ cysylltiedig a ddefnyddir ar ôl penderfynu yn hytrach na chynt.
   amrediadau, nid manwl-gywirdeb ffug.
 - **Defnyddio MCDA i osgoi prisio a oedd mewn gwirionedd yn bosibl.** Os gellid prisio'r rhan fwyaf o'r
   meini prawf yn gredadwy, mae troi'n rhagosodedig at MCDA yn lle
-  [DCBC](../dadansoddiad-cost-budd-cymdeithasol/) yn taflu i ffwrdd wybodaeth y gallai'r arfarniad fod wedi'i
+  [DCBC](../dadansoddiad-cost a budd-cymdeithasol/) yn taflu i ffwrdd wybodaeth y gallai'r arfarniad fod wedi'i
   defnyddio.
 - **Gadael i un rhanddeiliad amlwg osod yr holl bwysau ar ei ben ei hun.** Mae arfer da'r Llyfr Gwyrdd
   yn disgwyl bod pwysau'n cael eu didoli o banel cynrychioliadol, nid y cyfarwyddwr noddi, er mwyn

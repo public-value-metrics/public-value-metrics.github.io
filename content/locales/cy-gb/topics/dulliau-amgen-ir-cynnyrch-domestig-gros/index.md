@@ -91,9 +91,9 @@ fel nad yw llwyddiant o drwch blewyn yn anwahanadwy oddi wrth un cyfforddus.
 - **Mewnforio GNH yn gyfan gwbl i ddiwylliant polisi gwahanol** — pennwyd ei bwysau maes a'i
   drothwyon digonolrwydd trwy ymgynghori ym Mhutan; mae copïo'r rhif heb y broses ymgynghori
   sylfaenol yn cynhyrchu metrig gwag nad oes neb yn ymddiried ynddo.
-- **Tybio bod dull amgen i CDG yn disodli arfarniad cost-budd** — dangosyddion diagnostig,
+- **Tybio bod dull amgen i CDG yn disodli arfarniad cost a budd** — dangosyddion diagnostig,
   economaidd-eang yw'r rhain, nid offer penderfynu ar gyfer un rhaglen; defnyddiwch
-  [ddadansoddiad cost-budd cymdeithasol](../dadansoddiad-cost-budd-cymdeithasol/) yn lle hynny.
+  [ddadansoddiad cost a budd cymdeithasol](../dadansoddiad-cost a budd-cymdeithasol/) yn lle hynny.
 
 ## Ffynonellau
 

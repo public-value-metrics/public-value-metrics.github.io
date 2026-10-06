@@ -65,7 +65,7 @@ fynnu gan reoleiddwyr a rhai cyllidwyr mewn ffurflenni statudol. Dylai peirianwy
 systemau hyn drin y gofyniad hwnnw fel ymrwymiad cydymffurfio, nid fel arwydd dylunio bod
 cymhareb orbenion yn fesur sy'n werth ei arddangos yn amlwg ar ddangosfwrdd; parwch ef, ble
 bynnag y'i dangosir, â mesur seiliedig ar ganlyniadau fel na all gwyliwr ddarllen cymhareb orbenion
-ar ei phen ei hun. Gweler [elw rhoddwr ar fuddsoddiad](../elw-rhoddwr-ar-fuddsoddiad/) am y mesur
+ar ei phen ei hun. Gweler [elw rhoddwr ar fuddsoddiad](../adenillion-rhoddwr-o-fuddsoddi/) am y mesur
 a ddylai eistedd wrth ei ymyl, a [gwerth am arian](../gwerth-am-arian/) am y ddadl gyfatebol yn y
 sector cyhoeddus yn erbyn dirprwyon effeithlonrwydd cymhareb sengl.
 

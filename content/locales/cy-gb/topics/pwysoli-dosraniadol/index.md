@@ -8,7 +8,7 @@ un sy'n gyfartal o ran gwerth â phunt a enillir gan y tlotaf.
 
 ## Pam mae hyn yn bwysig
 
-Mae dadansoddiad cost-budd safonol yn crynhoi punnoedd heb ofyn pwy piau'r punnoedd hynny, sy'n
+Mae dadansoddiad cost a budd safonol yn crynhoi punnoedd heb ofyn pwy piau'r punnoedd hynny, sy'n
 tybio'n ymhlyg fod punt yn werth yr un fath i bawb — tybiaeth y mae economegwyr wedi gwybod ers tro
 ei bod hi'n anghywir. Mae aelwyd sy'n ennill £15,000/flwyddyn yn profi enillion o £1,000 mewn ffordd
 wahanol iawn i aelwyd sy'n ennill £150,000/flwyddyn, am fod cyfleustod ymylol incwm yn gostwng wrth

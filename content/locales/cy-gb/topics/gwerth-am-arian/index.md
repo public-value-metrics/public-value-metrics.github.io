@@ -25,7 +25,7 @@ Mae'r "bedwaredd E", tegwch, yn ddadleuol yn union am y gall wrthdaro â'r tair 
 y ffordd fwyaf effeithlon o gyflenwi gwasanaeth yn genedlaethol hefyd yn fwyaf teg, gan fod
 canoli cyflenwi lle mae rhataf cyrraedd dinasyddion yn aml yn golygu tan-wasanaethu'r rhai anoddaf
 eu cyrraedd. Ymatebodd adolygiad 2020 o'r Llyfr Gwyrdd i feirniadaeth (gan gynnwys gan Bwyllgor
-Dethol y Trysorlys 2020 ac IPPR North) fod cymarebau cost-budd pur yn ffafrio'n systematig
+Dethol y Trysorlys 2020 ac IPPR North) fod cymarebau cost a budd pur yn ffafrio'n systematig
 ranbarthau a oedd eisoes yn ffyniannus, drwy fynnu bod arfarniadau'n mynd i'r afael ag effaith
 ddosraniadol yn benodol — gweler [pwysoli dosraniadol](../pwysoli-dosraniadol/).
 
@@ -54,7 +54,7 @@ Gall methiant VFM ddigwydd ar unrhyw gam yn annibynnol: caffael darbodus gyda ch
 aneffeithlon; cyflenwi effeithlon o'r allbwn anghywir; canlyniadau effeithiol a brynwyd am gost
 ormodol. Gweler [dangosyddion perfformiad allweddol y sector cyhoeddus](../dangosyddion-perfformiad-allweddol-y-sector-cyhoeddus/) i
 weld sut mae'r rhain yn trosi'n ddangosyddion mesuradwy, a
-[dadansoddiad cost-effeithiolrwydd mewn llywodraeth](../dadansoddiad-cost-effeithiolrwydd-yn-y-llywodraeth/)
+[dadansoddiad costeffeithiolrwydd mewn llywodraeth](../dadansoddiad-costeffeithiolrwydd-yn-y-llywodraeth/)
 am y dull cymharu ffurfiol.
 
 ## Enghraifft waith
@@ -95,7 +95,7 @@ ffordd y bydd swyddogaethau cyllid ac archwilio mewn gwirionedd yn eu darllen:
   [cyfanswm cost perchnogaeth mewn TG llywodraeth](../cyfanswm-cost-perchnogaeth-mewn-tg-y-llywodraeth/)
   a [adeiladu yn erbyn prynu mewn llywodraeth](../adeiladu-yn-erbyn-prynu-mewn-llywodraeth/)).
 - Mae angen data canlyniadau ar effeithiolrwydd, nid dim ond cyfrifon allbwn — cysylltwch fetrigau
-  cyflenwi â [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/) ac â gwerthusiad gwirioneddol
+  cyflenwi â [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/) ac â gwerthusiad gwirioneddol
   drwy [dadansoddiad gwrthffeithiol](../dadansoddiad-gwrthffeithiol/) yn hytrach na thybio bod
   allbynnau'n golygu canlyniadau.
 - Pan fydd system yn gwasanaethu'n anwastad ar draws rhanbarthau neu ddemograffeg, mae'r cwestiwn
@@ -109,7 +109,7 @@ ffordd y bydd swyddogaethau cyllid ac archwilio mewn gwirionedd yn eu darllen:
   effeithlonrwydd ac effeithiolrwydd.
 - **Mesur allbynnau a'u galw'n ganlyniadau.** Nid yr un peth yw trwybwn achosion (effeithlonrwydd) â
   datrys achosion yn dda (effeithiolrwydd); gweler
-  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/).
+  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/).
 - **Trin tegwch fel opsiwn.** Ers diweddariad 2020 y Llyfr Gwyrdd, y bwriad yw asesu effaith
   ddosraniadol ochr yn ochr â'r tair E draddodiadol, nid ei bolltio ymlaen wedyn; mae ei hôl-ffitio
   ar ôl i achos busnes gael ei gymeradwyo'n llawer anoddach na'i chynnwys o'r cychwyn.

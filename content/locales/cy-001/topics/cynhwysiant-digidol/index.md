@@ -11,8 +11,8 @@ Gosododd Strategaeth Ddigidol y Llywodraeth 2012 yr uchelgais yn glir: dylid ade
 Mae cynhwysiant digidol yn fframwaith a gwiriad tegwch yn hytrach na fformiwla sengl, ond mae'n cyfuno ag asesu gwerth meintiol drwy [pwysoli dosbarthiadol](../pwysoli-dosraniadol/):
 
 ```
-Gwerth sifft sianel naïf:
-  gwerth = cyfaint a symudwyd × (cost_hen − cost_digidol)     [gweler arbedion sifft sianel]
+Gwerth newid sianeli naïf:
+  gwerth = cyfaint a symudwyd × (cost_hen − cost_digidol)     [gweler arbedion newid sianeli]
 
 Gwerth wedi'i addasu ar gyfer cynhwysiant:
   gwerth = (cyfaint a symudwyd × arbediad heb ei bwysoli)
@@ -55,7 +55,7 @@ gyfan gwbl.
 
 ## Cysylltiad peirianneg feddalwedd
 
-Mae digidol â chymorth yn sianel wedi'i dylunio, sy'n golygu bod ganddi ryngwynebau, cytundebau lefel gwasanaeth (SLAs) ac offeryniad fel unrhyw un arall: offeryn gweithiwr achos dros y ffôn, porth cyfryngol i Cyngor ar Bopeth neu awdurdod lleol, neu lif ciosg wyneb yn wyneb. Ei thrin fel ôl-ystyriaeth — rhif ffôn mewn print mân yn hytrach na sianel a ystyriwyd o'r cam Discovery — yw'r ffordd fwyaf cyffredin y mae gwasanaethau'n methu pwynt 5 [Safon Gwasanaeth Digidol](../safon-gwasanaeth-digidol/) wrth eu hasesu. Cynhwysiant digidol yw'r llen degwch dros bob pwnc arall yn y bennod hon: mae'n cyfyngu ar ba mor gynhwysfawr y gellir gwireddu [arbedion sifft sianel](../arbedion-sifft-sianel/), mae'n eitem linell y mae'n rhaid ei chynnwys yn onest yn [cost fesul trafodiad](../cost-fesul-trafodiad/), a dyma gymhwysiad uniongyrchol [pwysoli dosbarthiadol](../pwysoli-dosraniadol/) i gyd-destun gwasanaethau digidol — dylid pwysoli i lawr arbediad sy'n glanio'n anghymesur ar bobl sydd eisoes wedi'u heithrio'n ddigidol ac yn economaidd, nid ei drin fel un cyfwerth ag arbediad sy'n cael ei ledaenu'n gyfartal ar draws y boblogaeth.
+Mae digidol â chymorth yn sianel wedi'i dylunio, sy'n golygu bod ganddi ryngwynebau, cytundebau lefel gwasanaeth (SLAs) ac offeryniad fel unrhyw un arall: offeryn gweithiwr achos dros y ffôn, porth cyfryngol i Cyngor ar Bopeth neu awdurdod lleol, neu lif ciosg wyneb yn wyneb. Ei thrin fel ôl-ystyriaeth — rhif ffôn mewn print mân yn hytrach na sianel a ystyriwyd o'r cam Discovery — yw'r ffordd fwyaf cyffredin y mae gwasanaethau'n methu pwynt 5 [Safon Gwasanaeth Digidol](../safon-gwasanaeth-digidol/) wrth eu hasesu. Cynhwysiant digidol yw'r llen degwch dros bob pwnc arall yn y bennod hon: mae'n cyfyngu ar ba mor gynhwysfawr y gellir gwireddu [arbedion newid sianeli](../arbedion-newid-sianeli/), mae'n eitem linell y mae'n rhaid ei chynnwys yn onest yn [cost fesul trafodiad](../cost-fesul-trafodiad/), a dyma gymhwysiad uniongyrchol [pwysoli dosbarthiadol](../pwysoli-dosraniadol/) i gyd-destun gwasanaethau digidol — dylid pwysoli i lawr arbediad sy'n glanio'n anghymesur ar bobl sydd eisoes wedi'u heithrio'n ddigidol ac yn economaidd, nid ei drin fel un cyfwerth ag arbediad sy'n cael ei ledaenu'n gyfartal ar draws y boblogaeth.
 
 ## Peryglon
 

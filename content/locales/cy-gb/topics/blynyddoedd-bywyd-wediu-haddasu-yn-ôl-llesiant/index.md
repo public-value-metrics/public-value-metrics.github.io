@@ -9,7 +9,7 @@ Book guidance" (2021).
 
 ## Pam mae hyn yn bwysig
 
-Mae angen uned gyffredin ar arfarniad cost-budd i gymharu grant clwb ieuenctid yn erbyn cynllun
+Mae angen uned gyffredin ar arfarniad cost a budd i gymharu grant clwb ieuenctid yn erbyn cynllun
 diogelwch ffyrdd yn erbyn gwasanaeth iechyd meddwl, heb yr un ohonynt yn rhannu mesur canlyniad.
 Datryswyd hyn ar gyfer ymyriadau clinigol gan economeg iechyd gyda'r QALY: blwyddyn o fywyd wedi'i
 haddasu yn ôl ansawdd, wedi'i phwysoli o 0 (marw) i 1 (iechyd llawn). Mae arweiniad llesiant
@@ -72,8 +72,8 @@ Gwerth ariannoledig = 15 × £13,000 = £195,000
   ddilyn pedwar cwestiwn llesiant safonol yr ONS) gyfrifo WELLBYs yn uniongyrchol o bibelinau data
   presennol yn hytrach na chomisiynu gwerthusiad economaidd pwrpasol ar gyfer pob newid gwasanaeth.
 - Mae WELLBYs yn rhoi i dimau peirianneg sy'n adeiladu ar gyfer adrodd
-  [Deddf Gwerth Cymdeithasol](../social-value-act/) neu
-  [enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) enwadur wedi'i safoni'n
+  [Deddf Gwerth Cymdeithasol](../deddf-gwasanaethau-cyhoeddus-2012/) neu
+  [adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/) enwadur wedi'i safoni'n
   genedlaethol ac wedi'i gymeradwyo gan Drysorlys EM, gan osgoi lluosogi "sgorau effaith" pwrpasol
   na ellir eu cymharu ar draws contractau neu gyflenwyr.
 - Gan fod WELLBYs yn adiol ar draws pobl ac amser, maent yn cyfansoddi'n lân i'r math o olrhain

@@ -78,9 +78,9 @@ clymol yn unig ddatrys problem cyfalaf pontiol.
   llythrennol; dylai eu metrig llwyddiant fod yn amrywiaeth rhwydwaith y cysylltiadau a wnaed, nid
   dim ond cyfrif trafodion — gweler [llywodraeth-fel-platfform](../llywodraeth-fel-platfform/) am y
   patrwm ehangach o seilwaith y mae eraill yn adeiladu gwerth arno.
-- Lle mae theori newid rhaglen yn targedu cyfalaf cymdeithasol yn benodol fel canlyniad (cronfa
+- Lle mae damcaniaeth newid rhaglen yn targedu cyfalaf cymdeithasol yn benodol fel canlyniad (cronfa
   gwydnwch cymunedol, gwasanaeth presgripsiynu cymdeithasol), dylai ei
-  [theori newid](../theori-newid/) a'i [model rhesymeg](../model-rhesymeg/) enwi'r piler penodol
+  [damcaniaeth newid](../damcaniaeth-newid/) a'i [model rhesymeg](../model-rhesymeg/) enwi'r piler penodol
   (ymddiriedaeth, ymgysylltiad dinesig, cefnogaeth rhwydwaith) y mae'n disgwyl ei symud, yn hytrach
   na chanlyniad "adeiladu cymuned" heb ei wahaniaethu na ellir ei fesur yn erbyn llinell sylfaen
   yr ONS.

@@ -68,7 +68,7 @@ gywir a throthwy cymhwyster glân go iawn; mae DiD angen data panel cymharadwy d
 grŵp triniaeth a'r grŵp cymharu fel ei gilydd, sy'n golygu cydgysylltiadau cyson ar draws systemau a
 blynyddoedd; mae PSM angen data cyd-newidyn llinell sylfaen cyfoethog wedi'i gasglu cyn y driniaeth,
 nid wedi'i ail-lunio wedyn. Mae model data wedi'i ddylunio ochr yn ochr â
-[theori newid](../theori-newid/) a [model rhesymeg](../model-rhesymeg/) o'r dechrau — gan gasglu
+[damcaniaeth newid](../damcaniaeth-newid/) a [model rhesymeg](../model-rhesymeg/) o'r dechrau — gan gasglu
 cyd-newidynnau llinell sylfaen, dyddiadau, a chofnodion cymwys ar gyfer grŵp cymharu — yn beth sy'n
 gwneud gwerthusiad effaith trylwyr yn bosibl yn nes ymlaen, yn hytrach na sgrialu ôl-hoc drud. Gweler
 [gwerthuso effaith yn erbyn gwerthuso proses](../gwerthuso-effaith-yn-erbyn-gwerthuso-proses/) am y

@@ -22,7 +22,7 @@ Pob asesiad: tystiolaeth + cyfweliad tîm → dyfarniad panel fesul pwynt
 Canlyniad cyffredinol: Pasio / Pasio ag amodau / Methu (angen ailasesu)
 
 Cost methiant ≈ cost y cylch sbrint nesaf i unioni'r sefyllfa
-              + oedi i'r [arbedion sifft sianel](../arbedion-sifft-sianel/)
+              + oedi i'r [arbedion newid sianeli](../arbedion-newid-sianeli/)
                 yr oedd y gwasanaeth wedi'i ariannu i'w cyflawni
 ```
 
@@ -51,7 +51,7 @@ Nid manwl-gywirdeb y symiau yw'r pwynt — y pwynt yw bod gan asesiad a fethwyd 
 
 ## Cysylltiad peirianneg feddalwedd
 
-I beirianwyr, mae'r Safon yn darllen fel rhestr wirio bensaernïol a chyflenwi lawn cymaint ag y mae'n ddogfen bolisi: mae pwynt 11 ("dewis yr offer a'r dechnoleg iawn") a phwynt 12 ("gwneud cod ffynhonnell newydd yn agored") yn benderfyniadau peirianyddol uniongyrchol, ac mae pwynt 14 ("gweithredu gwasanaeth dibynadwy") yn gofyn am yr un SLOs a phrosesau digwyddiad ag y mae angen ar unrhyw system gynhyrchu. Dyma'r fframwaith ymbarél ar gyfer y bennod hon — [cost fesul trafodiad](../cost-fesul-trafodiad/) a [arbedion sifft sianel](../arbedion-sifft-sianel/) yw'r hyn y mae'r Safon yn ceisio'i ddiogelu'n ariannol, [cynhwysiant digidol](../cynhwysiant-digidol/) yw'r hyn y mae pwynt 5 yn bodoli i'w warantu, ac mae cydrannau [Llywodraeth fel Platfform](../llywodraeth-fel-platfform/) (GOV.UK Notify, Pay, One Login) yn bodloni pwynt 13 ("defnyddio a chyfrannu at safonau agored, cydrannau cyffredin a phatrymau") yn ddiofyn i raddau helaeth. Gweler hefyd [build-vs-buy-in-government](../adeiladu-yn-erbyn-prynu-mewn-llywodraeth/) am sut mae'r pwynt "yr offer iawn" yn chwarae allan mewn penderfyniadau caffael.
+I beirianwyr, mae'r Safon yn darllen fel rhestr wirio bensaernïol a chyflenwi lawn cymaint ag y mae'n ddogfen bolisi: mae pwynt 11 ("dewis yr offer a'r dechnoleg iawn") a phwynt 12 ("gwneud cod ffynhonnell newydd yn agored") yn benderfyniadau peirianyddol uniongyrchol, ac mae pwynt 14 ("gweithredu gwasanaeth dibynadwy") yn gofyn am yr un SLOs a phrosesau digwyddiad ag y mae angen ar unrhyw system gynhyrchu. Dyma'r fframwaith ymbarél ar gyfer y bennod hon — [cost fesul trafodiad](../cost-fesul-trafodiad/) a [arbedion newid sianeli](../arbedion-newid-sianeli/) yw'r hyn y mae'r Safon yn ceisio'i ddiogelu'n ariannol, [cynhwysiant digidol](../cynhwysiant-digidol/) yw'r hyn y mae pwynt 5 yn bodoli i'w warantu, ac mae cydrannau [Llywodraeth fel Platfform](../llywodraeth-fel-platfform/) (GOV.UK Notify, Pay, One Login) yn bodloni pwynt 13 ("defnyddio a chyfrannu at safonau agored, cydrannau cyffredin a phatrymau") yn ddiofyn i raddau helaeth. Gweler hefyd [build-vs-buy-in-government](../adeiladu-yn-erbyn-prynu-mewn-llywodraeth/) am sut mae'r pwynt "yr offer iawn" yn chwarae allan mewn penderfyniadau caffael.
 
 ## Peryglon
 

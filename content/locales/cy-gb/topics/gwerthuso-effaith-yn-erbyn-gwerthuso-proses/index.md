@@ -5,14 +5,14 @@ yn gofyn a gafodd y rhaglen ei chyflenwi mewn gwirionedd fel y'i dyluniwyd — i
 gyda pha rwystrau neu hwyluswyr ar hyd y ffordd. Mae'r rhain yn gwestiynau gwahanol sy'n gofyn am
 ddulliau gwahanol, ac mae Magenta Book Trysorlys EF yn trin comisiynu'r ddau gyda'i gilydd fel
 arfer safonol, oherwydd mae canlyniad effaith gwan neu ddi-ddim yn amhosibl ei ddehongli ar ei ben ei
-hun: ni all ddweud wrthych ai theori sylfaenol y rhaglen oedd yn anghywir, neu a gafodd theori dda ei
+hun: ni all ddweud wrthych ai damcaniaeth sylfaenol y rhaglen oedd yn anghywir, neu a gafodd damcaniaeth dda ei
 chyflenwi'n iawn erioed.
 
 ## Pam mae hyn yn bwysig
 
 Mae gwerthusiadau'r llywodraeth wedi darganfod dro ar ôl tro nad oes unrhyw effaith fesuradwy o
 raglen, heb unrhyw werthusiad proses i esbonio pam — gan adael comisiynwyr yn methu gwahaniaethu
-rhwng "nid yw'r syniad hwn yn gweithio" (methiant theori) a "ni chafodd y syniad hwn erioed ei drio'n
+rhwng "nid yw'r syniad hwn yn gweithio" (methiant damcaniaeth) a "ni chafodd y syniad hwn erioed ei drio'n
 iawn" (methiant gweithredu). Ffurfiolodd canllawiau'r Medical Research Council ar werthuso proses
 ymyriadau cymhleth, a gyhoeddwyd yn y BMJ yn 2015 ac a ddyfynnir yn eang ochr yn ochr â'r Magenta
 Book, ffyddlondeb, dos, a chyrhaeddiad fel y pethau craidd y mae'n rhaid i werthusiad proses eu
@@ -27,7 +27,7 @@ amser real.
 ```
 Mae gwerthuso proses yn gofyn:
  - A gafodd ei gyflenwi i'r boblogaeth darged, ar y dos/dwysedd a gynlluniwyd?
- - A oedd y cyflenwi'n cyfateb i ddyluniad y model rhesymeg / theori newid?
+ - A oedd y cyflenwi'n cyfateb i ddyluniad y model rhesymeg / damcaniaeth newid?
  - Pa rwystrau neu hwyluswyr a effeithiodd ar y cyflenwi?
  Dulliau: gwiriadau ffyddlondeb yn erbyn trothwyon a bennwyd ymlaen llaw, astudiaethau achos,
           cyfweliadau, data cyflenwi gweinyddol.
@@ -37,7 +37,7 @@ Mae gwerthuso effaith yn gofyn:
  Dulliau: RCT, DiD, PSM, RDD — gweler dulliau gwerthuso effaith — yn erbyn ffactor gwrthffeithiol.
 
 Diagnosis cyfunol:
- Dim effaith  + ffyddlondeb uchel  → methiant theori: ni chynhyrchodd y model ei hun y canlyniad
+ Dim effaith  + ffyddlondeb uchel  → methiant damcaniaeth: ni chynhyrchodd y model ei hun y canlyniad
  Dim effaith  + ffyddlondeb isel   → methiant gweithredu: ni chafodd y model ei brofi'n iawn erioed
  Effaith wedi'i chanfod + ffyddlondeb uchel → ailadrodd gyda hyder
  Effaith wedi'i chanfod + ffyddlondeb isel  → ymchwilio ymhellach: gall yr effaith fod yn fregus neu'n
@@ -71,14 +71,14 @@ chyrhaeddiad i reolwyr rhaglenni bron mewn amser real, yn hytrach nag aros am we
 yn caniatáu trwsio llwybr atgyfeirio wedi torri hanner ffordd trwy'r rhaglen, yn hytrach na'i ddarganfod
 dim ond ar ôl i'r cyfnod ariannu ddod i ben. Gweler
 [dulliau gwerthuso effaith](../dulliau-gwerthuso-effaith/) am y dyluniadau achosol y mae gwerthuso
-proses yn cael ei baru â nhw, [theori newid](../theori-newid/) a [model rhesymeg](../model-rhesymeg/)
+proses yn cael ei baru â nhw, [damcaniaeth newid](../damcaniaeth-newid/) a [model rhesymeg](../model-rhesymeg/)
 am y dyluniad y mae gwerthuso proses yn gwirio ffyddlondeb yn ei erbyn, a
 [gwireddu buddion](../gwireddu-buddion/) am olrhain cyflenwi hyd at y canlyniadau a addawyd.
 
 ## Peryglon
 
 - **Comisiynu gwerthusiad effaith ar ei ben ei hun.** Wedyn ni ellir dehongli canlyniad di-ddim neu
-  wan fel methiant theori neu fethiant gweithredu, sef yn union y gwahaniaeth sy'n bwysig ar gyfer
+  wan fel methiant damcaniaeth neu fethiant gweithredu, sef yn union y gwahaniaeth sy'n bwysig ar gyfer
   penderfynu beth i'w wneud nesaf.
 - **Trin gwerthuso proses fel ychwanegiad meddal.** Mae angen yr un trylwyredd a meini prawf
   ffyddlondeb a bennwyd ymlaen llaw ag sydd gan y dyluniad effaith, neu mae'n dadfeilio'n anecdot pan

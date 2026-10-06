@@ -35,7 +35,7 @@ Ar gyfer pob KPI ymgeisiol, sgoriwch yn erbyn:
   Cytbwys          — a yw wedi'i barau â gwrth-fesur sy'n dal twyll?
   Cadarn           — a all oroesi archwiliad, neu a yw'n hunan-adroddedig ac na ellir ei ddilysu?
   Integredig       — a yw'n ffitio'r set ehangach, neu'n gwrthdaro ag KPI arall?
-  Cost-effeithiol  — a yw casglu'r data'n costio mwy na'r penderfyniad y mae'n ei lywio?
+  Costeffeithiol  — a yw casglu'r data'n costio mwy na'r penderfyniad y mae'n ei lywio?
 
 Rhaniad arweiniol yn erbyn ôl-arweiniol:
   Dangosydd arweiniol    → yn rhagfynegi canlyniad yn y dyfodol, ond yn aml yn hawdd ei dwyllo
@@ -94,7 +94,7 @@ KPIs ar lefel poblogaeth na all un tîm eu hystumio'n unochrog.
   ddarganfod — cyhoeddwch gofnod newid diffiniadau bob amser ochr yn ochr â'r ffigurau.
 - **Cymysgu gweithgaredd â chanlyniad**: mae cyfrif arolygiadau a gwblhawyd yn allbwn; mae cyfrif
   safleoedd a ddaeth yn gydymffurfiol yn nes at y canlyniad (gweler
-  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/)).
+  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/)).
 
 ## Ffynonellau
 

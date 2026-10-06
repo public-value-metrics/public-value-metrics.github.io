@@ -104,9 +104,9 @@ gyfer meddalwedd llywodraeth a'r sector cymdeithasol:
   [ddulliau gwerthuso effaith](../dulliau-gwerthuso-effaith/) a'r hyn sy'n ei wahanu oddi wrth
   [werthuso effaith yn erbyn gwerthuso proses](../gwerthuso-effaith-yn-erbyn-gwerthuso-proses/), lle
   mae'r olaf yn gofyn a gyflenwyd rhaglen fel y bwriadwyd yn hytrach nag a achosodd effaith.
-- Mae [ychwanegolrwydd a phwysau marw](../ychwanegolrwydd-a-phwysau-marw/) a
+- Mae [ychwanegedd a diffrwythedd](../ychwanegedd-a-diffrwythedd/) a
   [dadleoliad a phriodoliad](../dadleoliad-a-phriodoliad/) ill dau, yn eu craidd, yn gwestiynau
-  gwrthffeithiol — pwysau marw yw "beth fyddai'r canlyniad penodol hwn wedi bod heb yr ymyrraeth",
+  gwrthffeithiol — diffrwythedd yw "beth fyddai'r canlyniad penodol hwn wedi bod heb yr ymyrraeth",
   wedi'i gymhwyso ar lefel addasiad yn hytrach na dyluniad gwerthuso llawn.
 
 ## Peryglon

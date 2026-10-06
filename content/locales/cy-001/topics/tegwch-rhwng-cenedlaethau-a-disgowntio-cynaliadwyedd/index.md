@@ -96,7 +96,7 @@ ddifrifol ydyw mewn gwirionedd.
   [cyfradd ddisgowntio gymdeithasol](../cyfradd-ddisgowntio-gymdeithasol/) yn gyffredinol.
 - Lle mae buddion rhaglen yn amlwg rhwng-genedlaethol (amddiffyn rhag llifogydd, adfer cyfalaf
   naturiol, seilwaith digidol hirdymor), dylai
-  [dadansoddiad cost-budd cymdeithasol](../dadansoddiad-cost-budd-cymdeithasol/) adrodd canlyniadau o
+  [dadansoddiad cost a budd cymdeithasol](../dadansoddiad-cost a budd-cymdeithasol/) adrodd canlyniadau o
   dan o leiaf dwy ragdybiaeth ddisgowntio (safon y Llyfr Gwyrdd ac achos sensitifrwydd cyfradd
   isel) yn hytrach nag un amcangyfrif pwynt sengl, fel bod gwneuthurwyr penderfyniadau'n gweld sut
   mae dewis cyfradd ddisgowntio ar ei ben ei hun yn symud yr ateb.

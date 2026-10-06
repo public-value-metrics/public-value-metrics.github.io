@@ -37,7 +37,7 @@ Gwerth cyhoeddus net A = gwerth(A) − gwerth(B), nid gwerth(A) − 0
 Nid oes fformiwla gyffredinol am fod y dewis arall a gollwyd yn benodol i'r cyd-destun, ond mae'r
 ddisgyblaeth yn gyffredinol: nodwch y defnydd gorau nesaf realistig o'r un llinell gyllideb (nid
 "gwneud dim" delfrydol), ei brisio ar yr un sail (mewn arian lle bo modd, yn ôl
-[dadansoddiad cost-budd cymdeithasol](../dadansoddiad-cost-budd-cymdeithasol/)), a thynnu.
+[dadansoddiad cost a budd cymdeithasol](../dadansoddiad-cost a budd-cymdeithasol/)), a thynnu.
 
 ## Enghraifft waith
 

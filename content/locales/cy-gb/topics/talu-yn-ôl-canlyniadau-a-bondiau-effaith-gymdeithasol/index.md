@@ -43,7 +43,7 @@ Paramedrau dylunio allweddol sy'n penderfynu ymddygiad y contract cyfan:
   Cymhariaeth/gwrthffeithiol         — carfan gydweddol fel arfer (gweler dadansoddiad-gwrthffeithiol)
   Trothwy talu                       — y gwelliant lleiaf cyn i unrhyw daliad gael ei sbarduno
   Cromlin dalu                       — llinellol, gamog, neu wedi'i chapio uwchlaw'r trothwy
-  Disgownt priodoliad/pwysau marw    — gweler ychwanegoldeb-a-phwysau-marw
+  Disgownt priodoliad/diffrwythedd    — gweler ychwanegoldeb-a-phwysau-marw
 ```
 
 ## Enghraifft waith
@@ -88,11 +88,11 @@ a fersiynu anhyblyg o ddiffiniad y canlyniad — cyfystyr PbR o'r magl "ailddiff
 carfan-gydweddol [dadansoddiad gwrthffeithiol](../dadansoddiad-gwrthffeithiol/), sydd angen cod
 atgynyrchadwy, y gellir ei archwilio, nid taenlen unwaith-ac-am-byth. Ac mae'n rhaid i'r mesur ei hun
 fod yn ganlyniad gwirioneddol, nid gweithgaredd dirprwy — gweler
-[canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/) — oherwydd bod contract PbR sy'n talu am
+[canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/) — oherwydd bod contract PbR sy'n talu am
 allbwn yn ailenwi cyllid busnes-fel-arfer gyda chost trafodiad ychwanegol yn unig. Lle mae ffiniad
 cymdeithasol SIB yn cael ei fodelu'n ragarweiniol, mae'r asesiad hwnnw fel arfer yn benthyca'n
 uniongyrchol o fethodoleg
-[adenillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/).
+[adadenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/).
 
 ## Peryglon
 
@@ -102,7 +102,7 @@ uniongyrchol o fethodoleg
 - **Dim gwrthffeithiol credadwy**: heb grŵp cymharu cydweddol, gallai gwelliant fod yn atchweliad tuag
   at y cymedr neu duedd ehangach, nid effaith y rhaglen — gweler
   [dadansoddiad gwrthffeithiol](../dadansoddiad-gwrthffeithiol/) a
-  [ychwanegoldeb a phwysau marw](../ychwanegolrwydd-a-phwysau-marw/).
+  [ychwanegoldeb a diffrwythedd](../ychwanegedd-a-diffrwythedd/).
 - **Tanamcangyfrif costau trafodiad a gwerthuso**: mae dilysu annibynnol, cysylltu data, a gweinyddu
   contract ar gyfer cynlluniau PbR/SIB yn rheolaidd yn cyrraedd degau y cant o werth y contract — mae
   sylfaen dystiolaeth GO Lab yn dogfennu hyn fel ysgogydd cylchol o roi'r gorau i gynlluniau.

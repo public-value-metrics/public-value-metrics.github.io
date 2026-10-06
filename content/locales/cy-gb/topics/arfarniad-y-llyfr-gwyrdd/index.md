@@ -38,7 +38,7 @@ dystiolaethol ei hun:
 
 2. Yr achos economaidd
    Arfarnu opsiynau yn erbyn llinell sylfaen "gwneud y lleiaf", gan ddefnyddio
-   dadansoddiad cost-budd cymdeithasol neu ddadansoddiad cost-effeithiolrwydd.
+   dadansoddiad cost a budd cymdeithasol neu ddadansoddiad costeffeithiolrwydd.
    Prawf: pa opsiwn sy'n macsimeiddio gwerth cyhoeddus net?
    Gweler ../social-cost-benefit-analysis/ a ../cost-effectiveness-analysis-in-government/
 
@@ -61,9 +61,9 @@ dystiolaethol ei hun:
 
 Yn yr achos economaidd y mae'r arfarniad meintiol yn digwydd: cymherir opsiynau ar sail gwerth
 presennol net wedi'i addasu gan [gyfradd ddisgowntio gymdeithasol](../cyfradd-ddisgowntio-gymdeithasol/), gan
-ddefnyddio'r dull [dadansoddiad cost-budd cymdeithasol](../dadansoddiad-cost-budd-cymdeithasol/), neu, lle
+ddefnyddio'r dull [dadansoddiad cost a budd cymdeithasol](../dadansoddiad-cost a budd-cymdeithasol/), neu, lle
 na ellir prisio buddion yn onest mewn arian, drwy
-[ddadansoddiad cost-effeithiolrwydd](../dadansoddiad-cost-effeithiolrwydd-yn-y-llywodraeth/) neu
+[ddadansoddiad costeffeithiolrwydd](../dadansoddiad-costeffeithiolrwydd-yn-y-llywodraeth/) neu
 [ddadansoddiad penderfynu amlfeini](../dadansoddiad-penderfynu-amlfeini/).
 
 ## Enghraifft waith

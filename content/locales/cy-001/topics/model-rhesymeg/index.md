@@ -1,11 +1,11 @@
 # Model Rhesymeg
 
-Mae model rhesymeg yn ddiagram llinellol sy'n cysylltu mewnbynnau, gweithgareddau, cynhyrchion,
+Mae model rhesymeg yn ddiagram llinellol sy'n cysylltu mewnbynnau, gweithgareddau, allbynnau,
 canlyniadau, ac effaith ar gyfer rhaglen, i'w ddarllen o'r chwith i'r dde fel cadwyn atebolrwydd:
-mae adnoddau'n mynd i mewn, gweithgareddau'n digwydd, cynhyrchion yn cael eu cynhyrchu, canlyniadau'n
+mae adnoddau'n mynd i mewn, gweithgareddau'n digwydd, allbynnau yn cael eu cynhyrchu, canlyniadau'n
 newid i fuddiolwyr, ac effaith yn cronni dros amserlen ehangach neu hirach. Dyma'r strwythur safonol
 y mae ariannwyr ac archwilwyr yn disgwyl y gellir adrodd rhaglen yn ei erbyn, a'r cymar tuag ymlaen
-i [theori newid](../theori-newid/) sydd wedi'i mapio am yn ôl.
+i [damcaniaeth newid](../damcaniaeth-newid/) sydd wedi'i mapio am yn ôl.
 
 ## Pam mae hyn yn bwysig
 
@@ -23,17 +23,17 @@ ariannwyr yn gofyn am un.
 Mae'r model rhesymeg yn gadwyn strwythurol yn hytrach na fformiwla:
 
 ```
-Mewnbynnau       Gweithgareddau    Cynhyrchion         Canlyniadau           Effaith
-(adnoddau         (yr hyn a wneir   (cynnyrch          (newid i               (newid hirdymor,
+Mewnbynnau       Gweithgareddau    Allbynnau         Canlyniadau           Effaith
+(adnoddau         (yr hyn a wneir   (allbwn          (newid i               (newid hirdymor,
  a ymrwymwyd)      â nhw)            uniongyrchol,       fuddiolwyr)            ar lefel
                                      y gellir eu cyfrif)                       poblogaeth neu
                                                                                 systemig)
 ```
 
 Dylai pob colofn fod yn fwy penodol na'r un flaenorol: mewnbynnau yw'r hyn a wariwch, gweithgareddau
-yw'r hyn a wnewch, cynhyrchion yw'r hyn a gyflenwir waeth beth fo'r effaith, canlyniadau yw'r hyn
+yw'r hyn a wnewch, allbynnau yw'r hyn a gyflenwir waeth beth fo'r effaith, canlyniadau yw'r hyn
 sy'n newid o ganlyniad — y gwahaniaeth a drafodir yn llawn yn
-[canlyniadau yn erbyn cynhyrchion](../canlyniadau-yn-erbyn-cynhyrchion/) — ac effaith yw'r newid parhaus,
+[canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/) — ac effaith yw'r newid parhaus,
 hirdymor, sy'n aml ond yn rhannol briodoladwy.
 
 ## Enghraifft waith
@@ -42,7 +42,7 @@ hirdymor, sy'n aml ond yn rhannol briodoladwy.
 
 - Mewnbynnau: cyllideb flynyddol o £180,000, 4.0 CALl o gynghorwyr, system rheoli achosion.
 - Gweithgareddau: sesiynau allgymorth, apwyntiadau cyngor dyled un-i-un.
-- Cynhyrchion: 900 o apwyntiadau wedi'u cyflenwi; 750 o gynlluniau dyled a budd-daliadau wedi'u
+- Allbynnau: 900 o apwyntiadau wedi'u cyflenwi; 750 o gynlluniau dyled a budd-daliadau wedi'u
   cyhoeddi.
 - Canlyniadau: o'r cleientiaid sy'n cyrraedd dilyniant 6 mis, mae 60% (450 o 750) yn adrodd llai o
   ôl-ddyledion, gyda gostyngiad cyfartalog o £1,200 y cleient — cyfanswm o £540,000 o ostyngiad mewn
@@ -56,7 +56,7 @@ hirdymor, sy'n aml ond yn rhannol briodoladwy.
 - Mewnbynnau: £45,000, 1.5 CALl o gydgysylltydd, cytundebau partneriaeth gyda 12 o asiantaethau
   atgyfeirio.
 - Gweithgareddau: didoli atgyfeiriadau, pacio a dosbarthu parseli.
-- Cynhyrchion: 5,000 o barseli bwyd wedi'u dosbarthu i 1,100 o aelwydydd.
+- Allbynnau: 5,000 o barseli bwyd wedi'u dosbarthu i 1,100 o aelwydydd.
 - Canlyniadau: mae 68% o'r aelwydydd a arolygwyd (748 o 1,100) yn adrodd gwell diogeledd bwyd mewn
   galwad dilyniant 4 wythnos.
 - Effaith: cyfraniad at lai o alw ar wasanaethau argyfwng lleol, wedi'i dystiolaethu mewn
@@ -66,14 +66,14 @@ hirdymor, sy'n aml ond yn rhannol briodoladwy.
 
 Mae'r model rhesymeg yn agos at fod yn fodel data llythrennol ar gyfer system canlyniadau: mae
 mewnbynnau a gweithgareddau'n ddata gweithredol sydd gennych eisoes (gwariant, staffio, cofnodion
-sesiynau); mae cynhyrchion yn hawdd i'w hofferu gan eu bod yn cael eu cyfrif ar bwynt y cyflenwi;
+sesiynau); mae allbynnau yn hawdd i'w hofferu gan eu bod yn cael eu cyfrif ar bwynt y cyflenwi;
 mae canlyniadau angen casglu data dilyniant a ddyluniwyd yn fwriadol (arolygon, cysylltu data
 gweinyddol) na fydd yn bodoli oni bai fod rhywun yn ei adeiladu; mae effaith fel arfer angen data
 cysylltiedig, hydredol, neu ar lefel poblogaeth sy'n mynd y tu hwnt i systemau unrhyw un rhaglen.
 Dylai peirianwyr sy'n adeiladu offer adrodd bwyso ar gomisiynwyr i ddiffinio dangosyddion canlyniad
-ac effaith adeg dylunio, yn hytrach na dibynnu'n ddiofyn ar ddangosfwrdd cynhyrchion yn unig am mai
+ac effaith adeg dylunio, yn hytrach na dibynnu'n ddiofyn ar ddangosfwrdd allbynnau yn unig am mai
 dyna beth mae'r data trafodol eisoes yn ei gefnogi. Gweler
-[enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) am ddull sy'n rhoi gwerth ar
+[adenillion cymdeithasol o fuddsoddi](../adenillion-cymdeithasol-o-fuddsoddi/) am ddull sy'n rhoi gwerth ar
 golofnau canlyniadau ac effaith yn benodol, a
 [gwireddu buddion](../gwireddu-buddion/) am olrhain a gyflenwyd colofn yr effaith mewn
 gwirionedd.
@@ -82,10 +82,10 @@ gwirionedd.
 
 - **Stopio wrth gynhyrchion.** Mae dangosfwrdd sy'n adrodd apwyntiadau a gyflenwyd neu barseli a
   ddosbarthwyd, gan awgrymu budd, yn adrodd gweithgarwch, nid canlyniadau — gweler
-  [canlyniadau yn erbyn cynhyrchion](../canlyniadau-yn-erbyn-cynhyrchion/).
+  [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/).
 - **Dim cyswllt achosol wedi'i nodi rhwng y colofnau.** Mae model rhesymeg yn nodi'r gadwyn ond nid
-  pam y dylai gweithgareddau gynhyrchu cynhyrchion a ddylai gynhyrchu canlyniadau; mae'r rhesymeg
-  honno'n perthyn i [theori newid](../theori-newid/), ac mae model rhesymeg heb un y tu ôl iddo
+  pam y dylai gweithgareddau gynhyrchu allbynnau a ddylai gynhyrchu canlyniadau; mae'r rhesymeg
+  honno'n perthyn i [damcaniaeth newid](../damcaniaeth-newid/), ac mae model rhesymeg heb un y tu ôl iddo
   heb ei brofi.
 - **Ei drin fel dogfen gais untro.** Mae modelau rhesymeg a gynhyrchwyd dim ond i fodloni cais am
   arian, ac na chânt eu diweddaru byth wedyn, yn peidio ag adlewyrchu'r hyn y mae'r rhaglen yn ei

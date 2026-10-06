@@ -15,7 +15,7 @@ Mecaneg sy'n ei gwneud yn gyfrifadwy:
   llinell sylfaen wedi'i chofnodi CYN y dyddiad mynd yn fyw (heblaw hynny mae'r
     gwahaniaeth yn anfesuradwy)
   pob budd: perchennog wedi'i enwi, metrig, ffynhonnell ddata, amserlen fesur
-  rhagolwg wedi'i addasu ar gyfer gogwydd optimistiaeth adeg gwerthuso (mandad y Llyfr Gwyrdd)
+  rhagolwg wedi'i addasu ar gyfer tuedd optimistiaeth adeg gwerthuso (mandad y Llyfr Gwyrdd)
   buddion wedi'u dosbarthu'n rhyddhau arian parod / capasiti wedi'i ryddhau / ansoddol,
   wedi'u holrhain a'u hadrodd ar wahân
 ```
@@ -33,7 +33,7 @@ Boddhad              +8pp       +11pp        138%      data arolwg ymgeiswyr
 Camau gweithredu o'r adolygiad (pwynt gwireddu buddion):
 olrhaniwyd y diffyg arian parod i ddau faes gwasanaeth sy'n dal i brosesu
 ceisiadau papur drwy eithriad → cau'r llwybr eithrio;
-codwyd cywiriad gogwydd optimistiaeth yr achos busnes nesaf o 10% i 25%
+codwyd cywiriad tuedd optimistiaeth yr achos busnes nesaf o 10% i 25%
 yn seiliedig ar wall rhagolygu'r achos hwn.
 ```
 
@@ -41,7 +41,7 @@ Nid methiant yw cyfradd wireddu o 70% — mae'n wybodaeth sy'n galluogi'r rhagol
 
 ## Cysylltiad peirianneg feddalwedd
 
-Mae sefydliadau peirianneg yn rheolaidd yn cymeradwyo buddsoddiadau llwyfan ac offer ar sail budd a ragwelir ac bron byth yn eu harchwilio wedyn — yr union batholeg y mae rheoli gwireddu buddion yn bodoli i'w thrwsio. Y trosiad ysgafn: mae pob cynnig uwchlaw trothwy materoldeb yn enwi perchennog budd, metrig llinell sylfaen, a dyddiad adolygu penodol (chwe mis ar ôl y dyddiad mynd yn fyw fel arfer), a dylai cyfraddau gwireddu o gynigion blaenorol ddisgowntio faint y mae'r sefydliad yn ymddiried yn rhagolwg nesaf tîm neu werthwr. Mae hyn yn cau'r ddolen yn ôl at [werthuso'r Llyfr Gwyrdd](../arfarniad-y-llyfr-gwyrdd/), sy'n gosod y rhagolwg y mae'r ddisgyblaeth hon yn ei archwilio, a dyma'r un rhesymeg y tu ôl i'r canfyddiad a adroddwyd yn eang fod mwyafrif helaeth o beilotau AI cynhyrchiol yn dangos dim adenillion mesuradwy — gweler [cynhyrchedd AI yn y sector cyhoeddus](../cynhyrchedd-ai-yn-y-sector-cyhoeddus/) — am mai'r peilotau a *wnaeth* ddychwelyd gwerth oedd, bron yn ddieithriad, y rhai â llinell fudd wedi'i henwi ac y gellid ei holrhain o'r cychwyn. Mae hefyd yn dibynnu ar wahaniaethu rhwng yr hyn a gyflwynwyd mewn gwirionedd a'r hyn a wireddwyd mewn gwirionedd — gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-cynhyrchion/).
+Mae sefydliadau peirianneg yn rheolaidd yn cymeradwyo buddsoddiadau llwyfan ac offer ar sail budd a ragwelir ac bron byth yn eu harchwilio wedyn — yr union batholeg y mae rheoli gwireddu buddion yn bodoli i'w thrwsio. Y trosiad ysgafn: mae pob cynnig uwchlaw trothwy materoldeb yn enwi perchennog budd, metrig llinell sylfaen, a dyddiad adolygu penodol (chwe mis ar ôl y dyddiad mynd yn fyw fel arfer), a dylai cyfraddau gwireddu o gynigion blaenorol ddisgowntio faint y mae'r sefydliad yn ymddiried yn rhagolwg nesaf tîm neu werthwr. Mae hyn yn cau'r ddolen yn ôl at [werthuso'r Llyfr Gwyrdd](../arfarniad-y-llyfr-gwyrdd/), sy'n gosod y rhagolwg y mae'r ddisgyblaeth hon yn ei archwilio, a dyma'r un rhesymeg y tu ôl i'r canfyddiad a adroddwyd yn eang fod mwyafrif helaeth o beilotau deallusrwydd artiffisial cynhyrchiol yn dangos dim adenillion mesuradwy — gweler [cynhyrchiant Deallusrwydd Artiffisial yn y sector cyhoeddus](../cynhyrchiant-deallusrwydd-artiffisial-yn-y-sector-cyhoeddus/) — am mai'r peilotau a *wnaeth* ddychwelyd gwerth oedd, bron yn ddieithriad, y rhai â llinell fudd wedi'i henwi ac y gellid ei holrhain o'r cychwyn. Mae hefyd yn dibynnu ar wahaniaethu rhwng yr hyn a gyflwynwyd mewn gwirionedd a'r hyn a wireddwyd mewn gwirionedd — gweler [canlyniadau yn erbyn allbynnau](../canlyniadau-yn-erbyn-allbynnau/).
 
 ## Peryglon
 
