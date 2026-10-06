@@ -69,7 +69,7 @@ Content lives under `$lib/server`, so the book's Markdown can never reach a brow
 
 ## Locales
 
-This book publishes in 47 locales — canonical English (Oxford spelling), three further English variants, and AI translations into 43 other locales (see the book's README for the list). The site never hardcodes this list: `content.js`'s `locales()` discovers it from whatever `content/locales/*/` directories `sync-content.mjs` vendored, so a new locale in the book publishes here with no code change beyond its UI strings (`src/lib/i18n.js`) and label (`src/lib/locales.js`).
+This book publishes in 48 locales — canonical English (Oxford spelling), three further English variants, and AI translations into 44 other locales (see the book's README for the list). The site never hardcodes this list: `content.js`'s `locales()` discovers it from whatever `content/locales/*/` directories `sync-content.mjs` vendored, so a new locale in the book publishes here with no code change beyond its UI strings (`src/lib/i18n.js`) and label (`src/lib/locales.js`).
 
 In the book, every non-English locale translates both the `topics/` directory name and each topic slug (for example `locales/cs-001/témata/veřejná-hodnota/`). `sync-content.mjs` finds each locale's topics directory (the subdirectory whose children carry a `.locale-peer-id`), vendors it back as `topics/`, and rewrites the locale index's intro links to match, so routes stay `/<locale>/topics/<slug>/`. Slugs are native-script and therefore percent-encoded in URLs. The locale switcher finds "the same page" through the topic's peer-id, so differing slugs never need special-casing.
 

@@ -2,7 +2,7 @@
 
 > A comprehensive introduction to public value math, examples, and reasoning, written for software engineers building for governmental and social sector organizations worldwide. Each file covers one metric or concept: definition, why it matters, the method, a worked example, the software engineering connection, pitfalls, and sources.
 
-64 topics in 8 parts, published in 47 locales. Canonical locale: `en-gb-oxendict` (English, Oxford spelling); the other locales are AI-translated. Each topic page covers: definition, why it matters, the maths, a worked example, the software engineering connection, pitfalls, sources.
+64 topics in 8 parts, published in 48 locales. Canonical locale: `en-gb-oxendict` (English, Oxford spelling); the other locales are AI-translated. Each topic page covers: definition, why it matters, the maths, a worked example, the software engineering connection, pitfalls, sources.
 
 Topic URLs follow `https://public-value-metrics.github.io/<locale>/topics/<slug>/`. Slugs are English in the English locales and translated in every other locale; `/<locale>/topics/` lists a locale's slugs. Source and conventions: https://github.com/public-value-metrics/public-value-metrics (see AGENTS.md).
 

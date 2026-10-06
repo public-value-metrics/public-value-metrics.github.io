@@ -1356,6 +1356,54 @@ const el = {
 	paginationNext: 'Επόμενο'
 };
 
+const fi = {
+	skipToContent: 'Siirry sisältöön',
+	navHome: 'Etusivu',
+	navContents: 'Sisällys',
+	navTopicsAZ: 'Aiheet A–Ö',
+	navSearch: 'Haku',
+	navAbout: 'Tietoa kirjasta',
+	footerSourceLink: 'Lähde',
+	footerTaglineSuffix:
+		' — julkisen arvon matematiikka, esimerkit ja päättely ohjelmistoinsinööreille, jotka rakentavat valtionhallinnon ja yhteiskunnallisen sektorin organisaatioille ympäri maailmaa.',
+	footerNote:
+		'Tämän kirjan luvut vanhenevat nopeasti. Jokainen aihe ajoittaa viiteluvut tekstissä; tarkista ne uudelleen ennen kuin käytät mitään lukua todellisessa liiketoimintaperustelussa.',
+	pickerTheme: 'Ulkoasun teema',
+	pickerLanguage: 'Kieli',
+	pickerTextSize: 'Tekstin koko',
+	pickerShare: 'Jaa',
+	shareCopyLink: 'Kopioi linkki',
+	shareCopied: 'Kopioitu',
+	shareCopyFailed: 'Kopiointi epäonnistui',
+	shareEmailLabel: 'Lähetä linkki sähköpostilla',
+	shareLinkedinLabel: 'Jaa LinkedInissä',
+	shareRedditLabel: 'Jaa Redditissä',
+	shareBlueskyLabel: 'Jaa Blueskyssä',
+	shareMastodonLabel: 'Jaa Mastodonissa',
+	startHere: 'Aloita tästä',
+	startHereSubtitle: 'Kolme ajatusta, joiden varaan kaikki muu rakentuu.',
+	contentsMetaDescription: (bookTitle) => `Kirjan «${bookTitle}» jokainen aihe lukujärjestyksessä.`,
+	topicsMetaDescription: (bookTitle) => `Kirjan «${bookTitle}» jokainen aihe aakkosjärjestyksessä.`,
+	topicsIntroPrefix: (count) => `Kaikki ${count} aihetta aakkosjärjestyksessä. Lukujärjestystä varten katso:`,
+	contentsLinkText: 'sisällys',
+	jumpToLetter: 'Siirry kirjaimeen',
+	searchMetaDescription: (bookTitle) => `Hae kirjan «${bookTitle}» jokaisesta aiheesta.`,
+	searchIntro: (count) =>
+		`Hae kaikista ${count} aiheesta otsikon, osan, yhteenvedon ja väliotsikoiden perusteella. Kaikki toimii selaimessasi — mikään kirjoittamasi ei poistu tältä sivulta.`,
+	searchInputLabel: 'Hae aiheista',
+	searchPlaceholder: 'SROI, diskonttaus, kustannus tulosta kohti…',
+	searchHintEmptyHtml: 'Kirjoita hakeaksesi. Kokeile <em>SROI</em>, <em>hukkavaikutus</em> tai <em>rahalle vastine</em>.',
+	noResultsPrefix: 'Mikään aihe ei vastaa hakua: ',
+	noResultsMiddle: '. Kokeile laajempaa hakusanaa tai selaa sivuja: ',
+	resultsCountSingular: 'aihe',
+	resultsCountPlural: 'aihetta',
+	topicPosition: (index, total) => `Aihe ${index} / ${total}`,
+	onThisPage: 'Tällä sivulla',
+	paginationLabel: 'Kirja',
+	paginationPrevious: 'Edellinen',
+	paginationNext: 'Seuraava'
+};
+
 const TRANSLATIONS = {
 	'vi-001': vi,
 	'da-001': da,
@@ -1368,6 +1416,7 @@ const TRANSLATIONS = {
 	'ro-001': ro,
 	'hu-001': hu,
 	'el-001': el,
+	'fi-001': fi,
 	'de-de': de,
 	'de-001': de,
 	'ja-jp': ja,
