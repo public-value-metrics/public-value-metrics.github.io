@@ -57,6 +57,7 @@ content/               the book, verbatim (generated — do not edit)
 src/lib/markdown.js    Markdown -> HTML: link rewriting, heading ids
 src/lib/paths.js       content path <-> site route mapping
 src/lib/server/        content access and book structure (server-only)
+scripts/                post-build: search-index.json, llms.txt, llms.json, sitemap.xml
 src/routes/            home, contents, topics A-Z, topic pages, search, about
 static/assets/style.css  the site's own styling; Lily ships none
 static/assets/themes/  Lily theme CSS, synced from node_modules (generated — do not edit, not committed)
@@ -68,9 +69,17 @@ Content lives under `$lib/server`, so the book's Markdown can never reach a brow
 
 ## Locales
 
-This book publishes in 16 locales — the canonical English (Oxford spelling), three further English variants, Welsh, and full translations into Chinese, Hindi, Arabic, Spanish, French, Russian, Bengali, Portuguese, Indonesian, and Urdu. The site never hardcodes this list: `content.js`'s `locales()` discovers it from whatever `content/locales/*/` directories `sync-content.mjs` vendored, so a new locale in the book publishes here with no code change. Labels and ordering live in `src/lib/locales.js`.
+This book publishes in 47 locales — canonical English (Oxford spelling), three further English variants, and AI translations into 43 other locales (see the book's README for the list). The site never hardcodes this list: `content.js`'s `locales()` discovers it from whatever `content/locales/*/` directories `sync-content.mjs` vendored, so a new locale in the book publishes here with no code change beyond its UI strings (`src/lib/i18n.js`) and label (`src/lib/locales.js`).
 
-Every locale keeps the book's English slugs for its topic directories (only the content is translated, never the directory name), so cross-locale links never need special-casing beyond the ordinary `-ize`/`-ise` English spelling split (`benefits-realization` vs `benefits-realisation`).
+In the book, every non-English locale translates both the `topics/` directory name and each topic slug (for example `locales/cs-001/témata/veřejná-hodnota/`). `sync-content.mjs` finds each locale's topics directory (the subdirectory whose children carry a `.locale-peer-id`), vendors it back as `topics/`, and rewrites the locale index's intro links to match, so routes stay `/<locale>/topics/<slug>/`. Slugs are native-script and therefore percent-encoded in URLs. The locale switcher finds "the same page" through the topic's peer-id, so differing slugs never need special-casing.
+
+## Sitemap
+
+`scripts/build-sitemap.mjs` (part of `pnpm run build`) writes `build/sitemap.xml` from the generated HTML — one entry per canonical page, percent-encoded, alias redirects excluded — and `static/robots.txt` points to it. See `spec/sitemap/index.md`.
+
+## AI-readable outputs
+
+`scripts/build-llms.mjs` (part of `pnpm run build`) writes `build/llms.txt` ([llmstxt.org](https://llmstxt.org/) format) and `build/llms.json`: the book's parts and topics in reading order, with canonical-locale URLs, derived from `content/README.md` and `content/locales/` so they never go stale; `pnpm run sync` also commits copies at the repository root and in `static/`. The repository's `AGENTS.md` describes the conventions for agents.
 
 ## Themes
 

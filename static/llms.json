@@ -1,0 +1,483 @@
+{
+  "title": "Public Value Metrics",
+  "summary": "A comprehensive introduction to public value math, examples, and reasoning, written for software engineers building for governmental and social sector organizations worldwide. Each file covers one metric or concept: definition, why it matters, the method, a worked example, the software engineering connection, pitfalls, and sources.",
+  "site": "https://public-value-metrics.github.io",
+  "repository": "https://github.com/public-value-metrics/public-value-metrics",
+  "defaultLocale": "en-gb-oxendict",
+  "locales": [
+    "ar-001",
+    "ar-eg",
+    "bn-001",
+    "bn-bd",
+    "cs-001",
+    "cy-001",
+    "cy-gb",
+    "da-001",
+    "de-001",
+    "de-de",
+    "el-001",
+    "en-001",
+    "en-gb",
+    "en-gb-oxendict",
+    "en-us",
+    "es-001",
+    "es-es",
+    "et-001",
+    "fr-001",
+    "fr-fr",
+    "hi-001",
+    "hi-in",
+    "hu-001",
+    "id-001",
+    "id-id",
+    "it-001",
+    "ja-001",
+    "ja-jp",
+    "ko-001",
+    "ko-kr",
+    "nl-001",
+    "nl-nl",
+    "pl-001",
+    "pt-001",
+    "pt-pt",
+    "ro-001",
+    "ru-001",
+    "ru-ru",
+    "sv-001",
+    "sv-se",
+    "tr-001",
+    "uk-001",
+    "ur-001",
+    "ur-pk",
+    "vi-001",
+    "zh-001",
+    "zh-cn"
+  ],
+  "topicUrlPattern": "https://public-value-metrics.github.io/<locale>/topics/<slug>/",
+  "parts": [
+    {
+      "title": "Public value foundations",
+      "topics": [
+        {
+          "title": "Public value",
+          "slug": "public-value",
+          "summary": "Mark Moore's strategic triangle: legitimacy, mission, and operational capacity as the test of public worth",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/public-value/"
+        },
+        {
+          "title": "Value for money (VFM)",
+          "slug": "value-for-money",
+          "summary": "Economy, efficiency, effectiveness — and the contested fourth E, equity",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/value-for-money/"
+        },
+        {
+          "title": "Opportunity cost in public spending",
+          "slug": "opportunity-cost-in-public-spending",
+          "summary": "Every pound a department spends is a pound not spent on the next-best programme",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/opportunity-cost-in-public-spending/"
+        },
+        {
+          "title": "Social discount rate",
+          "slug": "social-discount-rate",
+          "summary": "The Green Book's declining discount rate, and why 3.5% became a live political question",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/social-discount-rate/"
+        },
+        {
+          "title": "Distributional weighting",
+          "slug": "distributional-weighting",
+          "summary": "Why a pound matters more to a poor household — and how the Green Book prices that",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/distributional-weighting/"
+        },
+        {
+          "title": "Additionality and deadweight",
+          "slug": "additionality-and-deadweight",
+          "summary": "Would it have happened anyway? The question that deflates most impact claims",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/additionality-and-deadweight/"
+        },
+        {
+          "title": "Displacement and attribution",
+          "slug": "displacement-and-attribution",
+          "summary": "When your win is someone else's loss, and when it isn't fully yours to claim",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/displacement-and-attribution/"
+        },
+        {
+          "title": "Counterfactual analysis",
+          "slug": "counterfactual-analysis",
+          "summary": "No counterfactual, no evidence — constructing the world without the intervention",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/counterfactual-analysis/"
+        }
+      ]
+    },
+    {
+      "title": "Governmental economic appraisal",
+      "topics": [
+        {
+          "title": "Green Book appraisal (five-case model)",
+          "slug": "green-book-appraisal",
+          "summary": "HM Treasury's five-case model: the strategic, economic, commercial, financial, and management cases",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/green-book-appraisal/"
+        },
+        {
+          "title": "Social cost-benefit analysis (SCBA)",
+          "slug": "social-cost-benefit-analysis",
+          "summary": "Monetising everything, including what markets never priced",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/social-cost-benefit-analysis/"
+        },
+        {
+          "title": "Cost-effectiveness analysis in government",
+          "slug": "cost-effectiveness-analysis-in-government",
+          "summary": "Cost per unit of outcome, when outcomes can't honestly be converted to money",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/cost-effectiveness-analysis-in-government/"
+        },
+        {
+          "title": "Multi-criteria decision analysis (MCDA)",
+          "slug": "multi-criteria-decision-analysis",
+          "summary": "Scoring options against weighted criteria when a single metric would hide the trade-offs",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/multi-criteria-decision-analysis/"
+        },
+        {
+          "title": "Wellbeing valuation (WELLBY)",
+          "slug": "wellbeing-valuation",
+          "summary": "WELLBYs and the wellbeing adjustment: pricing policy in life-satisfaction units",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/wellbeing-valuation/"
+        },
+        {
+          "title": "Stated preference valuation",
+          "slug": "stated-preference-valuation",
+          "summary": "Asking people what they'd pay — contingent valuation and its credibility problem",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/stated-preference-valuation/"
+        },
+        {
+          "title": "Revealed preference valuation",
+          "slug": "revealed-preference-valuation",
+          "summary": "Inferring value from what people actually do, from hedonic pricing to travel-cost methods",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/revealed-preference-valuation/"
+        },
+        {
+          "title": "Shadow pricing",
+          "slug": "shadow-pricing",
+          "summary": "Pricing what has no market price: carbon, time, and non-traded goods",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/shadow-pricing/"
+        }
+      ]
+    },
+    {
+      "title": "Social value and impact measurement",
+      "topics": [
+        {
+          "title": "Social return on investment (SROI)",
+          "slug": "social-return-on-investment",
+          "summary": "The SROI ratio, and the discipline that keeps it from becoming a marketing number",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/social-return-on-investment/"
+        },
+        {
+          "title": "Theory of change",
+          "slug": "theory-of-change",
+          "summary": "Mapping the causal chain from activity to long-term outcome before you measure anything",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/theory-of-change/"
+        },
+        {
+          "title": "Logic model",
+          "slug": "logic-model",
+          "summary": "Inputs, activities, outputs, outcomes, impact — the accountability spine of a programme",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/logic-model/"
+        },
+        {
+          "title": "Outcomes vs outputs",
+          "slug": "outcomes-vs-outputs",
+          "summary": "Why \"500 people attended\" is not the same claim as \"500 people's lives improved\"",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/outcomes-vs-outputs/"
+        },
+        {
+          "title": "Social Value Act",
+          "slug": "social-value-act",
+          "summary": "The UK's 2012 duty to consider social value in public procurement",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/social-value-act/"
+        },
+        {
+          "title": "Unit cost databases",
+          "slug": "unit-cost-databases",
+          "summary": "HACT's Social Value Bank and Global Value Exchange: pre-costed proxies so nobody starts from zero",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/unit-cost-databases/"
+        },
+        {
+          "title": "Impact evaluation methods",
+          "slug": "impact-evaluation-methods",
+          "summary": "RCTs, difference-in-differences, and propensity score matching for policies you can't run in a lab",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/impact-evaluation-methods/"
+        },
+        {
+          "title": "Impact evaluation vs process evaluation",
+          "slug": "impact-evaluation-vs-process-evaluation",
+          "summary": "Did it work, versus did it happen as designed — two different questions, two different methods",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/"
+        }
+      ]
+    },
+    {
+      "title": "Governmental performance and delivery metrics",
+      "topics": [
+        {
+          "title": "Public sector KPIs",
+          "slug": "public-sector-kpis",
+          "summary": "Choosing indicators that survive Goodhart's law",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/public-sector-kpis/"
+        },
+        {
+          "title": "Public value scorecard",
+          "slug": "public-value-scorecard",
+          "summary": "Adapting Kaplan and Norton's balanced scorecard for a mission that isn't profit",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/public-value-scorecard/"
+        },
+        {
+          "title": "Outcomes-based accountability",
+          "slug": "outcomes-based-accountability",
+          "summary": "Mark Friedman's \"Results-Based Accountability\": population results versus performance accountability",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/outcomes-based-accountability/"
+        },
+        {
+          "title": "Payment by results and social impact bonds",
+          "slug": "payment-by-results-and-social-impact-bonds",
+          "summary": "Paying for outcomes, not activity — and why the incentive design is the whole game",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/payment-by-results-and-social-impact-bonds/"
+        },
+        {
+          "title": "Public service productivity",
+          "slug": "public-service-productivity",
+          "summary": "Measuring output growth in services with no market price, from the ONS methodology onward",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/public-service-productivity/"
+        },
+        {
+          "title": "Citizen satisfaction metrics",
+          "slug": "citizen-satisfaction-metrics",
+          "summary": "Net satisfaction, trust surveys, and the gap between service quality and perceived value",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/citizen-satisfaction-metrics/"
+        },
+        {
+          "title": "Service standards and transaction metrics",
+          "slug": "service-standards-and-transaction-metrics",
+          "summary": "GOV.UK-style service standards: completion rate, cost per transaction, digital take-up",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/service-standards-and-transaction-metrics/"
+        },
+        {
+          "title": "Trust and legitimacy metrics",
+          "slug": "trust-and-legitimacy-metrics",
+          "summary": "Why legitimacy is one of Moore's three tests, and how governments try to measure it",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/trust-and-legitimacy-metrics/"
+        }
+      ]
+    },
+    {
+      "title": "Social sector and philanthropy metrics",
+      "topics": [
+        {
+          "title": "Cost per outcome",
+          "slug": "cost-per-outcome",
+          "summary": "The unit economics of a charity: cost per person meaningfully helped, not cost per person touched",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/cost-per-outcome/"
+        },
+        {
+          "title": "Cost per beneficiary",
+          "slug": "cost-per-beneficiary",
+          "summary": "A cruder, faster cousin of cost-per-outcome, and why funders still ask for it",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/cost-per-beneficiary/"
+        },
+        {
+          "title": "Blended value",
+          "slug": "blended-value",
+          "summary": "Financial, social, and environmental return as one inseparable bottom line",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/blended-value/"
+        },
+        {
+          "title": "Effective altruism cost-effectiveness",
+          "slug": "effective-altruism-cost-effectiveness",
+          "summary": "GiveWell-style cost-per-life-saved reasoning, and its QALY-shaped ancestry",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/effective-altruism-cost-effectiveness/"
+        },
+        {
+          "title": "Charity overhead ratio",
+          "slug": "charity-overhead-ratio",
+          "summary": "Why the \"how much goes to admin\" question is the wrong question, and funders still ask it",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/charity-overhead-ratio/"
+        },
+        {
+          "title": "Donor return on investment",
+          "slug": "donor-return-on-investment",
+          "summary": "What a donor actually gets back, and why it isn't the charity's ROI",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/donor-return-on-investment/"
+        },
+        {
+          "title": "Grant outcomes reporting (IRIS+)",
+          "slug": "grant-outcomes-reporting",
+          "summary": "IRIS+ metrics and the standardisation of what funders ask grantees to report",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/grant-outcomes-reporting/"
+        },
+        {
+          "title": "Volunteer time value",
+          "slug": "volunteer-time-value",
+          "summary": "Pricing unpaid labour without either erasing it or inflating it",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/volunteer-time-value/"
+        }
+      ]
+    },
+    {
+      "title": "Public value in digital government",
+      "topics": [
+        {
+          "title": "Digital service standard",
+          "slug": "digital-service-standard",
+          "summary": "GOV.UK's design principles and service assessment as a public value gate",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/digital-service-standard/"
+        },
+        {
+          "title": "Cost per transaction",
+          "slug": "cost-per-transaction",
+          "summary": "The digital channel's headline economics, and its most common accounting trick",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/cost-per-transaction/"
+        },
+        {
+          "title": "Channel shift savings",
+          "slug": "channel-shift-savings",
+          "summary": "What actually happens to the phone line and the counter when a service goes online",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/channel-shift-savings/"
+        },
+        {
+          "title": "Digital inclusion",
+          "slug": "digital-inclusion",
+          "summary": "Assisted digital, the digital divide, and the value lost when \"digital by default\" excludes",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/digital-inclusion/"
+        },
+        {
+          "title": "Government as a platform",
+          "slug": "government-as-a-platform",
+          "summary": "Shared components as public infrastructure: GOV.UK Notify, Pay, and the economics of reuse",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/government-as-a-platform/"
+        },
+        {
+          "title": "Open data value",
+          "slug": "open-data-value",
+          "summary": "Valuing data that has no price, from the McKinsey estimates to per-dataset case studies",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/open-data-value/"
+        },
+        {
+          "title": "Public sector cybersecurity value",
+          "slug": "public-sector-cybersecurity-value",
+          "summary": "Pricing risk reduction for the citizen data a breach would expose",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/public-sector-cybersecurity-value/"
+        },
+        {
+          "title": "AI in government value",
+          "slug": "ai-in-government-value",
+          "summary": "Assessing AI adoption in public services against the same value-for-money bar as everything else",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/ai-in-government-value/"
+        }
+      ]
+    },
+    {
+      "title": "Wellbeing, equity and societal indicators",
+      "topics": [
+        {
+          "title": "GDP alternatives",
+          "slug": "gdp-alternatives",
+          "summary": "The Genuine Progress Indicator, Gross National Happiness, and GDP's well-known blind spots",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/gdp-alternatives/"
+        },
+        {
+          "title": "Human Development Index (HDI)",
+          "slug": "human-development-index",
+          "summary": "Life expectancy, education, and income combined into one number — and what it flattens",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/human-development-index/"
+        },
+        {
+          "title": "Multidimensional Poverty Index (MPI)",
+          "slug": "multidimensional-poverty-index",
+          "summary": "Counting deprivations, not just income, across health, education, and living standards",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/multidimensional-poverty-index/"
+        },
+        {
+          "title": "Wellbeing-adjusted life years (WELLBY)",
+          "slug": "wellbeing-adjusted-life-years",
+          "summary": "The WELLBY: a QALY-shaped unit for policies whose currency is life satisfaction, not health",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/wellbeing-adjusted-life-years/"
+        },
+        {
+          "title": "Index of Multiple Deprivation (IMD)",
+          "slug": "index-of-multiple-deprivation",
+          "summary": "England's small-area deprivation ranking, and how it routes funding and attention",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/index-of-multiple-deprivation/"
+        },
+        {
+          "title": "Social capital metrics",
+          "slug": "social-capital-metrics",
+          "summary": "Trust, networks, and civic participation as an economic asset with no ledger entry",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/social-capital-metrics/"
+        },
+        {
+          "title": "Natural capital accounting",
+          "slug": "natural-capital-accounting",
+          "summary": "Putting the environment on the balance sheet, from the UK's 25 Year Environment Plan onward",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/natural-capital-accounting/"
+        },
+        {
+          "title": "Intergenerational equity and sustainability discounting",
+          "slug": "intergenerational-equity-and-sustainability-discounting",
+          "summary": "Why discounting the far future at any positive rate can erase it from the analysis",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/intergenerational-equity-and-sustainability-discounting/"
+        }
+      ]
+    },
+    {
+      "title": "Software engineering and digital delivery connection",
+      "topics": [
+        {
+          "title": "Cost of delay in public programmes",
+          "slug": "cost-of-delay-in-public-programmes",
+          "summary": "£/week or WELLBYs/week of non-delivery — the master bridge metric, imported from health economics",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/cost-of-delay-in-public-programmes/"
+        },
+        {
+          "title": "DORA metrics for public value",
+          "slug": "dora-metrics-for-public-value",
+          "summary": "Delivery performance metrics, translated into public-sector accountability terms",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/dora-metrics-for-public-value/"
+        },
+        {
+          "title": "Flow metrics in government delivery",
+          "slug": "flow-metrics-in-government-delivery",
+          "summary": "Little's Law, WIP, and flow efficiency applied to a casework queue instead of a sprint board",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/flow-metrics-in-government-delivery/"
+        },
+        {
+          "title": "Technical debt as public value erosion",
+          "slug": "technical-debt-as-public-value-erosion",
+          "summary": "Principal and interest, and the chronic-disease economics of a legacy public system",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/technical-debt-as-public-value-erosion/"
+        },
+        {
+          "title": "Total cost of ownership (TCO) in government IT",
+          "slug": "total-cost-of-ownership-in-government-it",
+          "summary": "Maintenance is 50-80% of the bill; the naive-procurement-price error in public IT",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/total-cost-of-ownership-in-government-it/"
+        },
+        {
+          "title": "Build vs buy in government",
+          "slug": "build-vs-buy-in-government",
+          "summary": "Risk-adjusted comparison with the delay term priced, for a sector that mostly buys",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/build-vs-buy-in-government/"
+        },
+        {
+          "title": "Benefits realization",
+          "slug": "benefits-realization",
+          "summary": "Auditing that the business case's forecast benefits actually landed, after go-live",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/benefits-realization/"
+        },
+        {
+          "title": "AI productivity in the public sector",
+          "slug": "ai-productivity-in-the-public-sector",
+          "summary": "What the AI-developer-productivity evidence base implies for public-sector engineering teams",
+          "url": "https://public-value-metrics.github.io/en-gb-oxendict/topics/ai-productivity-in-the-public-sector/"
+        }
+      ]
+    }
+  ]
+}

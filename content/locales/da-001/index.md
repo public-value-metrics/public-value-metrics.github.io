@@ -2,7 +2,7 @@
 
 En omfattende introduktion til offentlig-værdi-matematik, eksempler, og ræsonnement, skrevet for softwareIngeniører, der bygger for statslige og social-sektor-organisationer verdensOmspændende. Hver fil dækker en måling eller koncept: definition, hvorfor det betyder noget, metoden, et gennemregnet eksempel, software-ingeniør-forbindelsen, faldgruber, og kilder.
 
-Ny her? Start med [offentlig værdi](locales/da-001/topics/public-value/), [value for money](locales/da-001/topics/value-for-money/), og [forandringsTeori](locales/da-001/topics/theory-of-change/) — de tre ideer, alt andet bygger på.
+Ny her? Start med [offentlig værdi](locales/da-001/topics/offentlig-værdi/), [value for money](locales/da-001/topics/value-for-money/), og [forandringsTeori](locales/da-001/topics/forandringsteori/) — de tre ideer, alt andet bygger på.
 
 ## Fundamentet for offentlig værdi
 

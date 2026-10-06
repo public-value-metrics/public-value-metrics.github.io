@@ -4,15 +4,17 @@
 // Source: $BOOK if set, else the monorepo root this site lives in (..).
 // Run after the book changes:  npm run sync:content
 //
-// The book publishes topics per locale: locales/<locale>/topics/<slug>/index.md,
+// The book publishes topics per locale: locales/<locale>/<topics dir>/<slug>/index.md
+// (the topics dir and slugs are translated in non-English locales),
 // plus a `.locale-peer-id` file per topic directory that is byte-identical across
 // every locale's version of "the same" topic (slugs can differ by locale, e.g.
 // en-us's hard-cash-releasing-savings-deficit-defense vs en-gb's ...-defence).
 // That peer-id is how the site resolves "the same page in another locale" for
 // the locale switcher, without needing a central manifest.
 
-import { cp, mkdir, rm, readdir, stat } from 'node:fs/promises';
+import { cp, mkdir, rm, readdir, stat, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -61,7 +63,25 @@ if (localeNames.length === 0) {
 	process.exit(1);
 }
 
+// Non-English locales translate the `topics/` directory name itself (cs-001's
+// `témata/`, ja-jp's `トピック/`, ...). The topics directory is whichever
+// subdirectory has children carrying a `.locale-peer-id`; it is vendored back
+// under the fixed name `topics/` so the site's routes and content loader stay
+// locale-agnostic. Topic slugs are likewise translated per locale; those carry
+// through unchanged, since the peer-id already maps "the same topic" across them.
+async function topicsDirName(locale) {
+	const base = join(localesDir, locale);
+	for (const e of await readdir(base, { withFileTypes: true })) {
+		if (!e.isDirectory()) continue;
+		for (const c of await readdir(join(base, e.name), { withFileTypes: true })) {
+			if (c.isDirectory() && existsSync(join(base, e.name, c.name, '.locale-peer-id'))) return e.name;
+		}
+	}
+	return null;
+}
+
 for (const locale of localeNames) {
+	const topicsName = await topicsDirName(locale);
 	// This locale's own translated index.md (the book's per-locale README,
 	// read by book.js's readmeSource/localizedIndex) — vendored even when
 	// still an empty placeholder, so the site's fallback-to-canonical logic
@@ -71,11 +91,17 @@ for (const locale of localeNames) {
 		const localeDirTo = join(contentDir, 'locales', locale);
 		await mkdir(localeDirTo, { recursive: true });
 		await cp(localeIndexFrom, join(localeDirTo, 'index.md'));
+		if (topicsName && topicsName !== 'topics') {
+			// Its intro links read locales/<code>/<translated topics dir>/<slug>/.
+			const indexTo = join(localeDirTo, 'index.md');
+			const text = await readFile(indexTo, 'utf8');
+			await writeFile(indexTo, text.split(`locales/${locale}/${topicsName}/`).join(`locales/${locale}/topics/`));
+		}
 		count += 1;
 	}
 
-	const topicsFrom = join(localesDir, locale, 'topics');
-	if (!existsSync(topicsFrom)) {
+	const topicsFrom = join(localesDir, locale, topicsName ?? 'topics');
+	if (!topicsName && !existsSync(topicsFrom)) {
 		console.warn(`skip (missing): locales/${locale}/topics/`);
 		continue;
 	}
@@ -118,6 +144,10 @@ for (const [from, to] of icons) {
 	await cp(src, join(siteRoot, 'static', to));
 	count += 1;
 }
+
+// llms.txt / llms.json: written to static/ (served by the site) and to the book's root (committed
+// beside README.md), both generated from the content just vendored. See spec/llms/index.md.
+execFileSync(process.execPath, ['scripts/build-llms.mjs', join(siteRoot, 'static'), book], { cwd: siteRoot, stdio: 'inherit' });
 
 const { size } = await stat(join(contentDir, 'README.md'));
 console.log(

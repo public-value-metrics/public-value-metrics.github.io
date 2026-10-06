@@ -57,7 +57,7 @@ Sama hulgaSuhe, 50% kõrgEM MPI Distriktis B — sihtimiSsüsteem, baseeritud va
 
 - SotsiaalseteLe programmidELe juhtumiHalDuSe- ja õigustatuSe-süsteemid säilitaVaD sageli juba mitmed kümneST indikaatoriST (elamispind, kooliKohalKäimine, tervise-markerid) eraldi siloDes; Alkire-Foster-tellimiSE-meetod on valmiS skeem nende kombineerimiSeKs üheKs puudusE-skooriKs, selle asemel, et ehitada skräddersyd skoorimis-mudel algusest peale.
 - HulgaSuhe-/intensiivsuSe-jaotuS (H × A) on üldiselt kasulik mustEr igaLe dashboardile, mis raporteerib "kui palju on mõjutatuD" koos "kui tõsiselT" — mõlema kollapseerimine üheKs numbriKs, nagu toores-prevalentsi-statistikaD teevaD, peidaB täpselt sedA sihtGruppi, mis vajab kõige rohkem ressursSi.
-- MPI-stiiLiSed indikaatori-dashboardid koMpoNeeruvaD naturaalSelt [kulu-abiSaaja-kohta](../cost-per-beneficiary/)-raporteerimiSeGa anti-vaesuSE-programmidELe: kulu MPI-vähenemiSe-punkti kohta on kaitstAv ühik erinevaTe interventsioonide võrdlemiSeKs (kontant-ülekanne vs. sanitatSiooniInfrastruktuur).
+- MPI-stiiLiSed indikaatori-dashboardid koMpoNeeruvaD naturaalSelt [kulu-abiSaaja-kohta](../kulu-abisaaja-kohta/)-raporteerimiSeGa anti-vaesuSE-programmidELe: kulu MPI-vähenemiSe-punkti kohta on kaitstAv ühik erinevaTe interventsioonide võrdlemiSeKs (kontant-ülekanne vs. sanitatSiooniInfrastruktuur).
 
 ## Lõksud
 

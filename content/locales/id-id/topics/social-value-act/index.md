@@ -44,8 +44,8 @@ Tema nilai sosial (PPN 06/20):
 ```
 
 Penawar biasanya memonetisasi komitmen mereka terhadap tema-tema ini menggunakan
-[basis data biaya satuan](../unit-cost-databases/), dan logika monetisasi yang sama yang digunakan
-dalam [laba atas investasi sosial](../social-return-on-investment/) berlaku: sebuah komitmen
+[basis data biaya satuan](../basis-data-biaya-satuan/), dan logika monetisasi yang sama yang digunakan
+dalam [laba atas investasi sosial](../laba-atas-investasi-sosial/) berlaku: sebuah komitmen
 seharusnya dibuktikan, dapat diatribusikan pada kontrak, dan tidak dihitung ganda terhadap pendanaan
 lain.
 
@@ -73,9 +73,9 @@ kewajiban untuk membuktikan penyampaian terhadapnya melalui manajemen kontrak �
 mulainya magang, belanja lokal, dan jam pelatihan terhadap komitmen spesifik yang dinilai pada
 tender, mengalir ke dalam pertemuan tinjauan kontrak alih-alih dilupakan setelah kontrak
 ditandatangani. Daftar G-Cloud dan Digital Marketplace semakin membutuhkan pernyataan nilai sosial
-pada titik pendaftaran. Lihat [laba atas investasi sosial](../social-return-on-investment/) untuk
-metode penilaian di balik komitmen tersebut, [basis data biaya satuan](../unit-cost-databases/)
-untuk proksi yang digunakan penawar, dan [luaran vs keluaran](../outcomes-vs-outputs/) untuk
+pada titik pendaftaran. Lihat [laba atas investasi sosial](../laba-atas-investasi-sosial/) untuk
+metode penilaian di balik komitmen tersebut, [basis data biaya satuan](../basis-data-biaya-satuan/)
+untuk proksi yang digunakan penawar, dan [luaran vs keluaran](../luaran-vs-keluaran/) untuk
 memastikan komitmen yang disampaikan adalah hasil, bukan sekadar jumlah aktivitas.
 
 ## Jebakan Umum
@@ -87,7 +87,7 @@ memastikan komitmen yang disampaikan adalah hasil, bukan sekadar jumlah aktivita
   secara eksplisit dalam kriteria pemberian kontrak, bukan digunakan secara informal untuk memecah
   seri antara penawaran yang jika tidak setara.
 - **Tidak ada tindak lanjut manajemen kontrak.** Komitmen yang dinilai pada tender sering tidak
-  pernah dilacak selama penyampaian — lihat [realisasi manfaat](../benefits-realization/).
+  pernah dilacak selama penyampaian — lihat [realisasi manfaat](../realisasi-manfaat/).
 - **Kerangka pengukuran yang tidak konsisten di seluruh kontrak.** Menggunakan sumber proksi yang
   berbeda untuk komitmen serupa pada kontrak yang berbeda membuat perbandingan tingkat portofolio
   tidak bermakna, itulah mengapa kerangka umum seperti National TOMs dan basis data biaya satuan

@@ -49,8 +49,8 @@ Ett HDI på 0,713 faller inom UNDP:s band "hög mänsklig utveckling" (0,700–0
 ## Koppling till mjukvaruutveckling
 
 - Det geometriska medelvärdesmönstret är direkt återanvändbart för alla sammansatta tjänste- eller produktpoäng du inte vill ska låta en stark dimension täcka över en kritiskt svag sådan — t.ex. att kombinera tillgänglighets-, prestanda- och tillförlitlighetspoäng för en offentlig digital tjänst multiplikativt snarare än genom ett viktat medelvärde, så att en tjänst som är snabb men otillgänglig inte kan poängsätta "bra".
-- HDI:s logaritmiska transformation av inkomst (avtagande marginalvärde av en extra pund) är samma logik bakom [fördelningsviktning](../distributional-weighting/) i bedömning: en extra 1 000 dollar betyder mycket mer för ett fattigt hushåll än ett rikt, och att behandla båda linjärt felprissätter påverkan.
-- Alla instrumentpaneler som rapporterar en enda blandad "digital inkludering"- eller "medborgarutfall"-poäng bör dokumentera sin aggregeringsformel lika explicit som UNDP:s tekniska anmärkningar gör — se [nyckeltal för offentlig sektor](../public-sector-kpis/) och [instrumentpanel för offentligt värde](../public-value-scorecard/).
+- HDI:s logaritmiska transformation av inkomst (avtagande marginalvärde av en extra pund) är samma logik bakom [fördelningsviktning](../fördelningsviktning/) i bedömning: en extra 1 000 dollar betyder mycket mer för ett fattigt hushåll än ett rikt, och att behandla båda linjärt felprissätter påverkan.
+- Alla instrumentpaneler som rapporterar en enda blandad "digital inkludering"- eller "medborgarutfall"-poäng bör dokumentera sin aggregeringsformel lika explicit som UNDP:s tekniska anmärkningar gör — se [nyckeltal för offentlig sektor](../nyckeltal-för-offentlig-sektor/) och [instrumentpanel för offentligt värde](../instrumentpanel-för-offentligt-värde/).
 
 ## Fallgropar
 

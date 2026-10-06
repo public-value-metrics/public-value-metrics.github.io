@@ -42,8 +42,8 @@ Social value themes (PPN 06/20):
 ```
 
 Les soumissionnaires monétisent typiquement leurs engagements au regard de ces thèmes en utilisant les
-[bases de données de coûts unitaires](../unit-cost-databases/), et la même logique de monétisation
-utilisée dans le [retour social sur investissement](../social-return-on-investment/) s'applique : un
+[bases de données de coûts unitaires](../bases-de-données-de-coûts-unitaires/), et la même logique de monétisation
+utilisée dans le [retour social sur investissement](../retour-social-sur-investissement/) s'applique : un
 engagement devrait être étayé par des preuves, attribuable au contrat, et non compté deux fois par
 rapport à d'autres financements.
 
@@ -73,10 +73,10 @@ dépenses locales et les heures de formation par rapport aux engagements spécif
 l'appel d'offres, alimentant les réunions de revue de contrat plutôt que d'être oubliés une fois le
 contrat signé. Les listings G-Cloud et Digital Marketplace exigent de plus en plus des déclarations de
 valeur sociale au moment du référencement. Voir
-[retour social sur investissement](../social-return-on-investment/) pour la méthode de valorisation
-derrière les engagements, [bases de données de coûts unitaires](../unit-cost-databases/) pour les
+[retour social sur investissement](../retour-social-sur-investissement/) pour la méthode de valorisation
+derrière les engagements, [bases de données de coûts unitaires](../bases-de-données-de-coûts-unitaires/) pour les
 proxys sur lesquels s'appuient les soumissionnaires, et
-[résultats et réalisations](../outcomes-vs-outputs/) pour s'assurer que les engagements délivrés sont
+[résultats et réalisations](../résultats-et-réalisations/) pour s'assurer que les engagements délivrés sont
 des résultats, pas seulement des décomptes d'activité.
 
 ## Pièges à éviter
@@ -89,7 +89,7 @@ des résultats, pas seulement des décomptes d'activité.
   des offres par ailleurs équivalentes.
 - **Absence de suivi en gestion de contrat.** Les engagements notés à l'appel d'offres ne sont
   fréquemment jamais suivis pendant la délivrance — voir
-  [réalisation des bénéfices](../benefits-realization/).
+  [réalisation des bénéfices](../réalisation-des-bénéfices/).
 - **Cadres de mesure incohérents entre contrats.** Utiliser des sources de proxy différentes pour des
   engagements similaires sur différents contrats rend la comparaison au niveau du portefeuille dénuée
   de sens, ce qui explique l'existence de cadres communs comme National TOMs et de bases de données de

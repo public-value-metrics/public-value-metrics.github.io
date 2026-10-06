@@ -75,7 +75,7 @@ Stern-style near-zero pure time preference (r ≈ 1.4% flat):
 The same £1 of harm avoided a century from now is worth 3.2p, 5.1p, or 25p today depending purely
 on which discounting convention is used — a near-eightfold range that drives whether a climate
 mitigation project with high upfront cost and payoff a century out clears a positive-NPV bar at
-all. This is the mechanism behind the chapter's central warning: at any meaningfully positive flat
+all. This is the mechanism behind the topic's central warning: at any meaningfully positive flat
 rate, sufficiently distant future harm is arithmetically erased from the appraisal, regardless of
 its real severity.
 

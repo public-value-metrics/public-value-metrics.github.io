@@ -56,7 +56,7 @@ Samma huvudräkningskvot, 50% högre MPI i Distrikt B — ett målinriktningssys
 
 - Ärendehanterings- och behörighetssystem för sociala program lagrar ofta redan flera av de tio indikatorerna (boende, skolnärvaro, hälsomarkörer) i separata silon; Alkire-Foster-räknemetoden är ett färdigt schema för att kombinera dem till en bristpoäng istället för att bygga en skräddarsydd poängsättningsmodell från grunden.
 - Huvudräknings-/intensitetsuppdelningen (H × A) är ett generellt användbart mönster för alla instrumentpaneler som rapporterar "hur många är berörda" tillsammans med "hur illa" — att slå ihop båda till ett tal, som rådataprevalensstatistik gör, döljer precis det fall som behöver mest resurser.
-- MPI-liknande indikatorinstrumentpaneler kombineras naturligt med [kostnad per förmånstagare](../cost-per-beneficiary/)-rapportering för antifattigdomsprogram: kostnad per poäng MPI-minskning är en försvarbar enhet för att jämföra mycket olika insatser (kontantöverföring kontra sanitetsinfrastruktur).
+- MPI-liknande indikatorinstrumentpaneler kombineras naturligt med [kostnad per förmånstagare](../kostnad-per-förmånstagare/)-rapportering för antifattigdomsprogram: kostnad per poäng MPI-minskning är en försvarbar enhet för att jämföra mycket olika insatser (kontantöverföring kontra sanitetsinfrastruktur).
 
 ## Fallgropar
 

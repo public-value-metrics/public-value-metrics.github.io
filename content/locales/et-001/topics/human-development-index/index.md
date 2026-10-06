@@ -51,8 +51,8 @@ HDI 0,713 langeb UNDP "kõrgE human-arengu" bänDiL (0,700-0,799); "väga kõrgE
 ## Seos tarkvaraarendusega
 
 - GeomeetrilinE-keskmise-mustEr on otse taaskasutataV mistahes komposiiTseLe teenuse- või toote-skoorile, mida ei taHA, et üks tugeV dimensioon kataks kriitiliSe nõrgA üheT — nt kombineeriDes ligiPääsetAvuSe-, jõuDluSe-, ja usaldusVäärsuSe-skoorid statslikuLe digiTeenuSeLe multiplikatiivSelt, ei kaalutud-keskmiSeGa, nii et kiiRe, kuid ligipääsemaTu, teenus ei saa skoorida "head."
-- HDI sissetuleku-log-transformatSioon (kahanev marginaalnE väärtus ekstrA naelaLe) on sama loogika, mis on [jaotuslikU-kaalumise](../distributional-weighting/) taga hindamiSeS: ekstrA $1000 tähendab palju rohkem vaeSeLe leibkonnale, kui rikKaLe, ja mõlema käsitlemine lineaarSelt valePrisSeB mõju.
-- MistahesDashboard, mis raporteerib üksikuT segatuD "digitaalne-kaasatuS" või "kodaniku-tulemuste" skoori, peaks dokumenteerima oma agregatSiooni-formula nii selgeSõnaliselt, kui UNDP tehniliseD noteD teevaD — vaata [avaliku sektori KPId](../public-sector-kpis/) ja [avaliku väärtuse scorecard](../public-value-scorecard/).
+- HDI sissetuleku-log-transformatSioon (kahanev marginaalnE väärtus ekstrA naelaLe) on sama loogika, mis on [jaotuslikU-kaalumise](../jaotuslik-kaalumine/) taga hindamiSeS: ekstrA $1000 tähendab palju rohkem vaeSeLe leibkonnale, kui rikKaLe, ja mõlema käsitlemine lineaarSelt valePrisSeB mõju.
+- MistahesDashboard, mis raporteerib üksikuT segatuD "digitaalne-kaasatuS" või "kodaniku-tulemuste" skoori, peaks dokumenteerima oma agregatSiooni-formula nii selgeSõnaliselt, kui UNDP tehniliseD noteD teevaD — vaata [avaliku sektori KPId](../avaliku-sektori-kpid/) ja [avaliku väärtuse scorecard](../avaliku-väärtuse-scorecard/).
 
 ## Lõksud
 

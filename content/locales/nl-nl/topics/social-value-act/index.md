@@ -25,7 +25,7 @@ Thema's van sociale waarde （PPN 06/20）:
  5. Welzijn
 ```
 
-Bieders monetariseren hun toezeggingen tegen deze thema's doorgaans met behulp van [databanken voor eenheidskosten](../unit-cost-databases/), en dezelfde monetarisatielogica gebruikt in [sociaal rendement op investering](../social-return-on-investment/) geldt: een toezegging moet worden bewezen, toeschrijfbaar aan het contract, en niet dubbel geteld tegen andere financiering.
+Bieders monetariseren hun toezeggingen tegen deze thema's doorgaans met behulp van [databanken voor eenheidskosten](../databanken-voor-eenheidskosten/), en dezelfde monetarisatielogica gebruikt in [sociaal rendement op investering](../sociaal-rendement-op-investering/) geldt: een toezegging moet worden bewezen, toeschrijfbaar aan het contract, en niet dubbel geteld tegen andere financiering.
 
 ## Uitgewerkt voorbeeld
 
@@ -35,13 +35,13 @@ Bieders monetariseren hun toezeggingen tegen deze thema's doorgaans met behulp v
 
 ## Verband met softwareontwikkeling
 
-Het winnen van een bod met gemonetariseerde toezeggingen voor sociale waarde creëert een verplichting om levering tegen hen te bewijzen via contractbeheer — tools die inschrijvingen van leerlingplaatsen, lokale uitgaven, en trainingsuren loggen tegen de specifieke toezeggingen gescoord bij aanbesteding, en die invoeren in contractbeoordelingsvergaderingen in plaats van vergeten te worden zodra het contract is ondertekend. G-Cloud- en Digital Marketplace-vermeldingen vereisen steeds vaker verklaringen over sociale waarde op het moment van vermelding. Zie [sociaal rendement op investering](../social-return-on-investment/) voor de waarderingsmethode achter de toezeggingen, [databanken voor eenheidskosten](../unit-cost-databases/) voor de proxy's waar bieders op putten, en [uitkomsten versus output](../outcomes-vs-outputs/) om ervoor te zorgen dat geleverde toezeggingen uitkomsten zijn, geen louter activiteitentellingen.
+Het winnen van een bod met gemonetariseerde toezeggingen voor sociale waarde creëert een verplichting om levering tegen hen te bewijzen via contractbeheer — tools die inschrijvingen van leerlingplaatsen, lokale uitgaven, en trainingsuren loggen tegen de specifieke toezeggingen gescoord bij aanbesteding, en die invoeren in contractbeoordelingsvergaderingen in plaats van vergeten te worden zodra het contract is ondertekend. G-Cloud- en Digital Marketplace-vermeldingen vereisen steeds vaker verklaringen over sociale waarde op het moment van vermelding. Zie [sociaal rendement op investering](../sociaal-rendement-op-investering/) voor de waarderingsmethode achter de toezeggingen, [databanken voor eenheidskosten](../databanken-voor-eenheidskosten/) voor de proxy's waar bieders op putten, en [uitkomsten versus output](../uitkomsten-versus-output/) om ervoor te zorgen dat geleverde toezeggingen uitkomsten zijn, geen louter activiteitentellingen.
 
 ## Valkuilen
 
 - **Sociaal-wittende biedingen.** Vage toezeggingen ("we ondersteunen de lokale gemeenschap") die niet kunnen worden gemeten of verantwoord tijdens contractbeheer, scoren goed maar leveren niets verifieerbaars.
 - **Sociale waarde behandelen als een tiebreaker.** PPN 06/20 vereist dat sociale waarde expliciet wordt geëvalueerd binnen de toekenningscriteria, niet informeel gebruikt om een gelijkspel te breken tussen anderszins gelijke biedingen.
-- **Geen contractbeheer-opvolging.** Toezeggingen gescoord bij aanbesteding worden vaak nooit getraceerd tijdens levering — zie [batenrealisatie](../benefits-realization/).
+- **Geen contractbeheer-opvolging.** Toezeggingen gescoord bij aanbesteding worden vaak nooit getraceerd tijdens levering — zie [batenrealisatie](../batenrealisatie/).
 - **Inconsistente meetraamwerken tussen contracten.** Het gebruik van verschillende proxybronnen voor soortgelijke toezeggingen op verschillende contracten maakt vergelijking op portefeuilleniveau betekenisloos, wat de reden is dat gemeenschappelijke raamwerken zoals National TOMs en gedeelde databanken voor eenheidskosten bestaan.
 
 ## Bronnen

@@ -26,7 +26,7 @@ Sotsiaalse väärtuSe teemad (PPN 06/20):
  5. Heaolu
 ```
 
-Pakkujad tüüpiliselt monetiseerivad oma kohustused vastu neile teemaTeLe, kasutaDES [ühikukulu andmebaaSe](../unit-cost-databases/), ja sama monetiseerimisLoogika, mida kasutatakse [sotsiaalseS tulus investeeringult](../social-return-on-investment/), rakendub: kohustus peaks olema tõendatuD, omistataV lepinguLe, ja ei topelt-arvestatuD teiSe rahastamiSe vastu.
+Pakkujad tüüpiliselt monetiseerivad oma kohustused vastu neile teemaTeLe, kasutaDES [ühikukulu andmebaaSe](../ühikukulu-andmebaasid/), ja sama monetiseerimisLoogika, mida kasutatakse [sotsiaalseS tulus investeeringult](../sotsiaalne-tulu-investeeringult/), rakendub: kohustus peaks olema tõendatuD, omistataV lepinguLe, ja ei topelt-arvestatuD teiSe rahastamiSe vastu.
 
 ## Läbitöötatud näide
 
@@ -36,13 +36,13 @@ Pakkujad tüüpiliselt monetiseerivad oma kohustused vastu neile teemaTeLe, kasu
 
 ## Seos tarkvaraarendusega
 
-Pakkumise võitmine monetiseeritud sotsiaalse-väärtuSe-kohustusteGa loob kohustuse tõenDaDA tarnet nende vastu lepinguHaldusE kaudu — riistad, mis logivad praktika-algusi, kohalikKu kulutust, ja koolituSTunDe spetsiifiliste pakkumisel skooritud kohustuste vastu, andeS sisendi lepingu-läbiVaatamise-koosolekuTeSSE selle asemel, et ununeda korD, kui leping on allkirjastatud. G-Cloud ja Digital Marketplace listings nõuavad üha enam sotsiaalse-väärtuSe-väideid listiNgu-punktiS. Vaata [sotsiaalne tulu investeeringult](../social-return-on-investment/) väärtustamisMeetodiKs kohustuSte taga, [ühikukulu andmebaaSid](../unit-cost-databases/) proksiDeKs, mida pakkujad kasutavad, ja [tulemused versus väljundid](../outcomes-vs-outputs/) kindlustamiSeKs, et tarnitud kohustused on tulemused, ei tegevuSe-arVuD.
+Pakkumise võitmine monetiseeritud sotsiaalse-väärtuSe-kohustusteGa loob kohustuse tõenDaDA tarnet nende vastu lepinguHaldusE kaudu — riistad, mis logivad praktika-algusi, kohalikKu kulutust, ja koolituSTunDe spetsiifiliste pakkumisel skooritud kohustuste vastu, andeS sisendi lepingu-läbiVaatamise-koosolekuTeSSE selle asemel, et ununeda korD, kui leping on allkirjastatud. G-Cloud ja Digital Marketplace listings nõuavad üha enam sotsiaalse-väärtuSe-väideid listiNgu-punktiS. Vaata [sotsiaalne tulu investeeringult](../sotsiaalne-tulu-investeeringult/) väärtustamisMeetodiKs kohustuSte taga, [ühikukulu andmebaaSid](../ühikukulu-andmebaasid/) proksiDeKs, mida pakkujad kasutavad, ja [tulemused versus väljundid](../tulemused-versus-väljundid/) kindlustamiSeKs, et tarnitud kohustused on tulemused, ei tegevuSe-arVuD.
 
 ## Lõksud
 
 - **Sotsiaal-pesemisE pakkumised.** Häguseid kohustusi ("toetame kohalikKu kogukonda"), mida ei saa mõõta või lepinguHalDusE jooksul vastuTaS hoida, skooritaKse hästi, kuid need ei tarni mitte midagi verifitseeritavat.
 - **Sotsiaalse väärtuse käsitlemine viigiLahendajaNa.** PPN 06/20 nõuab, et sotsiaalne väärtus hindataKse selgeSõnaliselt hindamisKriteeriumiteS sees, mitte kasutataKse informaalSelt viigi lahendamiSeKs muidu võrdsete pakkumiste vahel.
-- **Lepinguhalduse järel-jälgimise puudumine.** PakkumiseL skoorituD kohustusi sageli ei jälgitA kunagi tarne jooksul — vaata [kasuteostuS](../benefits-realization/).
+- **Lepinguhalduse järel-jälgimise puudumine.** PakkumiseL skoorituD kohustusi sageli ei jälgitA kunagi tarne jooksul — vaata [kasuteostuS](../kasuteostus/).
 - **EbaKonsistentsed mõõtmisRaamistikud üle lepingute.** Erinevate proksi-allikate kasutamine sarnaseteLe kohustusteLe erinevateL lepingutel muudab portfelli-tasandi võrdluSe tähendUSetuKs, mis on, miks levinuD raamistikud nagu National TOMs ja jagatud ühikukulu-andmebaaSid eksisteerivad.
 
 ## Allikad

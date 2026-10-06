@@ -4,8 +4,7 @@
 	import {
 		ContentsList,
 		ContentsListItem,
-		ContentsNav,
-		SectionHeading
+		ContentsNav
 	} from '@lilydesignsystem/svelte-headless';
 	import { ui } from '#lib/i18n.js';
 
@@ -29,34 +28,25 @@
 <div class="page page-contents">
 	<header class="page-header">
 		<h1>{t.navContents}</h1>
-		<p>
-			{t.contentsIntro(data.topicCount, data.parts.length)}
-		</p>
 	</header>
 
 	<ContentsNav class="contents" label={t.navContents}>
-		{#each data.parts as part (part.title)}
-			<section class="contents-part" id={partId(part.title)}>
-				<SectionHeading
-					class="contents-part-heading"
-					heading={part.title}
-					subtitle={t.topicsCountSubtitle(part.entries.length)}
-				/>
-				<ContentsList class="contents-part-list">
-					{#each part.entries as entry (entry.slug)}
-						<ContentsListItem class="contents-entry">
-							<a
-								class="contents-entry-link"
-								href={resolve(entry.href.slice(1))}
-							>{entry.title}</a>
-
-							{#if entry.blurb}
-								<span class="contents-entry-blurb">{entry.blurb}</span>
-							{/if}
-						</ContentsListItem>
-					{/each}
-				</ContentsList>
-			</section>
-		{/each}
+		<ContentsList class="contents-parts">
+			{#each data.parts as part, i (part.title)}
+				<ContentsListItem class="contents-part" id={partId(part.title)}>
+					<span class="contents-part-title">{i + 1} {part.title}</span>
+					<ContentsList class="contents-part-list">
+						{#each part.entries as entry, j (entry.slug)}
+							<ContentsListItem class="contents-entry">
+								<a
+									class="contents-entry-link"
+									href={resolve(entry.href.slice(1))}
+								>{i + 1}.{j} {entry.title}</a>
+							</ContentsListItem>
+						{/each}
+					</ContentsList>
+				</ContentsListItem>
+			{/each}
+		</ContentsList>
 	</ContentsNav>
 </div>

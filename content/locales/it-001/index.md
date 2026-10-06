@@ -2,7 +2,7 @@
 
 Un'introduzione completa alla matematica, agli esempi, e al ragionamento del valore pubblico, scritta per ingegneri software che costruiscono per organizzazioni statali e del settore sociale in tutto il mondo. Ogni file copre una metrica o un concetto: definizione, perché è importante, metodo, esempio pratico, collegamento con lo sviluppo software, insidie, e fonti.
 
-Nuovo qui? Inizia con [valore pubblico](locales/it-001/topics/public-value/), [value for money](locales/it-001/topics/value-for-money/), e [teoria del cambiamento](locales/it-001/topics/theory-of-change/) — tre idee su cui tutto il resto costruisce.
+Nuovo qui? Inizia con [valore pubblico](locales/it-001/topics/valore-pubblico/), [value for money](locales/it-001/topics/value-for-money/), e [teoria del cambiamento](locales/it-001/topics/teoria-del-cambiamento/) — tre idee su cui tutto il resto costruisce.
 
 ## Fondamenta del valore pubblico
 

@@ -1,6 +1,6 @@
 # Cost of Delay in Public Programs (CoD)
 
-Cost of Delay is the public value lost per unit time that a program, service, or system change is *not* yet delivered. It is the master bridge metric of this chapter: it converts "the go-live slipped six months" into pounds per week, or into WELLBYs per week, so that delay can be argued about in the same currency as the business case itself.
+Cost of Delay is the public value lost per unit time that a program, service, or system change is *not* yet delivered. It is the master bridge metric of this group of topics: it converts "the go-live slipped six months" into pounds per week, or into WELLBYs per week, so that delay can be argued about in the same currency as the business case itself.
 
 ## Why it matters
 

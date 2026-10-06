@@ -41,8 +41,8 @@ Themâu gwerth cymdeithasol (PPN 06/20):
 ```
 
 Yn nodweddiadol, mae cynigwyr yn rhoi gwerth ariannol ar eu hymrwymiadau yn erbyn y themâu hyn gan
-ddefnyddio [cronfeydd data cost fesul uned](../unit-cost-databases/), ac mae'r un rhesymeg
-ariannu a ddefnyddir yn [enillion cymdeithasol ar fuddsoddiad](../social-return-on-investment/) yn
+ddefnyddio [cronfeydd data cost fesul uned](../cronfeydd-data-cost-fesul-uned/), ac mae'r un rhesymeg
+ariannu a ddefnyddir yn [enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) yn
 berthnasol: dylai ymrwymiad gael ei dystiolaethu, ei briodoli i'r contract, a pheidio â chael ei
 gyfrif ddwywaith yn erbyn cyllid arall.
 
@@ -71,9 +71,9 @@ prentisiaeth, gwariant lleol, ac oriau hyfforddiant yn erbyn yr ymrwymiadau peno
 adeg y tendr, gan fwydo i mewn i gyfarfodydd adolygu contract yn hytrach na chael eu hanghofio unwaith
 y llofnodir y contract. Mae rhestriadau G-Cloud a Digital Marketplace yn gynyddol yn mynnu
 datganiadau gwerth cymdeithasol adeg rhestru. Gweler
-[enillion cymdeithasol ar fuddsoddiad](../social-return-on-investment/) am y dull prisio y tu ôl i'r
-ymrwymiadau, [cronfeydd data cost fesul uned](../unit-cost-databases/) am y procsïau y mae cynigwyr
-yn tynnu arnynt, a [canlyniadau yn erbyn cynhyrchion](../outcomes-vs-outputs/) am sicrhau bod
+[enillion cymdeithasol ar fuddsoddiad](../enillion-cymdeithasol-ar-fuddsoddiad/) am y dull prisio y tu ôl i'r
+ymrwymiadau, [cronfeydd data cost fesul uned](../cronfeydd-data-cost-fesul-uned/) am y procsïau y mae cynigwyr
+yn tynnu arnynt, a [canlyniadau yn erbyn cynhyrchion](../canlyniadau-yn-erbyn-cynhyrchion/) am sicrhau bod
 ymrwymiadau a gyflenwir yn ganlyniadau, nid dim ond cyfrifon gweithgarwch.
 
 ## Peryglon
@@ -85,7 +85,7 @@ ymrwymiadau a gyflenwir yn ganlyniadau, nid dim ond cyfrifon gweithgarwch.
   yn cael ei werthuso'n benodol o fewn y meini prawf dyfarnu, nid ei ddefnyddio'n anffurfiol i dorri
   cyfartaledd rhwng cynigion sydd fel arall yn gyfartal.
 - **Dim dilyniant rheoli contract.** Yn aml, ni chaiff ymrwymiadau a sgoriwyd adeg tendr eu holrhain
-  byth yn ystod y cyflenwi — gweler [gwireddu buddion](../benefits-realization/).
+  byth yn ystod y cyflenwi — gweler [gwireddu buddion](../gwireddu-buddion/).
 - **Fframweithiau mesur anghyson ar draws contractau.** Mae defnyddio ffynonellau procsi gwahanol ar
   gyfer ymrwymiadau tebyg ar wahanol gontractau yn gwneud cymhariaeth ar lefel portffolio yn ddiystyr,
   a dyna pam mae fframweithiau cyffredin fel National TOMs a chronfeydd data cost fesul uned a rennir

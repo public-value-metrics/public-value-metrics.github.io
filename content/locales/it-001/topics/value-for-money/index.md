@@ -6,7 +6,7 @@ Value for money è il test formale del settore pubblico britannico sul fatto che
 
 VFM non è un sinonimo di "economico". Il Green Book (edizione HM Treasury, 2022) è esplicito che acquistare l'opzione a costo più basso (economia) senza verificare che produca i risultati previsti (efficacia) è un errore comune e costoso — un appalto che fa risparmiare il 10% sul costo unitario ma produce il 40% di impatto in meno è un valore peggiore, non migliore. Il framework delle tre E costringe un caso aziendale a separare tre modalità di fallimento genuinamente diverse: pagare troppo per gli input, sprecare input nella conversione in output, e produrre output che non si traducono in risultati che qualcuno voleva. I controlli di spesa del governo britannico — punti di approvazione del Treasury, studi value-for-money del National Audit Office (NAO), e valutazioni dei funzionari contabili dipartimentali — sono costruiti attorno a questo test a tre parti, quindi un caso aziendale ingegneristico che affronta solo il costo (economia) fallirà il controllo anche se la tecnologia è solida.
 
-La "quarta E", l'equità, è contestata precisamente perché può entrare in conflitto con le altre tre: il modo più efficiente per erogare un servizio a livello nazionale è raramente il più equo, poiché concentrare l'erogazione dove è più economico raggiungere i cittadini spesso significa sottoservire chi è più difficile da raggiungere. La revisione del 2020 del Green Book ha risposto alle critiche (incluse quelle del Treasury Select Committee 2020 e dell'IPPR North) secondo cui i rapporti costo-beneficio puri favorivano sistematicamente le regioni già prospere, richiedendo che le valutazioni affrontino esplicitamente l'impatto distributivo — vedi [ponderazione distributiva](../distributional-weighting/).
+La "quarta E", l'equità, è contestata precisamente perché può entrare in conflitto con le altre tre: il modo più efficiente per erogare un servizio a livello nazionale è raramente il più equo, poiché concentrare l'erogazione dove è più economico raggiungere i cittadini spesso significa sottoservire chi è più difficile da raggiungere. La revisione del 2020 del Green Book ha risposto alle critiche (incluse quelle del Treasury Select Committee 2020 e dell'IPPR North) secondo cui i rapporti costo-beneficio puri favorivano sistematicamente le regioni già prospere, richiedendo che le valutazioni affrontino esplicitamente l'impatto distributivo — vedi [ponderazione distributiva](../ponderazione-distributiva/).
 
 ## Il calcolo
 
@@ -30,7 +30,7 @@ Efficacia:       Gli output producono effettivamente i
                 su chi ne ha meno bisogno?
 ```
 
-Un fallimento VFM può verificarsi in qualsiasi fase indipendentemente: approvvigionamento economico con erogazione inefficiente; erogazione efficiente dell'output sbagliato; risultati efficaci acquistati a costo eccessivo. Vedi [KPI del settore pubblico](../public-sector-kpis/) per come questi si traducono in indicatori misurabili, e [analisi costo-efficacia nel governo](../cost-effectiveness-analysis-in-government/) per il metodo di confronto formale.
+Un fallimento VFM può verificarsi in qualsiasi fase indipendentemente: approvvigionamento economico con erogazione inefficiente; erogazione efficiente dell'output sbagliato; risultati efficaci acquistati a costo eccessivo. Vedi [KPI del settore pubblico](../kpi-del-settore-pubblico/) per come questi si traducono in indicatori misurabili, e [analisi costo-efficacia nel governo](../analisi-costo-efficacia-nel-governo/) per il metodo di confronto formale.
 
 ## Esempio pratico
 
@@ -48,14 +48,14 @@ L'economia da sola favorisce A (£300.000 più economica). Ma a 40.000 casi/anno
 VFM fornisce ai team ingegneristici una disciplina per inquadrare i casi aziendali tecnologici nel modo in cui le funzioni finanziarie e di audit effettivamente li leggeranno:
 
 - Dichiara economia, efficienza, ed efficacia come voci separate in un caso aziendale, non un singolo numero di "valore" misto — un revisore formato sul Green Book chiederà esattamente questa scomposizione.
-- Attenzione a ottimizzare il costo di approvvigionamento (economia) a scapito dell'efficienza di integrazione e flusso di lavoro, un risparmio falso molto comune nell'IT governativo (vedi [costo totale di proprietà nell'IT governativo](../total-cost-of-ownership-in-government-it/) e [costruire vs comprare nel governo](../build-vs-buy-in-government/)).
-- L'efficacia richiede dati sui risultati, non solo conteggi di output — collega le metriche di erogazione a [risultati contro output](../outcomes-vs-outputs/) e alla valutazione reale tramite [analisi controfattuale](../counterfactual-analysis/) piuttosto che assumere che gli output implichino risultati.
-- Quando un sistema serve in modo irregolare tra regioni o demografie, la questione dell'equità è un'obiezione VFM legittima, non un separato "sarebbe bello" — vedi [inclusione digitale](../digital-inclusion/).
+- Attenzione a ottimizzare il costo di approvvigionamento (economia) a scapito dell'efficienza di integrazione e flusso di lavoro, un risparmio falso molto comune nell'IT governativo (vedi [costo totale di proprietà nell'IT governativo](../costo-totale-di-proprietà-nel-governo-it/) e [costruire vs comprare nel governo](../costruire-vs-comprare-nel-governo/)).
+- L'efficacia richiede dati sui risultati, non solo conteggi di output — collega le metriche di erogazione a [risultati contro output](../risultati-contro-output/) e alla valutazione reale tramite [analisi controfattuale](../analisi-controfattuale/) piuttosto che assumere che gli output implichino risultati.
+- Quando un sistema serve in modo irregolare tra regioni o demografie, la questione dell'equità è un'obiezione VFM legittima, non un separato "sarebbe bello" — vedi [inclusione digitale](../inclusione-digitale/).
 
 ## Insidie
 
 - **Equiparare VFM al prezzo più basso.** L'economia è un terzo (o un quarto) del test; il Green Book avverte esplicitamente contro regole di approvvigionamento "al costo più basso" che ignorano efficienza ed efficacia.
-- **Misurare output e chiamarli risultati.** Il throughput dei casi (efficienza) non è lo stesso dei casi risolti bene (efficacia); vedi [risultati contro output](../outcomes-vs-outputs/).
+- **Misurare output e chiamarli risultati.** Il throughput dei casi (efficienza) non è lo stesso dei casi risolti bene (efficacia); vedi [risultati contro output](../risultati-contro-output/).
 - **Trattare l'equità come opzionale.** Dall'aggiornamento 2020 del Green Book, l'impatto distributivo deve essere valutato insieme alle tradizionali tre E, non aggiunto successivamente; ritrattarlo dopo l'approvazione di un caso aziendale è molto più difficile che includerlo dall'inizio.
 - **Confrontare opzioni a volumi diversi senza normalizzare.** Un confronto VFM per unità tra opzioni che servono popolazioni diverse deve controllare la scala, altrimenti il confronto di efficienza è privo di significato.
 

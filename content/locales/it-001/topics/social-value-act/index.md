@@ -26,7 +26,7 @@ Temi del valore sociale (PPN 06/20):
  5. Benessere
 ```
 
-Gli offerenti tipicamente monetizzano i loro impegni contro questi temi usando [database dei costi unitari](../unit-cost-databases/), e la stessa logica di monetizzazione usata nel [ritorno sociale sull'investimento](../social-return-on-investment/) si applica: un impegno dovrebbe essere comprovato, attribuibile al contratto, e non contato doppiamente contro altro finanziamento.
+Gli offerenti tipicamente monetizzano i loro impegni contro questi temi usando [database dei costi unitari](../database-dei-costi-unitari/), e la stessa logica di monetizzazione usata nel [ritorno sociale sull'investimento](../ritorno-sociale-sullinvestimento/) si applica: un impegno dovrebbe essere comprovato, attribuibile al contratto, e non contato doppiamente contro altro finanziamento.
 
 ## Esempio pratico
 
@@ -36,13 +36,13 @@ Gli offerenti tipicamente monetizzano i loro impegni contro questi temi usando [
 
 ## Collegamento con lo sviluppo software
 
-Vincere un'offerta con impegni di valore sociale monetizzati crea un obbligo di comprovare l'erogazione contro di essi tramite la gestione contrattuale — strumenti che registrano l'inizio di apprendistati, la spesa locale, e le ore di formazione contro gli impegni specifici valutati all'offerta, alimentando le riunioni di revisione del contratto piuttosto che essere dimenticati una volta firmato il contratto. Gli elenchi G-Cloud e Digital Marketplace richiedono sempre più dichiarazioni di valore sociale al punto dell'elenco. Vedi [ritorno sociale sull'investimento](../social-return-on-investment/) per il metodo di valutazione dietro gli impegni, [database dei costi unitari](../unit-cost-databases/) per i proxy su cui gli offerenti si basano, e [risultati contro output](../outcomes-vs-outputs/) per assicurarsi che gli impegni erogati siano risultati, non solo conteggi di attività.
+Vincere un'offerta con impegni di valore sociale monetizzati crea un obbligo di comprovare l'erogazione contro di essi tramite la gestione contrattuale — strumenti che registrano l'inizio di apprendistati, la spesa locale, e le ore di formazione contro gli impegni specifici valutati all'offerta, alimentando le riunioni di revisione del contratto piuttosto che essere dimenticati una volta firmato il contratto. Gli elenchi G-Cloud e Digital Marketplace richiedono sempre più dichiarazioni di valore sociale al punto dell'elenco. Vedi [ritorno sociale sull'investimento](../ritorno-sociale-sullinvestimento/) per il metodo di valutazione dietro gli impegni, [database dei costi unitari](../database-dei-costi-unitari/) per i proxy su cui gli offerenti si basano, e [risultati contro output](../risultati-contro-output/) per assicurarsi che gli impegni erogati siano risultati, non solo conteggi di attività.
 
 ## Insidie
 
 - **Offerte di lavaggio sociale.** Impegni vaghi ("supportiamo la comunità locale") che non possono essere misurati o rispettati durante la gestione contrattuale valutano bene ma non erogano nulla di verificabile.
 - **Trattare il valore sociale come uno spareggio.** La PPN 06/20 richiede che il valore sociale sia valutato esplicitamente all'interno dei criteri di aggiudicazione, non usato informalmente per rompere un pareggio tra offerte altrimenti uguali.
-- **Nessun seguito nella gestione contrattuale.** Gli impegni valutati all'offerta frequentemente non vengono mai tracciati durante l'erogazione — vedi [realizzazione dei benefici](../benefits-realization/).
+- **Nessun seguito nella gestione contrattuale.** Gli impegni valutati all'offerta frequentemente non vengono mai tracciati durante l'erogazione — vedi [realizzazione dei benefici](../realizzazione-dei-benefici/).
 - **Quadri di misurazione incoerenti attraverso i contratti.** Usare fonti di proxy diverse per impegni simili su contratti diversi rende il confronto a livello di portfolio privo di significato, che è il motivo per cui esistono quadri comuni come National TOMs e database di costi unitari condivisi.
 
 ## Fonti

@@ -50,8 +50,8 @@ En HDI på 0,713 falder i UNDP's "høj human udvikling"-bånd (0,700-0,799); "me
 ## Forbindelse til softwareudvikling
 
 - Det geometrisk-gennemsnit-mønster er direkte genBrugbart for enhver komposit-tjeneste- eller produkt-score, du ikke ønsker en stærk dimension dækker over en kritisk svag en — f.eks. at kombinere tilgængeligheds-, præstations-, og pålidelighedsScores for en statslig digital tjeneste multiplikativt snarere end ved vægtet gennemsnit, så en tjeneste, der er hurtig men uTilgængelig, ikke kan score "god".
-- HDIs log-transformering af indkomst (faldende marginal værdi af en ekstra krone) er samme logik bag [distributionsVægtning](../distributional-weighting/) i vurdering: en ekstra $1.000 betyder langt mere for en fattig husholdning end en rig en, og at behandle begge lineært misPriser impact.
-- Ethvert dashboard, der rapporterer et enkelt blandet "digital inklusion" eller "borgerResultater"-score, bør dokumentere sin aggregerings-formel lige så explicit som UNDPs tekniske noter gør — se [KPI'er i den offentlige sektor](../public-sector-kpis/) og [offentlig værdi scorecard](../public-value-scorecard/).
+- HDIs log-transformering af indkomst (faldende marginal værdi af en ekstra krone) er samme logik bag [distributionsVægtning](../distributionsmæssig-vægtning/) i vurdering: en ekstra $1.000 betyder langt mere for en fattig husholdning end en rig en, og at behandle begge lineært misPriser impact.
+- Ethvert dashboard, der rapporterer et enkelt blandet "digital inklusion" eller "borgerResultater"-score, bør dokumentere sin aggregerings-formel lige så explicit som UNDPs tekniske noter gør — se [KPI'er i den offentlige sektor](../kpier-i-den-offentlige-sektor/) og [offentlig værdi scorecard](../offentlig-værdi-scorecard/).
 
 ## Faldgruber
 

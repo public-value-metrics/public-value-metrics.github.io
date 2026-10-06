@@ -15,8 +15,8 @@ importers:
         specifier: 0.1.3
         version: 0.1.3(svelte@5.57.1)
       '@lilydesignsystem/svelte-picker-bar':
-        specifier: ^0.1.0
-        version: 0.1.0(svelte@5.57.1)
+        specifier: ^0.2.0
+        version: 0.2.0(svelte@5.57.1)
       '@lilydesignsystem/svelte-share-picker':
         specifier: 0.1.2
         version: 0.1.2(svelte@5.57.1)
@@ -38,13 +38,13 @@ importers:
     devDependencies:
       '@sveltejs/adapter-static':
         specifier: ^4.0.0
-        version: 4.0.0(@sveltejs/kit@3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.1))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.1))
+        version: 4.0.0(@sveltejs/kit@3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.2))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.2))
       '@sveltejs/kit':
         specifier: ^3.0.0
-        version: 3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.1))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.1)
+        version: 3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.2))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.2)
       '@sveltejs/vite-plugin-svelte':
         specifier: ^7.3.1
-        version: 7.3.1(svelte@5.57.1)(vite@8.3.1)
+        version: 7.3.1(svelte@5.57.1)(vite@8.3.2)
       svelte:
         specifier: ^5.57.1
         version: 5.57.1
@@ -52,8 +52,8 @@ importers:
         specifier: ^6.0.3
         version: 6.0.3
       vite:
-        specifier: ^8.3.1
-        version: 8.3.1
+        specifier: ^8.3.2
+        version: 8.3.2
 
 packages:
 
@@ -79,20 +79,26 @@ packages:
     peerDependencies:
       svelte: ^5.0.0
 
-  '@lilydesignsystem/svelte-locale-picker@0.1.2':
-    resolution: {integrity: sha512-vFaQiIOtp5S9HKzcWwVhQWu0mesbo2gbhpV9AWODkhMEuAvHiCdjuIgZwGCQKXXphCP/84laEFuuGBxkJ7DmEA==}
-    engines: {node: '=26'}
-    peerDependencies:
-      svelte: ^5.0.0
-
   '@lilydesignsystem/svelte-locale-picker@0.1.3':
     resolution: {integrity: sha512-HzOx7G/EwOY3iqXefu4GB8r9Y3+xs1Qukr8RoOgLBAN+3SJl5cNGIxjbd4eJo/ivVXVIADq9ZVNVhervGCTRsg==}
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
 
-  '@lilydesignsystem/svelte-picker-bar@0.1.0':
-    resolution: {integrity: sha512-WDNgZt4hL2URnhbGV0yDk1trthq92vPoJIkxhZJyqOs1QRhRYcKMtK7JhTzEOGTPVLMoX2U/V0jJ0R/liboI6g==}
+  '@lilydesignsystem/svelte-locale-picker@0.2.0':
+    resolution: {integrity: sha512-dSxJpPjgc1OOgdLhtCOM8fUBwkco2jdD996i6BNkPbaRrD/RvOuxG5F+LThgZ6TGRfXp3HFgQUMX1Tfpcd6XAQ==}
+    engines: {node: '=26'}
+    peerDependencies:
+      svelte: ^5.0.0
+
+  '@lilydesignsystem/svelte-picker-bar@0.2.0':
+    resolution: {integrity: sha512-US3DyuEY6qfaTQPcWxrw6AcyqaXiX0keopkiEj4PQoCssXWyrZqPftaYkmg/JEEmlAdixBgd1mTnpWHrVWYoSw==}
+    engines: {node: '=26'}
+    peerDependencies:
+      svelte: ^5.0.0
+
+  '@lilydesignsystem/svelte-search-picker@0.1.0':
+    resolution: {integrity: sha512-EpxhZvgUd3XquLw/hj8xDRLiaqAPcgzgVp2R9qJJBn06n9iSGx2UXnjTmyq6Arsi9xD4X5V+/tchtuo6Z5tXXw==}
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
@@ -103,14 +109,32 @@ packages:
     peerDependencies:
       svelte: ^5.0.0
 
+  '@lilydesignsystem/svelte-share-picker@0.2.0':
+    resolution: {integrity: sha512-/W+yda4IEfEhaMWdEh4kVvHUQKz/pbFtuaoxgOZMg65JhMcKjWeis9J3OHQ69o5LIK+AFxFhDCqDh/g/8gSDGQ==}
+    engines: {node: '=26'}
+    peerDependencies:
+      svelte: ^5.0.0
+
   '@lilydesignsystem/svelte-text-size-picker@0.1.2':
     resolution: {integrity: sha512-FS3LJ0DTDAcZNyp3H3r2aQ7Vyc1msWrh6o8dIS3mcjW7XqJ1L7Vd61qdXpolT52YjIMpySzxg9ASdXjMDALSGQ==}
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
 
+  '@lilydesignsystem/svelte-text-size-picker@0.2.0':
+    resolution: {integrity: sha512-iTtks4b/IqM5S1EyKyErDq7LuyJ986XRNGJP8imF52FUDBV6e5T6KlBMVJqSnxLvi+EpaZaVODb2TpFRLYXekw==}
+    engines: {node: '=26'}
+    peerDependencies:
+      svelte: ^5.0.0
+
   '@lilydesignsystem/svelte-theme-picker@0.1.2':
     resolution: {integrity: sha512-33UpfbzQapwqhbuluhxeuTBuJsmwHHSEY3xeCIiucK1Po55/EJ1S49y4Fyelh4UCk16CC41JjSCJDJ30plPjAQ==}
+    engines: {node: '=26'}
+    peerDependencies:
+      svelte: ^5.0.0
+
+  '@lilydesignsystem/svelte-theme-picker@0.2.0':
+    resolution: {integrity: sha512-PVMB0K/RXsFGb8LxnW5D6ghHW1nhp2g/hr6NYnvYtuI7jz2GUsOo4TEgr7k75QaA7V0XNSq0m+kj0Lr2WTgvWA==}
     engines: {node: '=26'}
     peerDependencies:
       svelte: ^5.0.0
@@ -472,8 +496,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  vite@8.3.1:
-    resolution: {integrity: sha512-/bvH9E9tmCXRGp2uXY3WbOldqpTwFkbha/8ANaEQ6VkxhH60KyqLwgZq6lG2y+4uT55x9+9eUHMpQ7uGnOCKjA==}
+  vite@8.3.2:
+    resolution: {integrity: sha512-SQr1x6W5vVSbROg7vsyXIaxK9b0G7zsT68acdWWRmnBUsgDieLCRG+Rep9WdZgcposvv/GSnr4GUUBqB3vXq6w==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -552,25 +576,36 @@ snapshots:
       aria-query: 5.3.2
       svelte: 5.57.1
 
-  '@lilydesignsystem/svelte-locale-picker@0.1.2(svelte@5.57.1)':
-    dependencies:
-      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
-      svelte: 5.57.1
-
   '@lilydesignsystem/svelte-locale-picker@0.1.3(svelte@5.57.1)':
     dependencies:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
 
-  '@lilydesignsystem/svelte-picker-bar@0.1.0(svelte@5.57.1)':
+  '@lilydesignsystem/svelte-locale-picker@0.2.0(svelte@5.57.1)':
     dependencies:
-      '@lilydesignsystem/svelte-locale-picker': 0.1.2(svelte@5.57.1)
-      '@lilydesignsystem/svelte-share-picker': 0.1.2(svelte@5.57.1)
-      '@lilydesignsystem/svelte-text-size-picker': 0.1.2(svelte@5.57.1)
-      '@lilydesignsystem/svelte-theme-picker': 0.1.2(svelte@5.57.1)
+      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
+      svelte: 5.57.1
+
+  '@lilydesignsystem/svelte-picker-bar@0.2.0(svelte@5.57.1)':
+    dependencies:
+      '@lilydesignsystem/svelte-locale-picker': 0.2.0(svelte@5.57.1)
+      '@lilydesignsystem/svelte-search-picker': 0.1.0(svelte@5.57.1)
+      '@lilydesignsystem/svelte-share-picker': 0.2.0(svelte@5.57.1)
+      '@lilydesignsystem/svelte-text-size-picker': 0.2.0(svelte@5.57.1)
+      '@lilydesignsystem/svelte-theme-picker': 0.2.0(svelte@5.57.1)
+      svelte: 5.57.1
+
+  '@lilydesignsystem/svelte-search-picker@0.1.0(svelte@5.57.1)':
+    dependencies:
+      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
 
   '@lilydesignsystem/svelte-share-picker@0.1.2(svelte@5.57.1)':
+    dependencies:
+      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
+      svelte: 5.57.1
+
+  '@lilydesignsystem/svelte-share-picker@0.2.0(svelte@5.57.1)':
     dependencies:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
@@ -580,7 +615,17 @@ snapshots:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
 
+  '@lilydesignsystem/svelte-text-size-picker@0.2.0(svelte@5.57.1)':
+    dependencies:
+      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
+      svelte: 5.57.1
+
   '@lilydesignsystem/svelte-theme-picker@0.1.2(svelte@5.57.1)':
+    dependencies:
+      '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
+      svelte: 5.57.1
+
+  '@lilydesignsystem/svelte-theme-picker@0.2.0(svelte@5.57.1)':
     dependencies:
       '@lilydesignsystem/svelte-headless': 0.2.0(svelte@5.57.1)
       svelte: 5.57.1
@@ -644,15 +689,15 @@ snapshots:
     dependencies:
       acorn: 8.18.0
 
-  '@sveltejs/adapter-static@4.0.0(@sveltejs/kit@3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.1))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.1))':
+  '@sveltejs/adapter-static@4.0.0(@sveltejs/kit@3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.2))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.2))':
     dependencies:
-      '@sveltejs/kit': 3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.1))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.1)
+      '@sveltejs/kit': 3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.2))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.2)
 
-  '@sveltejs/kit@3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.1))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.1)':
+  '@sveltejs/kit@3.0.0(@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.2))(svelte@5.57.1)(typescript@6.0.3)(vite@8.3.2)':
     dependencies:
       '@rolldown/pluginutils': 1.0.1
       '@standard-schema/spec': 1.1.0
-      '@sveltejs/vite-plugin-svelte': 7.3.1(svelte@5.57.1)(vite@8.3.1)
+      '@sveltejs/vite-plugin-svelte': 7.3.1(svelte@5.57.1)(vite@8.3.2)
       cookie: 2.0.1
       devalue: 5.9.4
       esm-env: 1.2.2
@@ -660,18 +705,18 @@ snapshots:
       mrmime: 2.0.1
       sirv: 3.0.2
       svelte: 5.57.1
-      vite: 8.3.1
+      vite: 8.3.2
     optionalDependencies:
       typescript: 6.0.3
 
-  '@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.1)':
+  '@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.57.1)(vite@8.3.2)':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 1.4.2
       obug: 2.2.1
       svelte: 5.57.1
-      vite: 8.3.1
-      vitefu: 1.1.3(vite@8.3.1)
+      vite: 8.3.2
+      vitefu: 1.1.3(vite@8.3.2)
 
   '@types/estree@1.0.9': {}
 
@@ -847,7 +892,7 @@ snapshots:
 
   typescript@6.0.3: {}
 
-  vite@8.3.1:
+  vite@8.3.2:
     dependencies:
       lightningcss: 1.33.0
       picomatch: 4.0.7
@@ -857,8 +902,8 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  vitefu@1.1.3(vite@8.3.1):
+  vitefu@1.1.3(vite@8.3.2):
     optionalDependencies:
-      vite: 8.3.1
+      vite: 8.3.2
 
   zimmerframe@1.1.5: {}

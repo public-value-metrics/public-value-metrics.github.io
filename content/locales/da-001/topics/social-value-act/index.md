@@ -25,7 +25,7 @@ Social-værdi-temaer (PPN 06/20):
  5. Velvære
 ```
 
-Udbudsgivere pengegør typisk deres forpligtelser mod disse temaer ved brug af [enhedsKostprisdatabaser](../unit-cost-databases/), og den samme pengegørelsesLogik brugt i [socialt afkast på investering](../social-return-on-investment/) gælder: en forpligtelse bør dokumenteres, være tilskrivbar kontrakten, og ikke dobbelttælles mod anden finansiering.
+Udbudsgivere pengegør typisk deres forpligtelser mod disse temaer ved brug af [enhedsKostprisdatabaser](../enhedskostprisdatabaser/), og den samme pengegørelsesLogik brugt i [socialt afkast på investering](../socialt-afkast-på-investering/) gælder: en forpligtelse bør dokumenteres, være tilskrivbar kontrakten, og ikke dobbelttælles mod anden finansiering.
 
 ## Gennemregnet eksempel
 
@@ -35,13 +35,13 @@ Udbudsgivere pengegør typisk deres forpligtelser mod disse temaer ved brug af [
 
 ## Forbindelse til softwareudvikling
 
-At vinde et udbud med pengegjorte social-værdi-forpligtelser skaber en pligt til at dokumentere levering mod dem gennem kontraktStyring — redskaber, der logger lærlingeStarter, lokal udgift, og træningsTimer mod de specifikke forpligtelser scoret ved udbud, der fødrer ind i kontraktGennemgangsMøder snarere end at blive glemt, når kontrakten er underskrevet. G-Cloud- og Digital Marketplace-lister kræver i stigende grad social-værdi-erklæringer ved listnings-punktet. Se [socialt afkast på investering](../social-return-on-investment/) for vurderingsMetoden bag forpligtelserne, [enhedsKostprisdatabaser](../unit-cost-databases/) for proxyerne udbudsgivere trækker på, og [resultater versus output](../outcomes-vs-outputs/) for at sikre, leverede forpligtelser er resultater, ikke blot aktivitetsTællinger.
+At vinde et udbud med pengegjorte social-værdi-forpligtelser skaber en pligt til at dokumentere levering mod dem gennem kontraktStyring — redskaber, der logger lærlingeStarter, lokal udgift, og træningsTimer mod de specifikke forpligtelser scoret ved udbud, der fødrer ind i kontraktGennemgangsMøder snarere end at blive glemt, når kontrakten er underskrevet. G-Cloud- og Digital Marketplace-lister kræver i stigende grad social-værdi-erklæringer ved listnings-punktet. Se [socialt afkast på investering](../socialt-afkast-på-investering/) for vurderingsMetoden bag forpligtelserne, [enhedsKostprisdatabaser](../enhedskostprisdatabaser/) for proxyerne udbudsgivere trækker på, og [resultater versus output](../resultater-versus-output/) for at sikre, leverede forpligtelser er resultater, ikke blot aktivitetsTællinger.
 
 ## Faldgruber
 
 - **Socialt-hvidvaskende udbud.** Vage forpligtelser ("vi støtter det lokale fællesskab"), der ikke kan måles eller holdes til under kontraktStyring, scorer godt men leverer intet verificerbart.
 - **At behandle social værdi som en tiebreaker.** PPN 06/20 kræver, social værdi explicit evalueres inden i tildelingsKriterierne, ikke bruges informelt til at bryde en lighed mellem ellers lige udbud.
-- **Ingen kontraktStyring-opfølgning.** Forpligtelser scoret ved udbud spores ofte aldrig under levering — se [fordelsRealisering](../benefits-realization/).
+- **Ingen kontraktStyring-opfølgning.** Forpligtelser scoret ved udbud spores ofte aldrig under levering — se [fordelsRealisering](../fordelsrealisering/).
 - **Inkonsekvente målingsRammer over kontrakter.** At bruge forskellige proxyKilder for lignende forpligtelser på forskellige kontrakter gør porteføljeNiveau-sammenligning meningsløs, hvilket er hvorfor fælles rammer som National TOMs og delte enhedsKostprisdatabaser eksisterer.
 
 ## Kilder

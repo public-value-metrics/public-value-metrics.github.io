@@ -56,7 +56,7 @@ Samme hovedTælling-rate, 50% højere MPI i Distrikt B — et målrettesSystem b
 
 - SagsStyrings- og berettigelsesSystemer for sociale programmer lagrer ofte allerede flere af de ti indikatorer (bolig, skoleFremmøde, sundhedsMarkører) i separate siloer; Alkire-Foster-tællingsMetoden er et klarGjort skema for at kombinere dem til en deprivations-score i stedet for at bygge en skræddersyet scoringsModel fra bunden.
 - HovedTælling-/intensitets-opdelingen (H × A) er et generelt nyttigt mønster for ethvert dashboard, der rapporterer "hvor mange er påVirket" sammen med "hvor dårligt" — at kollapse begge til et tal, som rå prævalens-statistikker gør, skjuler netop den sag, der behøver mest ressource.
-- MPI-stil-indikator-dashboards kobles naturligt med [kostpris pr. modtager](../cost-per-beneficiary/)-rapportering for anti-fattigdom-programmer: kostpris pr. point af MPI-reduktion er en forsvarlig enhed for at sammenligne meget forskellige interventioner (kontant-overførsel vs. sanitations-infrastruktur).
+- MPI-stil-indikator-dashboards kobles naturligt med [kostpris pr. modtager](../kostpris-pr-modtager/)-rapportering for anti-fattigdom-programmer: kostpris pr. point af MPI-reduktion er en forsvarlig enhed for at sammenligne meget forskellige interventioner (kontant-overførsel vs. sanitations-infrastruktur).
 
 ## Faldgruber
 

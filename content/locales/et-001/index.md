@@ -2,7 +2,7 @@
 
 Põhjalik sissejuhatus avaliku väärtuse matemaatikasse, näidetesse, ja arutluskäiku, kirjutatud tarkvarainseneridele, kes ehitavad statslikele ja sotsiaalsektori organisatsioonidele üle maailma. Iga fail katab ühe mõõdiku või kontseptsiooni: definitsioon, miks see on oluline, meetod, läbitöötatud näide, seos tarkvaraarendusega, lõksud, ja allikad.
 
-Uus siin? Alusta [avalik väärtus](locales/et-001/topics/public-value/), [value for money](locales/et-001/topics/value-for-money/), ja [muutuse teooria](locales/et-001/topics/theory-of-change/) — kolm ideed, millele kõik muu ehitab.
+Uus siin? Alusta [avalik väärtus](locales/et-001/topics/avalik-väärtus/), [value for money](locales/et-001/topics/value-for-money/), ja [muutuse teooria](locales/et-001/topics/muutuse-teooria/) — kolm ideed, millele kõik muu ehitab.
 
 ## Avaliku väärtuse alused
 

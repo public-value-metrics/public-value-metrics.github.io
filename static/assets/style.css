@@ -387,38 +387,29 @@ pre {
 
 /* --- Contents ------------------------------------------------------------ */
 
-.contents-part {
-	max-width: 60rem;
-	margin-bottom: var(--lily-space-xl);
-}
-
-.contents-part-heading {
-	margin-bottom: var(--lily-space-sm);
-	padding-bottom: 0.35rem;
-	border-bottom: 1px solid var(--lily-border);
-}
-
-.contents-part-heading .section-heading-heading {
-	margin: 0;
-	font-size: 1.35em;
-}
-
-.contents-part-heading .section-heading-subtitle {
-	margin: 0.15rem 0 0;
-	color: var(--lily-text-muted);
-	font-size: 0.9em;
-}
-
+.contents-parts,
 .contents-part-list {
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	counter-reset: none;
+}
+
+.contents-part {
+	max-width: 60rem;
+	margin-bottom: var(--lily-space-md);
+}
+
+.contents-part-title {
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+.contents-part-list {
+	margin-left: 1.5rem;
 }
 
 .contents-entry {
-	padding: 0.45rem 0;
-	border-bottom: 1px solid var(--lily-border);
+	padding: 0.2rem 0;
 }
 
 .contents-entry-link {
@@ -428,12 +419,6 @@ pre {
 
 .contents-entry-link:hover {
 	text-decoration: underline;
-}
-
-.contents-entry-blurb {
-	display: block;
-	color: var(--lily-text-muted);
-	font-size: 0.95em;
 }
 
 /* --- Topics A-Z ---------------------------------------------------------- */
