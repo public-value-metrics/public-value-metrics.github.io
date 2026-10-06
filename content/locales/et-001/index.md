@@ -2,12 +2,12 @@
 
 Põhjalik sissejuhatus avaliku väärtuse matemaatikasse, näidetesse, ja arutluskäiku, kirjutatud tarkvarainseneridele, kes ehitavad statslikele ja sotsiaalsektori organisatsioonidele üle maailma. Iga fail katab ühe mõõdiku või kontseptsiooni: definitsioon, miks see on oluline, meetod, läbitöötatud näide, seos tarkvaraarendusega, lõksud, ja allikad.
 
-Uus siin? Alusta [avalik väärtus](locales/et-001/topics/avalik-väärtus/), [value for money](locales/et-001/topics/value-for-money/), ja [muutuse teooria](locales/et-001/topics/muutuse-teooria/) — kolm ideed, millele kõik muu ehitab.
+Uus siin? Alusta [avalik väärtus](locales/et-001/topics/avalik-väärtus/), [value for money](locales/et-001/topics/raha-eest-saadav-väärtus/), ja [muutuse teooria](locales/et-001/topics/muutuse-teooria/) — kolm ideed, millele kõik muu ehitab.
 
 ## Avaliku väärtuse alused
 
 - [Avalik väärtus](locales/en-gb-oxendict/topics/public-value/) — Mark Moore'i strateegiline kolmnurk: legitiimsus, missioon, ja operatiivne kapatsiteet avaliku väärtuse testina
-- [Value for Money (VFM)](locales/en-gb-oxendict/topics/value-for-money/) — Majandus, efektiivsus, tulemuslikkus — ja vaieldav neljas E, õiglus
+- [Raha eest saadav väärtus (VFM)](locales/en-gb-oxendict/topics/value-for-money/) — Majandus, efektiivsus, tulemuslikkus — ja vaieldav neljas E, õiglus
 - [Alternatiivkulu avalikes kulutustes](locales/en-gb-oxendict/topics/opportunity-cost-in-public-spending/) — Iga nael, mida osakond kulutab, on nael, mis ei kulutata järgmisele parimale programmile
 - [Sotsiaalne diskontomäär](locales/en-gb-oxendict/topics/social-discount-rate/) — Green Booki langev diskontomäär, ja miks 3,5% sai elavaks poliitiliseks küsimuseks
 - [Jaotuslik kaalumine](locales/en-gb-oxendict/topics/distributional-weighting/) — Miks nael loeb rohkem vaesele leibkonnale — ja kuidas Green Book seda hinnastab
@@ -32,7 +32,7 @@ Uus siin? Alusta [avalik väärtus](locales/et-001/topics/avalik-väärtus/), [v
 - [Muutuse teooria](locales/en-gb-oxendict/topics/theory-of-change/) — Põhjusliku ahela kaardistamine tegevusest pikaajalise tulemuseni enne, kui mõõdad midagi
 - [Logiline mudel](locales/en-gb-oxendict/topics/logic-model/) — Sisendid, tegevused, väljundid, tulemused, mõju — programmi vastutuse selgroog
 - [Tulemused versus väljundid](locales/en-gb-oxendict/topics/outcomes-vs-outputs/) — Miks "500 inimest osales" ei ole sama väide kui "500 inimese elud paranesid"
-- [Social Value Act](locales/en-gb-oxendict/topics/social-value-act/) — Ühendkuningriigi 2012-kohustus kaaluda sotsiaalset väärtust avalikus hankimises
+- [Sotsiaalse väärtuse seadus](locales/en-gb-oxendict/topics/social-value-act/) — Ühendkuningriigi 2012-kohustus kaaluda sotsiaalset väärtust avalikus hankimises
 - [Ühikukulu andmebaasid](locales/en-gb-oxendict/topics/unit-cost-databases/) — HACT Social Value Bank ja Global Value Exchange: eelkuluarvestatud proksid, nii et keegi ei alusta nullist
 - [Mõjuhindamise meetodid](locales/en-gb-oxendict/topics/impact-evaluation-methods/) — RCTd, erinevuste-erinevused, ja propensity-score-matching poliitikatele, mida ei saa laboratooriumis testida
 - [Mõjuhindamine versus protsessihindamine](locales/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/) — Kas see töötas, versus kas see juhtus disainituna — kaks erinevat küsimust, kaks erinevat meetodit
@@ -73,10 +73,10 @@ Uus siin? Alusta [avalik väärtus](locales/et-001/topics/avalik-väärtus/), [v
 ## Heaolu, õiglus, ja ühiskondlikud indikaatorid
 
 - [SKT alternatiivid](locales/en-gb-oxendict/topics/gdp-alternatives/) — Genuine Progress Indicator, Gross National Happiness, ja SKT tuntud pimedad kohad
-- [Human Development Index (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — ElueaOotus, haridus, ja sissetulek kombineeritud üheKs numbriKs — ja mis see lamendab
-- [Multidimensional Poverty Index (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — Puuduste loendamine, ei lihtsalt sissetuleku, üle tervise, hariduse, ja elamisStandardite
+- [Inimarengu indeks (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — ElueaOotus, haridus, ja sissetulek kombineeritud üheKs numbriKs — ja mis see lamendab
+- [Mitmemõõtmeline vaesuse indeks (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — Puuduste loendamine, ei lihtsalt sissetuleku, üle tervise, hariduse, ja elamisStandardite
 - [Heaolu-kohandatud eluaastad (WELLBY)](locales/en-gb-oxendict/topics/wellbeing-adjusted-life-years/) — WELLBY: QALY-formet ühik poliitikatele, mille valuuta on eluRahulolu, ei tervis
-- [Index of Multiple Deprivation (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — Inglismaa väikesE-ala-deprivatsiooni-rangjastus, ja kuidas see ruuTib rahastuSt ja tähelepanu
+- [Mitmekordse puuduse indeks (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — Inglismaa väikesE-ala-deprivatsiooni-rangjastus, ja kuidas see ruuTib rahastuSt ja tähelepanu
 - [Sotsiaalse kapitali mõõdikud](locales/en-gb-oxendict/topics/social-capital-metrics/) — Usaldus, võrgustikud, ja kodaniku-osalemine ekonoomilise aktivaNa ühEta regStriKanDeTa
 - [Looduskapitali arvestus](locales/en-gb-oxendict/topics/natural-capital-accounting/) — Keskkonna panemine balanssarvele, Ühendkuningriigi 25-Year-Environment-Plan'ist edasi
 - [Põlvkondadevaheline õiglus ja jätkusuutlikkuse diskonteerimine](locales/en-gb-oxendict/topics/intergenerational-equity-and-sustainability-discounting/) — Miks kauge tuleviku diskonteerimine mistahes positiivsel määral saaB kustutada selle analüüsist

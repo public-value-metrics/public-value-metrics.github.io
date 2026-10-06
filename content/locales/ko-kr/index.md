@@ -65,7 +65,7 @@
 - [취임당 비용](locales/en-gb-oxendict/topics/cost-per-transaction/) — 디지털 채널의 대표적인 경제학, 그리고 그 가장 흔한 회계 트릭
 - [채널 이동 절감](locales/en-gb-oxendict/topics/channel-shift-savings/) — 서비스가 온라인이 될 때 전화 회선과 창구에 실제로 무슨 일이 일어나는가
 - [디지털 포용성](locales/en-gb-oxendict/topics/digital-inclusion/) — 지원 디지털, 디지털 격차, 그리고 "디폴트 디지털"이 배제할 때 잃어버리는 가치
-- [Government as a Platform (GaaP)](locales/en-gb-oxendict/topics/government-as-a-platform/) — 공공 인프라로서의 공유 컴포넌트: GOV.UK Notify, Pay, 그리고 재사용의 경제학
+- [플랫폼으로서의 정부 (GaaP)](locales/en-gb-oxendict/topics/government-as-a-platform/) — 공공 인프라로서의 공유 컴포넌트: GOV.UK Notify, Pay, 그리고 재사용의 경제학
 - [오픈 데이터의 가치](locales/en-gb-oxendict/topics/open-data-value/) — 가격이 없는 데이터를 평가하기, McKinsey의 추정치부터 데이터셋별 사례 연구까지
 - [공공 부문 사이버보안 가치](locales/en-gb-oxendict/topics/public-sector-cybersecurity-value/) — 침해가 노출시킬 시민 데이터에 대한 위험 감소를 가격 매기기
 - [정부에서의 AI 가치](locales/en-gb-oxendict/topics/ai-in-government-value/) — 다른 모든 것과 같은 바리류 포 머니 기준에 비추어 공공서비스에서의 AI 채택을 평가하기

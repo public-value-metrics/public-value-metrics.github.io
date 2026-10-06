@@ -41,9 +41,9 @@ formel）:
 
 ## Koppling till mjukvaruutveckling
 
-- Digitala plattformar som dirigerar ömsesidig hjälp, volontärarbete eller samhällsbidrag (en "lokal kopplare"-tjänst, till exempel) bygger bokstavligen brobyggande kapitalinfrastruktur; deras framgångsmått bör vara nätverksmångfald av skapade kopplingar, inte bara transaktionsantal — se [Government as a Platform](../government-as-a-platform/) för det bredare mönstret av infrastruktur andra bygger värde ovanpå.
+- Digitala plattformar som dirigerar ömsesidig hjälp, volontärarbete eller samhällsbidrag (en "lokal kopplare"-tjänst, till exempel) bygger bokstavligen brobyggande kapitalinfrastruktur; deras framgångsmått bör vara nätverksmångfald av skapade kopplingar, inte bara transaktionsantal — se [Government as a Platform](../staten-som-plattform/) för det bredare mönstret av infrastruktur andra bygger värde ovanpå.
 - Där ett programs förändringsteori explicit riktar sig till socialt kapital som ett utfall (en samhällsresiliensfond, en social ordinationstjänst), bör dess [teori om förändring](../teori-om-förändring/) och [logiska modell](../logisk-modell/) namnge den specifika pelaren (tillit, medborgarengagemang, nätverksstöd) den förväntar sig att flytta, snarare än ett odifferentierat "bygg samhälle"-utfall som inte kan mätas mot ONS baslinje.
-- Socialt kapital-indikatorer är en användbar rättvisilins tillsammans med [Index of Multiple Deprivation](../index-of-multiple-deprivation/): ett område kan vara inkomstmässigt utsatt men socialt rikt, eller vice versa, och de två pekar på mycket olika insatser.
+- Socialt kapital-indikatorer är en användbar rättvisilins tillsammans med [Index of Multiple Deprivation](../index-för-flerfaldig-utsatthet/): ett område kan vara inkomstmässigt utsatt men socialt rikt, eller vice versa, och de två pekar på mycket olika insatser.
 
 ## Fallgropar
 

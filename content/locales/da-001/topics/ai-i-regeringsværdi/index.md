@@ -8,7 +8,7 @@ UK Central Digital and Data Office (CDDO) offentliggjorde sin Generative AI Fram
 
 ## Beregningen
 
-AI-adoption vurderes som en tilføjelse til, ikke en erstatning for, standard [value-for-money](../value-for-money/)-vurdering, med de AI-specifikke termer gjort explicit snarere end foldet ind i et enkelt "produktivitetsGevinst"-tal:
+AI-adoption vurderes som en tilføjelse til, ikke en erstatning for, standard [value-for-money](../værdi-for-pengene/)-vurdering, med de AI-specifikke termer gjort explicit snarere end foldet ind i et enkelt "produktivitetsGevinst"-tal:
 
 ```
 Netto værdi af et AI-system =

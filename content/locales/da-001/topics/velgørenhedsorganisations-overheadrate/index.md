@@ -35,7 +35,7 @@ En giver, der screenerer rent på overheadRate, vælger A og afviser B — det m
 
 ## Forbindelse til softwareudvikling
 
-FinansOg tilskuds-rapporterings-software for sektoren hardKoder ofte overhead-/program-opdelingen som et kategorisk felt på hver kostprisLinje, fordi det er, hvad regulatorer og nogle finansiere stadig kræver i statutoriske indberetninger. Ingeniører, der bygger disse systemer, bør behandle det krav som en compliance-forpligtelse, ikke et designSignal om, at overheadRate er målingen, værd at fremhæve prominently på et dashboard; kobl den, hvorEnd den vises, med en resultat-baseret måling, så en seer ikke kan læse overheadRate isoleret. Se [giver-afkast-på-investering](../giver-afkast-på-investering/) for målingen, der bør sidde næste til den, og [value for money](../value-for-money/) for det offentlige-sektor-ækvivalente argument mod enkelt-rate-effektivitets-proxyer.
+FinansOg tilskuds-rapporterings-software for sektoren hardKoder ofte overhead-/program-opdelingen som et kategorisk felt på hver kostprisLinje, fordi det er, hvad regulatorer og nogle finansiere stadig kræver i statutoriske indberetninger. Ingeniører, der bygger disse systemer, bør behandle det krav som en compliance-forpligtelse, ikke et designSignal om, at overheadRate er målingen, værd at fremhæve prominently på et dashboard; kobl den, hvorEnd den vises, med en resultat-baseret måling, så en seer ikke kan læse overheadRate isoleret. Se [giver-afkast-på-investering](../giver-afkast-på-investering/) for målingen, der bør sidde næste til den, og [value for money](../værdi-for-pengene/) for det offentlige-sektor-ækvivalente argument mod enkelt-rate-effektivitets-proxyer.
 
 ## Faldgruber
 

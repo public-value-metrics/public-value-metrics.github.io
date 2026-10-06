@@ -45,7 +45,7 @@ MonetiseeritUD väärtus = 15 × £13 000 = £195 000
 ## Seos tarkvaraarendusega
 
 - Mistahes kodanikuLe-vendaTuD teenus, mis juba koguB eluRahulolu- või heaolu-uuringu-itemiT (mitmeD kohaliku-omavalitsuse- ja tervise-ja-hoolDuse-platvormid teevaD, järgiDes ONS'i nelja standardsE heaolu-küsimust), saab arvutada WELLBYd otse olemasolevaST andmePipelineST, selle asemel, et telliDA skräddersyd ekonoomiline hindamine igaLe teenuseMuudatuSeLe.
-- WELLBYd annaVaD inseneriMeeskonDadeLe, mis ehitavaD [social-value-act](../social-value-act/)-raporteerimiSeKs või [sotsiaalseKs-tuluKs-investeeringult](../sotsiaalne-tulu-investeeringult/), rahVuslikuLt-standardiseeritud, HM-Treasury-kinnitatuD nimetajA, vältiDes skräddersyd "impact-skooriDe" proliferatsiooni, mida ei saaB võrreldA üle lepingute või tarnijaTe.
+- WELLBYd annaVaD inseneriMeeskonDadeLe, mis ehitavaD [social-value-act](../sotsiaalse-väärtuse-seadus/)-raporteerimiSeKs või [sotsiaalseKs-tuluKs-investeeringult](../sotsiaalne-tulu-investeeringult/), rahVuslikuLt-standardiseeritud, HM-Treasury-kinnitatuD nimetajA, vältiDes skräddersyd "impact-skooriDe" proliferatsiooni, mida ei saaB võrreldA üle lepingute või tarnijaTe.
 - Sest WELLBYd on additiivseD üle inimeste ja aja, koMpoNeeruvaD need puhTalt populatsiooni-tasandi tulemuSE-jälgimiSeSSE, mida kasutatakse [tulemus-põhise-vastutusE](../tulemus-põhine-vastutus/)-süsteemides — teenuse-dashboard saaB raporteerida kumulatiivseid WELLBYd genereeritud kvartali kohta samal viisil, kui tervishoiuSüsteem raporteerib saadud QALYd.
 
 ## Lõksud

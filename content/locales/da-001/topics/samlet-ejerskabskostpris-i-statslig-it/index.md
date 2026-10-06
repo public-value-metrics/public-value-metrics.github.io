@@ -47,7 +47,7 @@ TCO vender den naive beslutning: System B er marginalt dyrere over fem år, når
 
 ## Forbindelse til softwareudvikling
 
-TCO er tallet, der bør disciplinere hver [byg-versus-køb](../byg-versus-køb-i-regeringen/)-beslutning og hver [teknisk-gæld](../teknisk-gæld-som-offentlig-værdi-erosion/)-afBetalings-sag, fordi gæld-rente og udSkudt vedligeholdelse begge er drifts-kostpris-linjer, der tilhører samme diskonterede total, uanset om nogen har sporet dem. Ingeniører, der foreslår et platform- eller leverandør-valg, bør præsentere den fulde TCO-tabel, ikke indkøbs-prisen, fordi indkøbs-prisen er netop tallet, Green Books finansielle case var designet til at stoppe departementer fra at stole på alene. TCO er også den ærlige nævner for [value-for-money](../value-for-money/)-bedømmelser — VFM sammenligner fordel med kostpris, og en underTalt kostpris-linje inflaterer hver VFM-ratio i business-casen.
+TCO er tallet, der bør disciplinere hver [byg-versus-køb](../byg-versus-køb-i-regeringen/)-beslutning og hver [teknisk-gæld](../teknisk-gæld-som-offentlig-værdi-erosion/)-afBetalings-sag, fordi gæld-rente og udSkudt vedligeholdelse begge er drifts-kostpris-linjer, der tilhører samme diskonterede total, uanset om nogen har sporet dem. Ingeniører, der foreslår et platform- eller leverandør-valg, bør præsentere den fulde TCO-tabel, ikke indkøbs-prisen, fordi indkøbs-prisen er netop tallet, Green Books finansielle case var designet til at stoppe departementer fra at stole på alene. TCO er også den ærlige nævner for [value-for-money](../værdi-for-pengene/)-bedømmelser — VFM sammenligner fordel med kostpris, og en underTalt kostpris-linje inflaterer hver VFM-ratio i business-casen.
 
 ## Faldgruber
 

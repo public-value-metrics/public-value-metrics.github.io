@@ -76,7 +76,7 @@ Monetized value = 15 × £13,000 = £195,000
   partir des chaînes de données existantes plutôt que de commander une évaluation économique sur mesure
   pour chaque changement de service.
 - Les WELLBY donnent aux équipes d'ingénierie construisant pour le reporting du
-  [Social Value Act](../social-value-act/) ou le [retour social sur investissement](../retour-social-sur-investissement/)
+  [Social Value Act](../loi-sur-la-valeur-sociale/) ou le [retour social sur investissement](../retour-social-sur-investissement/)
   un dénominateur standardisé nationalement et approuvé par le HM Treasury, évitant la prolifération de
   « scores d'impact » sur mesure incomparables entre contrats ou fournisseurs.
 - Parce que les WELLBY sont additifs sur les personnes et le temps, ils se composent proprement avec le

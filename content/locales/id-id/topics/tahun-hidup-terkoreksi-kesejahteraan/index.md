@@ -78,7 +78,7 @@ Nilai termonetisasi = 15 × £13.000 = £195.000
   mengikuti empat pertanyaan kesejahteraan standar ONS) dapat menghitung WELLBY langsung dari
   pipeline data yang sudah ada, alih-alih menugaskan evaluasi ekonomi khusus untuk setiap perubahan
   layanan.
-- WELLBY memberikan tim rekayasa yang membangun untuk pelaporan [social value act](../social-value-act/)
+- WELLBY memberikan tim rekayasa yang membangun untuk pelaporan [social value act](../undang-undang-nilai-sosial/)
   atau [laba sosial atas investasi](../laba-atas-investasi-sosial/) sebuah penyebut yang
   distandarkan secara nasional dan didukung HM Treasury, menghindari perkembangbiakan "skor dampak"
   khusus yang tidak dapat dibandingkan lintas kontrak atau pemasok.

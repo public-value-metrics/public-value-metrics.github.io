@@ -37,7 +37,7 @@ InseneriKapatsiteet avalikus organis on isegi piiratud eelArve — sprindiKapats
 
 - Nimeta alati võrdlusAlus: funktsiooni äriJuhtum peaks ütlema, mida muud samad meeskond-nädalad saaksid tarnida, mitte ainult tema oma tulu.
 - Käsitle "meil on inseneriKapatsiteeti üleJäänud" alternatiivKulu-analüüsi algusena, mitte lõpuna — vaba kapatsiteet omab endiselt parimat alternatiivKasutust, isegi kui see kasutus on tehnilisteVõlgade tagasimaksmine (vaata [tehniline võlg kui avaliku väärtuse erosioon](../tehniline-võlg-kui-avaliku-väärtuse-erosioon/)).
-- Ühenda see otse [value for money](../value-for-money/)'ga: VFM "economy" test on mõttetu ausa alternatiivKulu-võrdlusAluseta, ja [viivituskulu avalikes programmides](../viivituse-kulu-avalikes-programmides/)'ga, mis hindab samasse loobutud-alternatiivi-loogika ajaDimensiooni.
+- Ühenda see otse [value for money](../raha-eest-saadav-väärtus/)'ga: VFM "economy" test on mõttetu ausa alternatiivKulu-võrdlusAluseta, ja [viivituskulu avalikes programmides](../viivituse-kulu-avalikes-programmides/)'ga, mis hindab samasse loobutud-alternatiivi-loogika ajaDimensiooni.
 
 ## Lõksud
 

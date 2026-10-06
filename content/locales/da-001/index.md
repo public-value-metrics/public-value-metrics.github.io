@@ -2,12 +2,12 @@
 
 En omfattende introduktion til offentlig-værdi-matematik, eksempler, og ræsonnement, skrevet for softwareIngeniører, der bygger for statslige og social-sektor-organisationer verdensOmspændende. Hver fil dækker en måling eller koncept: definition, hvorfor det betyder noget, metoden, et gennemregnet eksempel, software-ingeniør-forbindelsen, faldgruber, og kilder.
 
-Ny her? Start med [offentlig værdi](locales/da-001/topics/offentlig-værdi/), [value for money](locales/da-001/topics/value-for-money/), og [forandringsTeori](locales/da-001/topics/forandringsteori/) — de tre ideer, alt andet bygger på.
+Ny her? Start med [offentlig værdi](locales/da-001/topics/offentlig-værdi/), [value for money](locales/da-001/topics/værdi-for-pengene/), og [forandringsTeori](locales/da-001/topics/forandringsteori/) — de tre ideer, alt andet bygger på.
 
 ## Fundamentet for offentlig værdi
 
 - [Offentlig værdi](locales/en-gb-oxendict/topics/public-value/) — Mark Moores strategiske trekant: legitimitet, mission, og operationel kapacitet som testen af offentlig værd
-- [Value for money (VFM)](locales/en-gb-oxendict/topics/value-for-money/) — Økonomi, effektivitet, virkning — og den omStridte fjerde E, lighed
+- [Værdi for pengene (VFM)](locales/en-gb-oxendict/topics/value-for-money/) — Økonomi, effektivitet, virkning — og den omStridte fjerde E, lighed
 - [Alternativkostning i offentlige udgifter](locales/en-gb-oxendict/topics/opportunity-cost-in-public-spending/) — Hvert pund et departement bruger er et pund ikke brugt på det næst-bedste program
 - [Samfundsmæssig diskonteringsrate](locales/en-gb-oxendict/topics/social-discount-rate/) — Green Books faldende diskonteringsRate, og hvorfor 3,5% blev et live politisk spørgsmål
 - [Distributionsmæssig vægtning](locales/en-gb-oxendict/topics/distributional-weighting/) — Hvorfor et pund betyder mere for en fattig husholdning — og hvordan Green Book prisSætter det
@@ -32,7 +32,7 @@ Ny her? Start med [offentlig værdi](locales/da-001/topics/offentlig-værdi/), [
 - [Forandringsteori](locales/en-gb-oxendict/topics/theory-of-change/) — At kortlægge den kausale kæde fra aktivitet til langSigtet resultat, før du måler noget
 - [Logikmodel](locales/en-gb-oxendict/topics/logic-model/) — Input, aktiviteter, output, resultater, impact — ansvarligheds-rygRaden af et program
 - [Resultater versus output](locales/en-gb-oxendict/topics/outcomes-vs-outputs/) — Hvorfor "500 mennesker deltog" ikke er samme påstand som "500 menneskers liv forbedredes"
-- [Social Value Act](locales/en-gb-oxendict/topics/social-value-act/) — Storbritanniens 2012-pligt til at overVeje social værdi i offentligt indkøb
+- [Loven om social værdi](locales/en-gb-oxendict/topics/social-value-act/) — Storbritanniens 2012-pligt til at overVeje social værdi i offentligt indkøb
 - [Enhedskostprisdatabaser](locales/en-gb-oxendict/topics/unit-cost-databases/) — HACTs Social Value Bank og Global Value Exchange: forUdBeregnede proxyer, så ingen starter fra nul
 - [Effektevalueringsmetoder](locales/en-gb-oxendict/topics/impact-evaluation-methods/) — RCT'er, difference-in-differences, og propensity-score-matching for politikker, du ikke kan køre i et laboratorium
 - [Effektevaluering versus procesevaluering](locales/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/) — Virkede det, versus skete det som designet — to forskellige spørgsmål, to forskellige metoder
@@ -73,10 +73,10 @@ Ny her? Start med [offentlig værdi](locales/da-001/topics/offentlig-værdi/), [
 ## Velvære, lighed, og samfundsIndikatorer
 
 - [BNP-alternativer](locales/en-gb-oxendict/topics/gdp-alternatives/) — Genuine Progress Indicator, Gross National Happiness, og BNP's velKendte blinde pletter
-- [Human Development Index (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — LevetidForventning, uddannelse, og indkomst kombineret til et tal — og hvad det flader ud
-- [Multidimensional Poverty Index (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — At tælle deprivationer, ikke blot indkomst, over sundhed, uddannelse, og levestandarder
+- [Indeks for menneskelig udvikling (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — LevetidForventning, uddannelse, og indkomst kombineret til et tal — og hvad det flader ud
+- [Multidimensionelt fattigdomsindeks (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — At tælle deprivationer, ikke blot indkomst, over sundhed, uddannelse, og levestandarder
 - [Velvære-justerede-livsår (WELLBY)](locales/en-gb-oxendict/topics/wellbeing-adjusted-life-years/) — WELLBY'en: en QALY-formet enhed for politikker, hvis valuta er liv-tilfredshed, ikke sundhed
-- [Index of Multiple Deprivation (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — Englands lille-areal-deprivations-rangordning, og hvordan den ruter finansiering og opMærksomhed
+- [Indeks for multipel afsavn (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — Englands lille-areal-deprivations-rangordning, og hvordan den ruter finansiering og opMærksomhed
 - [Social kapital-målinger](locales/en-gb-oxendict/topics/social-capital-metrics/) — Tillid, netVærk, og borgerDeltagelse som et økonomisk aktiv uden en regnskabsPost
 - [Naturkapital-regnskab](locales/en-gb-oxendict/topics/natural-capital-accounting/) — At sætte miljøet på balanceRegnskabet, fra Storbritanniens 25-Year-Environment-Plan fremefter
 - [Intergenerationel lighed og bæredygtighedsdiskontering](locales/en-gb-oxendict/topics/intergenerational-equity-and-sustainability-discounting/) — Hvorfor diskontering af den fjerne fremtid ved enhver positiv rate kan udSlette den fra analysen

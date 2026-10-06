@@ -1,6 +1,6 @@
 # Multidimensionale Armoede-Index (MPI)
 
-De MPI meet armoede als overlappende deprivaties die een persoon gelijktijdig ervaart — in gezondheid, onderwijs, en levensstandaarden — in plaats van als inkomen alleen dat onder een lijn valt. Het werd ontwikkeld door het Oxford Poverty and Human Development Initiative (OPHI) met Sabina Alkire en James Foster, en wordt sinds 2010 gezamenlijk gepubliceerd met UNDP in elk Human Development Report, naast de [Human Development Index](../human-development-index/).
+De MPI meet armoede als overlappende deprivaties die een persoon gelijktijdig ervaart — in gezondheid, onderwijs, en levensstandaarden — in plaats van als inkomen alleen dat onder een lijn valt. Het werd ontwikkeld door het Oxford Poverty and Human Development Initiative (OPHI) met Sabina Alkire en James Foster, en wordt sinds 2010 gezamenlijk gepubliceerd met UNDP in elk Human Development Report, naast de [Human Development Index](../index-voor-menselijke-ontwikkeling/).
 
 ## Waarom het ertoe doet
 

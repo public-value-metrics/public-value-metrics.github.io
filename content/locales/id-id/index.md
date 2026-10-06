@@ -32,7 +32,7 @@ Baru di sini? Mulailah dari [nilai publik](locales/en-gb-oxendict/topics/public-
 - [Teori Perubahan (Theory of Change)](locales/en-gb-oxendict/topics/theory-of-change/) — Memetakan rantai sebab-akibat dari kegiatan ke hasil jangka panjang sebelum mengukur apa pun
 - [Model Logika](locales/en-gb-oxendict/topics/logic-model/) — Masukan, kegiatan, keluaran, hasil, dampak — tulang punggung akuntabilitas sebuah program
 - [Luaran vs Keluaran](locales/en-gb-oxendict/topics/outcomes-vs-outputs/) — Mengapa "500 orang hadir" bukan klaim yang sama dengan "hidup 500 orang membaik"
-- [Social Value Act](locales/en-gb-oxendict/topics/social-value-act/) — Kewajiban Inggris tahun 2012 untuk mempertimbangkan nilai sosial dalam pengadaan publik
+- [Undang-Undang Nilai Sosial](locales/en-gb-oxendict/topics/social-value-act/) — Kewajiban Inggris tahun 2012 untuk mempertimbangkan nilai sosial dalam pengadaan publik
 - [Basis Data Biaya Satuan (Unit Cost Databases)](locales/en-gb-oxendict/topics/unit-cost-databases/) — Social Value Bank milik HACT dan Global Value Exchange: proksi yang sudah diberi biaya agar tak ada yang mulai dari nol
 - [Metode Evaluasi Dampak](locales/en-gb-oxendict/topics/impact-evaluation-methods/) — Uji acak terkontrol, difference-in-differences, dan pencocokan skor kecenderungan untuk kebijakan yang tak bisa diuji di laboratorium
 - [Evaluasi Dampak vs Evaluasi Proses](locales/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/) — Apakah itu berhasil, versus apakah itu terjadi sesuai rancangan — dua pertanyaan berbeda, dua metode berbeda

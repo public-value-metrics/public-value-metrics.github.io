@@ -48,7 +48,7 @@ TCO pöörab naiivsE otsuSE: Süsteem B on marginaalSelt kuluKaM üle viiE aasta
 
 ## Seos tarkvaraarendusega
 
-TCO on numbEr, mis peaKs distsiplineeriMa igA [ehita-versus-ostA](../ehita-versus-osta-valitsuses/)-otsust ja igA [tehniliSE-võla](../tehniline-võlg-kui-avaliku-väärtuse-erosioon/)-tagasimaksE-juhtumit, sest võla-intress ja edasiLükatuD hooLdus on mõlemad operatiivSe-kulu-ridaD, mis kuuluvaD samaSSE diskonteeritud totaaliSSE, ükskõik, kas keegi on neid jälgiNud. Insenerid, mis pakuVaD platVormi- või tarnija-valikut, peaksid esitaMa täieliku TCO-tabeli, ei hankimis-hinda, sest hankimis-hind on täpselt number, millELe Green Booki finantsCase disainiti stopiMaKs osakondi üksi tuGineMaST. TCO on ka aus nimetaja [value-for-money](../value-for-money/)-hinnanguteLe — VFM võrdleb kasu kuluGa, ja alaLoendUD kulu-reA infleerib igA VFM-suhte äriJuhtumis.
+TCO on numbEr, mis peaKs distsiplineeriMa igA [ehita-versus-ostA](../ehita-versus-osta-valitsuses/)-otsust ja igA [tehniliSE-võla](../tehniline-võlg-kui-avaliku-väärtuse-erosioon/)-tagasimaksE-juhtumit, sest võla-intress ja edasiLükatuD hooLdus on mõlemad operatiivSe-kulu-ridaD, mis kuuluvaD samaSSE diskonteeritud totaaliSSE, ükskõik, kas keegi on neid jälgiNud. Insenerid, mis pakuVaD platVormi- või tarnija-valikut, peaksid esitaMa täieliku TCO-tabeli, ei hankimis-hinda, sest hankimis-hind on täpselt number, millELe Green Booki finantsCase disainiti stopiMaKs osakondi üksi tuGineMaST. TCO on ka aus nimetaja [value-for-money](../raha-eest-saadav-väärtus/)-hinnanguteLe — VFM võrdleb kasu kuluGa, ja alaLoendUD kulu-reA infleerib igA VFM-suhte äriJuhtumis.
 
 ## Lõksud
 

@@ -32,7 +32,7 @@ Nieuw hier? Begin met [public value](locales/en-gb-oxendict/topics/public-value/
 - [Theorie van verandering](locales/en-gb-oxendict/topics/theory-of-change/) — De causale keten in kaart brengen van activiteit naar langetermijnuitkomst voordat je iets meet
 - [Logisch model](locales/en-gb-oxendict/topics/logic-model/) — Inputs, activiteiten, outputs, uitkomsten, impact — de verantwoordingsruggengraat van een programma
 - [Uitkomsten versus output](locales/en-gb-oxendict/topics/outcomes-vs-outputs/) — Waarom "500 mensen woonden bij" niet dezelfde bewering is als "500 levens verbeterden"
-- [Social Value Act](locales/en-gb-oxendict/topics/social-value-act/) — De verplichting van het VK uit 2012 om sociale waarde te overwegen in publieke aanbesteding
+- [Wet sociale waarde](locales/en-gb-oxendict/topics/social-value-act/) — De verplichting van het VK uit 2012 om sociale waarde te overwegen in publieke aanbesteding
 - [Databanken voor eenheidskosten](locales/en-gb-oxendict/topics/unit-cost-databases/) — De Social Value Bank van HACT en Global Value Exchange: vooraf-gekoste proxy's zodat niemand vanaf nul begint
 - [Methoden voor impactevaluatie](locales/en-gb-oxendict/topics/impact-evaluation-methods/) — RCT's, difference-in-differences, en propensity score matching voor beleid dat je niet in een lab kunt draaien
 - [Impactevaluatie versus procesevaluatie](locales/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/) — Werkte het, versus gebeurde het zoals ontworpen — twee verschillende vragen, twee verschillende methoden
@@ -40,7 +40,7 @@ Nieuw hier? Begin met [public value](locales/en-gb-oxendict/topics/public-value/
 ## Overheidsprestatie- en leveringsmaatstaven
 
 - [Kerncijfers publieke sector](locales/en-gb-oxendict/topics/public-sector-kpis/) — Indicatoren kiezen die de wet van Goodhart overleven
-- [Public value scorecard](locales/en-gb-oxendict/topics/public-value-scorecard/) — De balanced scorecard van Kaplan en Norton aanpassen voor een missie die geen winst is
+- [Scorekaart publieke waarde](locales/en-gb-oxendict/topics/public-value-scorecard/) — De balanced scorecard van Kaplan en Norton aanpassen voor een missie die geen winst is
 - [Uitkomstgebaseerde verantwoording (OBA)](locales/en-gb-oxendict/topics/outcomes-based-accountability/) — "Results-Based Accountability" van Mark Friedman: populatieresultaten versus prestatieverantwoording
 - [Betaling naar resultaat en sociale-impactobligaties (PbR/SIB's)](locales/en-gb-oxendict/topics/payment-by-results-and-social-impact-bonds/) — Betalen voor uitkomsten, niet activiteit — en waarom het prikkelontwerp het hele spel is
 - [Productiviteit publieke dienstverlening](locales/en-gb-oxendict/topics/public-service-productivity/) — Outputgroei meten in diensten zonder marktprijs, vanaf de ONS-methodologie
@@ -73,10 +73,10 @@ Nieuw hier? Begin met [public value](locales/en-gb-oxendict/topics/public-value/
 ## Welzijn, gelijkheid, en maatschappelijke indicatoren
 
 - [BBP-alternatieven](locales/en-gb-oxendict/topics/gdp-alternatives/) — De Genuine Progress Indicator, Gross National Happiness, en de bekende blinde vlekken van BBP
-- [Human Development Index (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — Levensverwachting, onderwijs, en inkomen gecombineerd tot één getal — en wat het platslaat
+- [Index voor menselijke ontwikkeling (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — Levensverwachting, onderwijs, en inkomen gecombineerd tot één getal — en wat het platslaat
 - [Multidimensionale Armoede-Index (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — Deprivaties tellen, niet alleen inkomen, over gezondheid, onderwijs, en levensstandaarden
 - [Welzijnsgecorrigeerde levensjaren (WELLBY)](locales/en-gb-oxendict/topics/wellbeing-adjusted-life-years/) — De WELLBY: een QALY-gevormde eenheid voor beleid waarvan de valuta levenstevredenheid is, geen gezondheid
-- [Index of Multiple Deprivation (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — De deprivatierangschikking van kleine gebieden in Engeland, en hoe het financiering en aandacht routeert
+- [Index van meervoudige deprivatie (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — De deprivatierangschikking van kleine gebieden in Engeland, en hoe het financiering en aandacht routeert
 - [Sociaal-kapitaalmaatstaven](locales/en-gb-oxendict/topics/social-capital-metrics/) — Vertrouwen, netwerken, en burgerparticipatie als een economisch activum zonder boekhoudkundige vermelding
 - [Natuurlijk-kapitaalboekhouding](locales/en-gb-oxendict/topics/natural-capital-accounting/) — Het milieu op de balans zetten, vanaf het 25 Year Environment Plan van het VK
 - [Generationsoverschrijdende rechtvaardigheid en duurzaamheidsdiscontering](locales/en-gb-oxendict/topics/intergenerational-equity-and-sustainability-discounting/) — Waarom het disconteren van de verre toekomst tegen elk positief tarief hem kan wissen uit de analyse

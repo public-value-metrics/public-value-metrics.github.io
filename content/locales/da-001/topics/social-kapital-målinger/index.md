@@ -39,7 +39,7 @@ Putnams binde-/bro-opdeling (ramme, ikke en formel):
 
 - Digitale platforme, der ruter gensidig hjælp, frivilligHed, eller fællesskabs-bevillinger (en "lokal-forbindelse"-tjeneste, for eksempel), bygger litteralt bro-kapital-infrastruktur; deres succesMåling bør være netVærk-diversitet af forbindelser gjort, ikke blot transaktions-tælling — se [regering-som-en-platform](../regering-som-en-platform/) for det bredere mønster af infrastruktur, andre bygger værdi på toppen af.
 - Hvor et programs forandringsTeori explicit målretter social kapital som et resultat (en fællesskabs-resiliens-fond, en social-recept-skrivnings-tjeneste), bør dets [forandringsTeori](../forandringsteori/) og [logikModel](../logikmodel/) navngive den specifikke søjle (tillid, borgerEngagement, netVærk-støtte), det forventer at flytte, snarere end et uDifferentieret "byg fællesskab"-resultat, der ikke kan måles mod ONS-baseLinen.
-- Social-kapital-indikatorer er en nyttig lighedsLinse sammen med [Index of Multiple Deprivation](../index-of-multiple-deprivation/): et område kan være indkomst-deprivet men socialt rigt, eller vice versa, og de to peger på meget forskellige interventioner.
+- Social-kapital-indikatorer er en nyttig lighedsLinse sammen med [Index of Multiple Deprivation](../indeks-for-multipel-afsavn/): et område kan være indkomst-deprivet men socialt rigt, eller vice versa, og de to peger på meget forskellige interventioner.
 
 ## Faldgruber
 

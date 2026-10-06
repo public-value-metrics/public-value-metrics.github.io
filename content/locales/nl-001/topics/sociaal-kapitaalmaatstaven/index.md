@@ -47,7 +47,7 @@ formule):
 
 - Digitale platforms die onderlinge hulp, vrijwilligerswerk, of gemeenschapssubsidies routeren (een "lokale verbinder"-dienst, bijvoorbeeld) bouwen letterlijk overbruggend-kapitaalinfrastructuur; hun succesmaatstaf zou netwerkdiversiteit van gemaakte verbindingen moeten zijn, niet alleen transactietelling — zie [overheid-als-platform](../overheid-als-platform/) voor het bredere patroon van infrastructuur waarop anderen waarde bouwen.
 - Waar de theorie van verandering van een programma expliciet sociaal kapitaal richt als een uitkomst (een gemeenschapsveerkrachtfonds, een sociale-voorschrijvingdienst), zouden zijn [theorie van verandering](../theorie-van-verandering/) en [logisch model](../logisch-model/) de specifieke pilaar (vertrouwen, burgerbetrokkenheid, netwerkondersteuning) moeten noemen die het verwacht te bewegen, in plaats van een ongedifferentieerde "bouw gemeenschap"-uitkomst die niet kan worden gemeten tegen de ONS-basislijn.
-- Sociaal-kapitaalindicatoren zijn een nuttige gelijkheidslens naast de [Index of Multiple Deprivation](../index-of-multiple-deprivation/): een gebied kan inkomensdeprivatie hebben maar sociaal rijk zijn, of vice versa, en de twee wijzen naar zeer verschillende interventies.
+- Sociaal-kapitaalindicatoren zijn een nuttige gelijkheidslens naast de [Index of Multiple Deprivation](../index-van-meervoudige-deprivatie/): een gebied kan inkomensdeprivatie hebben maar sociaal rijk zijn, of vice versa, en de twee wijzen naar zeer verschillende interventies.
 
 ## Valkuilen
 

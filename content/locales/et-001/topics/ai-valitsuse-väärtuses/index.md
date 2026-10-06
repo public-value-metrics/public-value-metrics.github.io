@@ -8,7 +8,7 @@ AI valitsuSE väärtuSES on nõue, et AI-süsteem, mida kasutatakse avalikus tee
 
 ## Arvutus
 
-AI-adoptsioon hinnataKse lisandUseNa standardseLe [value-for-money](../value-for-money/)-hindamiseLe, ei aseNDuseNa sellELe, AI-spetsiifiliseteGa termineiTeGa muudetuD selgeSõnaliseKs, selle asemel, et nad oleksiD foldituD üheKs-ainsaKs "produktiivsuSE-kasvu"-numbriKs:
+AI-adoptsioon hinnataKse lisandUseNa standardseLe [value-for-money](../raha-eest-saadav-väärtus/)-hindamiseLe, ei aseNDuseNa sellELe, AI-spetsiifiliseteGa termineiTeGa muudetuD selgeSõnaliseKs, selle asemel, et nad oleksiD foldituD üheKs-ainsaKs "produktiivsuSE-kasvu"-numbriKs:
 
 ```
 AI-süsteemi netoVäärtus =

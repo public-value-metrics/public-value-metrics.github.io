@@ -46,7 +46,7 @@ Valore monetizzato = 15 × £13.000 = £195.000
 ## Collegamento con lo sviluppo software
 
 - Qualsiasi servizio rivolto ai cittadini che già raccoglie un elemento di indagine sulla satisfazione di vita o benessere (molte piattaforme di autorità locali e di salute e assistenza lo fanno, seguendo le quattro domande di benessere standard dell'ONS) può calcolare WELLBY direttamente dalle pipeline di dati esistenti piuttosto che commissionare una valutazione economica su misura per ogni cambiamento di servizio.
-- I WELLBY danno ai team ingegneristici che costruiscono per il reporting del [social value act](../social-value-act/) o del [ritorno sociale sull'investimento](../ritorno-sociale-sullinvestimento/) un denominatore standardizzato a livello nazionale, approvato dal HM Treasury, evitando la proliferazione di "punteggi di impatto" su misura che non possono essere confrontati attraverso contratti o fornitori.
+- I WELLBY danno ai team ingegneristici che costruiscono per il reporting del [social value act](../legge-sul-valore-sociale/) o del [ritorno sociale sull'investimento](../ritorno-sociale-sullinvestimento/) un denominatore standardizzato a livello nazionale, approvato dal HM Treasury, evitando la proliferazione di "punteggi di impatto" su misura che non possono essere confrontati attraverso contratti o fornitori.
 - Perché i WELLBY sono additivi attraverso persone e tempo, si compongono nettamente nel tipo di tracciamento di risultati a livello di popolazione usato nei sistemi di [responsabilità basata sui risultati](../responsabilità-basata-sui-risultati/) — un dashboard di servizio può riportare WELLBY cumulativi generati per trimestre nel modo in cui un sistema sanitario riporta QALY guadagnati.
 
 ## Insidie

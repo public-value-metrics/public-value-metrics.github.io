@@ -54,7 +54,7 @@ Ongewogen zijn de twee programma's gelijk. Gewogen voor distributie-effect is de
 Distributieve weging komt zelden direct voor in maatstaven voor softwarelevering, maar moet bepalen hoe technische en data-teams meting en gerichtheid ontwerpen:
 
 - Bij het bouwen van een impactdashboard of batencalculator, toon het inkomens- of achterstandsprofiel van wie wordt beïnvloed, niet alleen een geaggregeerd batentotaal — geaggregeerde cijfers zonder distributieve uitsplitsing verbergen precies de omkering hierboven getoond.
-- Koppel gerichtheidslogica in dienstontwerp aan dezelfde achterstandsgegevens die het Green Book gebruikt — zie [index van meervoudige achterstand](../index-of-multiple-deprivation/) — zodat het bereik van een digitale dienst kan worden beoordeeld op rechtvaardigheid, niet alleen op efficiëntie (het omstreden vierde E in [waarde voor geld](../waarde-voor-geld/)).
+- Koppel gerichtheidslogica in dienstontwerp aan dezelfde achterstandsgegevens die het Green Book gebruikt — zie [index van meervoudige achterstand](../index-van-meervoudige-deprivatie/) — zodat het bereik van een digitale dienst kan worden beoordeeld op rechtvaardigheid, niet alleen op efficiëntie (het omstreden vierde E in [waarde voor geld](../waarde-voor-geld/)).
 - Wanneer een algoritme een schaarse middel toewijst (afsprakenmomenten, casemanager-tijd, een subsidie), zal een ongewogen doelfunctie "maximaliseer totale baat" per constructie dezelfde vertekening reproduceren die de weging van het Green Book beoogt te corrigeren — signaleer dit expliciet aan beleidseigenaren voordat wordt geoptimaliseerd.
 
 ## Valkuilen

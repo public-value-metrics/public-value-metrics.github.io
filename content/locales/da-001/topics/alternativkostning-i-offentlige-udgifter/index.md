@@ -37,7 +37,7 @@ Teknisk kapacitet inden i et offentligt organ er i sig selv et begrænset budget
 
 - Angiv altid sammenligningen: en funktions businesscase bør angive, hvad andet de samme teamuger kunne levere, ikke kun dens egen afkast.
 - Behandl "vi har reserveteknisk kapacitet" som starten på en alternativkostningsanalyse, ikke slutningen — reservekapacitet har stadig en bedste alternativ anvendelse, selv hvis den anvendelse er afbetaling af teknisk gæld (se [teknisk gæld som erosion af offentlig værdi](../teknisk-gæld-som-offentlig-værdi-erosion/)).
-- Forbind dette direkte til [value for money](../value-for-money/): VFMs "økonomi"-test er meningsløs uden en ærlig alternativkostningssammenligning, og til [kostpris ved forsinkelse i offentlige programmer](../kostpris-af-forsinkelse-i-offentlige-programmer/), der prissætter tidsdimensionen af samme opgivet-alternativ-logik.
+- Forbind dette direkte til [value for money](../værdi-for-pengene/): VFMs "økonomi"-test er meningsløs uden en ærlig alternativkostningssammenligning, og til [kostpris ved forsinkelse i offentlige programmer](../kostpris-af-forsinkelse-i-offentlige-programmer/), der prissætter tidsdimensionen af samme opgivet-alternativ-logik.
 
 ## Faldgruber
 

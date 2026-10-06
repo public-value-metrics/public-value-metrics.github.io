@@ -49,7 +49,7 @@ Het vermengde rendement van Lening A domineert duidelijk zodra de sociale lijn w
 
 ## Verband met softwareontwikkeling
 
-Rapportage- of portfoliobeheersoftware voor stichtingen, impactfondsen, of gemeentelijke aanbestedingsteams wordt vaak gebouwd met een financieel grootboek als het primaire datamodel en sociale of milieuvelden vastgeschroefd als vrije-tekstnotities. Vermengde waarde impliceert het omgekeerde ontwerp: drie eersteklas, gelijk gestructureerde waardestromen gekoppeld aan elke transactie of subsidierecord, elk met zijn eigen eenheid, bron, en vertrouwensniveau, samen weergegeven in plaats van verrekend tot een enkele misleidend precieze score. Zie [sociaal rendement op investering](../sociaal-rendement-op-investering/) en [public value scorecard](../public-value-scorecard/) voor twee gestructureerde manieren om dat display te bouwen zonder de vermenging samen te persen.
+Rapportage- of portfoliobeheersoftware voor stichtingen, impactfondsen, of gemeentelijke aanbestedingsteams wordt vaak gebouwd met een financieel grootboek als het primaire datamodel en sociale of milieuvelden vastgeschroefd als vrije-tekstnotities. Vermengde waarde impliceert het omgekeerde ontwerp: drie eersteklas, gelijk gestructureerde waardestromen gekoppeld aan elke transactie of subsidierecord, elk met zijn eigen eenheid, bron, en vertrouwensniveau, samen weergegeven in plaats van verrekend tot een enkele misleidend precieze score. Zie [sociaal rendement op investering](../sociaal-rendement-op-investering/) en [public value scorecard](../scorekaart-publieke-waarde/) voor twee gestructureerde manieren om dat display te bouwen zonder de vermenging samen te persen.
 
 ## Valkuilen
 

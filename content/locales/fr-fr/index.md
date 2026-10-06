@@ -32,7 +32,7 @@ Nouveau ici ? Commencez par [la valeur publique](locales/en-gb-oxendict/topics/p
 - [Théorie du changement](locales/en-gb-oxendict/topics/theory-of-change/) — Cartographier la chaîne causale de l'activité au résultat à long terme avant de mesurer quoi que ce soit
 - [Modèle logique](locales/en-gb-oxendict/topics/logic-model/) — Intrants, activités, extrants, résultats, impact — l'ossature de redevabilité d'un programme
 - [Résultats et réalisations (Outcomes vs Outputs)](locales/en-gb-oxendict/topics/outcomes-vs-outputs/) — Pourquoi « 500 personnes ont participé » n'est pas la même affirmation que « la vie de 500 personnes s'est améliorée »
-- [Social Value Act](locales/en-gb-oxendict/topics/social-value-act/) — L'obligation britannique de 2012 de prendre en compte la valeur sociale dans la commande publique
+- [Loi sur la valeur sociale](locales/en-gb-oxendict/topics/social-value-act/) — L'obligation britannique de 2012 de prendre en compte la valeur sociale dans la commande publique
 - [Bases de données de coûts unitaires](locales/en-gb-oxendict/topics/unit-cost-databases/) — La Social Value Bank de HACT et Global Value Exchange : des valeurs de référence déjà chiffrées pour que personne ne parte de zéro
 - [Méthodes d'évaluation d'impact](locales/en-gb-oxendict/topics/impact-evaluation-methods/) — Essais contrôlés randomisés, différence de différences, et appariement par score de propension pour des politiques qu'on ne peut tester en laboratoire
 - [Évaluation d'impact contre évaluation de processus](locales/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/) — Est-ce que ça a marché, contre est-ce que ça s'est déroulé comme prévu — deux questions différentes, deux méthodes différentes

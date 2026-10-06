@@ -65,7 +65,7 @@ Ny här? Börja med [offentligt värde](locales/en-gb-oxendict/topics/public-val
 - [Kostnad per transaktion](locales/en-gb-oxendict/topics/cost-per-transaction/) — Den digitala kanalens rubrikekonomi, och dess vanligaste redovisningstrick
 - [Kanalskiftesbesparingar](locales/en-gb-oxendict/topics/channel-shift-savings/) — Vad som faktiskt händer med telefonlinjen och luckan när en tjänst går online
 - [Digital inkludering](locales/en-gb-oxendict/topics/digital-inclusion/) — Assisterad digital, den digitala klyftan, och värdet som går förlorat när "digital by default" utesluter
-- [Government as a Platform (GaaP)](locales/en-gb-oxendict/topics/government-as-a-platform/) — Delade komponenter som offentlig infrastruktur: GOV.UK Notify, Pay, och återanvändningens ekonomi
+- [Staten som plattform (GaaP)](locales/en-gb-oxendict/topics/government-as-a-platform/) — Delade komponenter som offentlig infrastruktur: GOV.UK Notify, Pay, och återanvändningens ekonomi
 - [Värdet av öppna data](locales/en-gb-oxendict/topics/open-data-value/) — Att värdera data utan pris, från McKinseys uppskattningar till fallstudier per datamängd
 - [Offentlig sektors cybersäkerhetsvärde](locales/en-gb-oxendict/topics/public-sector-cybersecurity-value/) — Att prissätta riskminskning för den medborgardata ett intrång skulle exponera
 - [AI-värde inom staten](locales/en-gb-oxendict/topics/ai-in-government-value/) — Att bedöma AI-antagande i offentliga tjänster mot samma valuta-för-pengarna-ribba som allt annat
@@ -73,10 +73,10 @@ Ny här? Börja med [offentligt värde](locales/en-gb-oxendict/topics/public-val
 ## Välbefinnande, rättvisa och samhällsindikatorer
 
 - [BNP-alternativ](locales/en-gb-oxendict/topics/gdp-alternatives/) — Genuine Progress Indicator, Gross National Happiness, och BNP:s välkända blinda fläckar
-- [Human Development Index (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — Förväntad livslängd, utbildning och inkomst kombinerade till ett tal — och vad det förenklar bort
-- [Multidimensional Poverty Index (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — Att räkna brister, inte bara inkomst, över hälsa, utbildning och levnadsstandard
+- [Index för mänsklig utveckling (HDI)](locales/en-gb-oxendict/topics/human-development-index/) — Förväntad livslängd, utbildning och inkomst kombinerade till ett tal — och vad det förenklar bort
+- [Flerdimensionellt fattigdomsindex (MPI)](locales/en-gb-oxendict/topics/multidimensional-poverty-index/) — Att räkna brister, inte bara inkomst, över hälsa, utbildning och levnadsstandard
 - [Välfärdsjusterade levnadsår (WELLBY)](locales/en-gb-oxendict/topics/wellbeing-adjusted-life-years/) — WELLBY:n: en QALY-formad enhet för policyer vars valuta är livstillfredsställelse, inte hälsa
-- [Index of Multiple Deprivation (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — Englands rankning av utsatthet i småområden, och hur den dirigerar finansiering och uppmärksamhet
+- [Index för flerfaldig utsatthet (IMD)](locales/en-gb-oxendict/topics/index-of-multiple-deprivation/) — Englands rankning av utsatthet i småområden, och hur den dirigerar finansiering och uppmärksamhet
 - [Socialt kapital-mått](locales/en-gb-oxendict/topics/social-capital-metrics/) — Tillit, nätverk och medborgardeltagande som en ekonomisk tillgång utan någon post i huvudboken
 - [Naturkapitalredovisning](locales/en-gb-oxendict/topics/natural-capital-accounting/) — Att sätta miljön på balansräkningen, från Storbritanniens 25 Year Environment Plan och framåt
 - [Generationsöverskridande rättvisa och hållbarhetsdiskontering](locales/en-gb-oxendict/topics/intergenerational-equity-and-sustainability-discounting/) — Varför att diskontera den avlägsna framtiden till vilken positiv ränta som helst kan radera den från analysen

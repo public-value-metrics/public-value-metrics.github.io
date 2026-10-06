@@ -55,7 +55,7 @@ Non ponderati, i due programmi sono pari. Ponderato per impatto distributivo, il
 La ponderazione distributiva raramente appare direttamente nelle metriche di erogazione software, ma dovrebbe plasmare come i team ingegneristici e dati progettano misurazione e targeting:
 
 - Quando si costruisce una dashboard di impatto o un calcolatore di benefici, esponi il profilo di reddito o deprivazione di chi è interessato, non solo un totale di beneficio aggregato — le cifre aggregate senza scomposizione distributiva nascondono precisamente l'inversione mostrata sopra.
-- Collega la logica di targeting nella progettazione del servizio agli stessi dati di deprivazione che usa il Green Book — vedi [Indice di deprivazione multipla](../indice-di-deprivazione-multipla/) — così che la portata di un servizio digitale possa essere valutata per equità, non solo efficienza (la contestata quarta E in [value for money](../value-for-money/)).
+- Collega la logica di targeting nella progettazione del servizio agli stessi dati di deprivazione che usa il Green Book — vedi [Indice di deprivazione multipla](../indice-di-deprivazione-multipla/) — così che la portata di un servizio digitale possa essere valutata per equità, non solo efficienza (la contestata quarta E in [value for money](../valore-per-il-denaro/)).
 - Quando un algoritmo alloca una risorsa scarsa (slot di appuntamento, tempo degli operatori, un sussidio), una funzione obiettivo non ponderata di "massimizzare il beneficio totale" riprodurrà, per costruzione, lo stesso bias che la ponderazione del Green Book esiste per correggere — segnala esplicitamente questo ai responsabili delle politiche prima di ottimizzare.
 
 ## Insidie

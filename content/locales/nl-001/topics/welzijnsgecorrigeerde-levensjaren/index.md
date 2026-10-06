@@ -45,7 +45,7 @@ Gemonetariseerde waarde = 15 × £13.000 = £195.000
 ## Verband met softwareontwikkeling
 
 - Elke burgergerichte dienst die al een levenstevredenheids- of welzijnsenquête-item verzamelt (veel gemeentelijke en gezondheids-en-zorgplatforms doen dit, volgend de vier standaard welzijnsvragen van ONS) kan WELLBY's direct berekenen uit bestaande gegevenspijplijnen in plaats van op-maat-gemaakte economische evaluatie aan te vragen voor elke dienstverandering.
-- WELLBY's geven engineeringteams die bouwen voor [social value act](../social-value-act/)-rapportage of [sociaal rendement op investering](../sociaal-rendement-op-investering/) een nationaal gestandaardiseerde, door HM Treasury goedgekeurde noemer, wat de proliferatie van op-maat-gemaakte "impactscores" vermijdt die niet vergelijkbaar zijn over contracten of leveranciers.
+- WELLBY's geven engineeringteams die bouwen voor [social value act](../wet-sociale-waarde/)-rapportage of [sociaal rendement op investering](../sociaal-rendement-op-investering/) een nationaal gestandaardiseerde, door HM Treasury goedgekeurde noemer, wat de proliferatie van op-maat-gemaakte "impactscores" vermijdt die niet vergelijkbaar zijn over contracten of leveranciers.
 - Omdat WELLBY's additief zijn over mensen en tijd, componeren ze netjes in het soort populatieniveau-uitkomsttracking gebruikt in [uitkomstgebaseerde-verantwoording](../uitkomstgebaseerde-verantwoording/)-systemen — een dienstdashboard kan cumulatieve WELLBY's gegenereerd per kwartaal rapporteren zoals een gezondheidssysteem gewonnen QALY's rapporteert.
 
 ## Valkuilen

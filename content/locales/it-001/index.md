@@ -2,12 +2,12 @@
 
 Un'introduzione completa alla matematica, agli esempi, e al ragionamento del valore pubblico, scritta per ingegneri software che costruiscono per organizzazioni statali e del settore sociale in tutto il mondo. Ogni file copre una metrica o un concetto: definizione, perché è importante, metodo, esempio pratico, collegamento con lo sviluppo software, insidie, e fonti.
 
-Nuovo qui? Inizia con [valore pubblico](locales/it-001/topics/valore-pubblico/), [value for money](locales/it-001/topics/value-for-money/), e [teoria del cambiamento](locales/it-001/topics/teoria-del-cambiamento/) — tre idee su cui tutto il resto costruisce.
+Nuovo qui? Inizia con [valore pubblico](locales/it-001/topics/valore-pubblico/), [value for money](locales/it-001/topics/valore-per-il-denaro/), e [teoria del cambiamento](locales/it-001/topics/teoria-del-cambiamento/) — tre idee su cui tutto il resto costruisce.
 
 ## Fondamenta del valore pubblico
 
 - [Valore pubblico](locales/en-gb-oxendict/topics/public-value/) — Il triangolo strategico di Mark Moore: legittimità, missione, e capacità operativa come test del valore pubblico
-- [Value for Money (VFM)](locales/en-gb-oxendict/topics/value-for-money/) — Economia, efficienza, efficacia — e la contestata quarta E, equità
+- [Valore per il denaro (VFM)](locales/en-gb-oxendict/topics/value-for-money/) — Economia, efficienza, efficacia — e la contestata quarta E, equità
 - [Costo opportunità nella spesa pubblica](locales/en-gb-oxendict/topics/opportunity-cost-in-public-spending/) — Ogni sterlina che un dipartimento spende è una sterlina non spesa sul prossimo miglior programma
 - [Tasso di sconto sociale](locales/en-gb-oxendict/topics/social-discount-rate/) — Il tasso di sconto decrescente del Green Book, e perché il 3,5% è diventato una questione politica viva
 - [Ponderazione distributiva](locales/en-gb-oxendict/topics/distributional-weighting/) — Perché una sterlina conta più per una famiglia povera — e come il Green Book la prezza
@@ -32,7 +32,7 @@ Nuovo qui? Inizia con [valore pubblico](locales/it-001/topics/valore-pubblico/),
 - [Teoria del cambiamento](locales/en-gb-oxendict/topics/theory-of-change/) — Mappare la catena causale dall'attività al risultato di lungo termine prima di misurare qualsiasi cosa
 - [Modello logico](locales/en-gb-oxendict/topics/logic-model/) — Input, attività, output, risultati, impatto — la spina dorsale di responsabilità di un programma
 - [Risultati contro output](locales/en-gb-oxendict/topics/outcomes-vs-outputs/) — Perché "500 persone hanno partecipato" non è la stessa rivendicazione di "le vite di 500 persone sono migliorate"
-- [Social Value Act](locales/en-gb-oxendict/topics/social-value-act/) — L'obbligo britannico del 2012 di considerare il valore sociale nell'appalto pubblico
+- [Legge sul valore sociale](locales/en-gb-oxendict/topics/social-value-act/) — L'obbligo britannico del 2012 di considerare il valore sociale nell'appalto pubblico
 - [Database dei costi unitari](locales/en-gb-oxendict/topics/unit-cost-databases/) — Il Social Value Bank di HACT e Global Value Exchange: proxy pre-costati così che nessuno parta da zero
 - [Metodi di valutazione d'impatto](locales/en-gb-oxendict/topics/impact-evaluation-methods/) — RCT, differenza nelle differenze, e matching per punteggio di propensione per politiche che non puoi eseguire in un laboratorio
 - [Valutazione d'impatto contro valutazione di processo](locales/en-gb-oxendict/topics/impact-evaluation-vs-process-evaluation/) — Ha funzionato, contro è accaduto come progettato — due domande diverse, due metodi diversi

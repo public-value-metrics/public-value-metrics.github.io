@@ -54,7 +54,7 @@ Oviktat är de två programmen jämnstarka. Viktat för fördelningseffekt är P
 Fördelningsviktning förekommer sällan direkt i mjukvaruleveransmått, men den bör forma hur teknik- och dataenheter utformar mätning och målinriktning:
 
 - Vid uppbyggnad av en effektinstrumentpanel eller nyttokalkylator, exponera inkomst- eller utsatthetsprofilen för vilka som berörs, inte bara en aggregerad nyttosumma — aggregerade siffror utan fördelningsuppdelning döljer just den omkastning som visas ovan.
-- Koppla målinriktningslogik i tjänstedesign till samma utsatthetsdata som Green Book använder — se [index för multipel utsatthet](../index-of-multiple-deprivation/) — så att en digital tjänsts räckvidd kan bedömas för rättvisa, inte bara effektivitet (det omtvistade fjärde E:t i [valuta för pengarna](../valuta-för-pengarna/)).
+- Koppla målinriktningslogik i tjänstedesign till samma utsatthetsdata som Green Book använder — se [index för multipel utsatthet](../index-för-flerfaldig-utsatthet/) — så att en digital tjänsts räckvidd kan bedömas för rättvisa, inte bara effektivitet (det omtvistade fjärde E:t i [valuta för pengarna](../valuta-för-pengarna/)).
 - När en algoritm fördelar en knapp resurs (mottagningstider, handläggartid, ett bidrag), kommer en oviktad "maximera total nytta"-målfunktion, per konstruktion, att återskapa samma snedvridning som Green Books viktning existerar för att korrigera — flagga detta explicit för policyägare innan optimering.
 
 ## Fallgropar

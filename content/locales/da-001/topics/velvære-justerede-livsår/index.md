@@ -43,7 +43,7 @@ PengegjortVærdi = 15 × £13.000 = £195.000
 ## Forbindelse til softwareudvikling
 
 - Enhver borgerVendt tjeneste, der allerede indsamler et liv-tilfredshed- eller velvære-undersøgelses-item (mange lokal-myndighed- og sundheds-og-omsorgs-platforme gør, følgende ONS's fire standard-velvære-spørgsmål), kan beregne WELLBY'er direkte fra eksisterende dataPipelines snarere end at bestille skræddersyet økonomisk evaluering for hver tjenesteÆndring.
-- WELLBY'er giver ingeniørTeams, der bygger for [Social Value Act](../social-value-act/)-rapportering eller [socialt afkast på investering](../socialt-afkast-på-investering/), en nationalt standardiseret, HM-Treasury-godkendt nævner, der undgår proliferationen af skræddersyede "impact-scores," der ikke kan sammenlignes over kontrakter eller leverandører.
+- WELLBY'er giver ingeniørTeams, der bygger for [Social Value Act](../loven-om-social-værdi/)-rapportering eller [socialt afkast på investering](../socialt-afkast-på-investering/), en nationalt standardiseret, HM-Treasury-godkendt nævner, der undgår proliferationen af skræddersyede "impact-scores," der ikke kan sammenlignes over kontrakter eller leverandører.
 - Fordi WELLBY'er er additive over mennesker og tid, komponerer de rent ind i den type befolkningsNiveau-resultat-sporing brugt i [resultat-baseret-ansvarlighed](../resultat-baseret-ansvarlighed/)-systemer — et tjenesteDashboard kan rapportere kumulative WELLBY'er genereret pr. kvartal på den måde, et sundhedsSystem rapporterer QALY'er opnået.
 
 ## Faldgruber

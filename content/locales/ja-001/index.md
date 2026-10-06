@@ -65,7 +65,7 @@
 - [取引あたりコスト](locales/en-gb-oxendict/topics/cost-per-transaction/) — デジタルチャネルの見出しとなる経済学、そして最も一般的な会計上のトリック
 - [チャネル移行による節約](locales/en-gb-oxendict/topics/channel-shift-savings/) — サービスがオンラインになるとき、電話回線と窓口に実際に何が起こるか
 - [デジタル・インクルージョン](locales/en-gb-oxendict/topics/digital-inclusion/) — 支援付きデジタル、デジタル格差、そして「デフォルトでデジタル」が排除するときに失われる価値
-- [Government as a Platform（GaaP）](locales/en-gb-oxendict/topics/government-as-a-platform/) — 公共インフラとしての共有コンポーネント：GOV.UK Notify、Pay、そして再利用の経済学
+- [プラットフォームとしての政府（GaaP）](locales/en-gb-oxendict/topics/government-as-a-platform/) — 公共インフラとしての共有コンポーネント：GOV.UK Notify、Pay、そして再利用の経済学
 - [オープンデータの価値](locales/en-gb-oxendict/topics/open-data-value/) — 価格のないデータを評価する、マッキンゼーの推定値からデータセットごとの事例研究まで
 - [公共セクターのサイバーセキュリティの価値](locales/en-gb-oxendict/topics/public-sector-cybersecurity-value/) — 侵害が露出させるであろう市民データのためのリスク低減の価格付け
 - [政府におけるAIの価値](locales/en-gb-oxendict/topics/ai-in-government-value/) — 他のすべてと同じバリュー・フォー・マネーのハードルに照らして公共サービスにおけるAI採用を評価する

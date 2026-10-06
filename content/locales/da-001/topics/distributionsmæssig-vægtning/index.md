@@ -55,7 +55,7 @@ Uvægtet er de to programmer lige. Vægtet for distributionsmæssig effekt er Pr
 Distributionsmæssig vægtning dukker sjældent direkte op i softwareleveringsmålinger, men det bør forme, hvordan teknik- og dataTeams designer måling og målretning:
 
 - Når man bygger et effektdashboard eller fordelsberegner, eksponér indkomst- eller fattigdomsprofilen for de berørte, ikke blot et samlet fordelstotal — samlede tal uden distributionsmæssig opdeling skjuler netop den omvending, der vises ovenfor.
-- Forbind målretningslogik i tjenestedesign til samme fattigdomsdata, Green Book bruger — se [indeks for multiple deprivation](../index-of-multiple-deprivation/) — så en digital tjenestes rækkevidde kan vurderes for lighed, ikke blot effektivitet (den omstridte fjerde E i [value for money](../value-for-money/)).
+- Forbind målretningslogik i tjenestedesign til samme fattigdomsdata, Green Book bruger — se [indeks for multiple deprivation](../indeks-for-multipel-afsavn/) — så en digital tjenestes rækkevidde kan vurderes for lighed, ikke blot effektivitet (den omstridte fjerde E i [value for money](../værdi-for-pengene/)).
 - Når en algoritme allokerer en sparsom ressource (aftaletider, sagsbehandlertid, en subsidie), vil en uvægtet "maksimér total fordel"-målfunktion, ved konstruktion, reproducere netop den bias, Green Books vægtning eksisterer for at korrigere — flag dette explicit til politikansvarlige før optimering.
 
 ## Faldgruber

@@ -35,7 +35,7 @@ Annetaja, mis sõeluB puhTAlt üldkuludE-suhte pealT, valib A ja lükkab tagasi 
 
 ## Seos tarkvaraarendusega
 
-Finants- ja grAndi-raporteerimiS-tarkvara sektorile hardkodeerib sageli üldkulude-/programmi-jaotuSe kategooriLiseKs väljaKs igAl kulu-ridaL, sest see on, mida regulaatorid ja mõned rahastajad veel nõuavaD statutoorsEs tagasiAndmiseS. Insenerid, mis ehitavad need süsteemid, peaksid käsitlema sedA nõuDet compliance-kohustuseNa, mitte disaini-signaaliNa, et üldkuludE-suhe on mõõdik, mis on väärT väljaPaistvalt kuvada dashboardiL; paarIsta sedA, kus see on näidatud, tulemuS-põhiseGa mõõdikuGa, nii et vaataja ei saaKs lugeda üldkuludE-suhet isoleeritult. Vaata [annetaja-tulu-investeeringult](../annetaja-tulu-investeeringult/) mõõdiku jaoks, mis peaks istuma sellE kõrval, ja [value for money](../value-for-money/) avaliku-sektori-ekvivalentSe argumenDi jaoks vastu üksik-suhte-efektiivsuSe-proksiDele.
+Finants- ja grAndi-raporteerimiS-tarkvara sektorile hardkodeerib sageli üldkulude-/programmi-jaotuSe kategooriLiseKs väljaKs igAl kulu-ridaL, sest see on, mida regulaatorid ja mõned rahastajad veel nõuavaD statutoorsEs tagasiAndmiseS. Insenerid, mis ehitavad need süsteemid, peaksid käsitlema sedA nõuDet compliance-kohustuseNa, mitte disaini-signaaliNa, et üldkuludE-suhe on mõõdik, mis on väärT väljaPaistvalt kuvada dashboardiL; paarIsta sedA, kus see on näidatud, tulemuS-põhiseGa mõõdikuGa, nii et vaataja ei saaKs lugeda üldkuludE-suhet isoleeritult. Vaata [annetaja-tulu-investeeringult](../annetaja-tulu-investeeringult/) mõõdiku jaoks, mis peaks istuma sellE kõrval, ja [value for money](../raha-eest-saadav-väärtus/) avaliku-sektori-ekvivalentSe argumenDi jaoks vastu üksik-suhte-efektiivsuSe-proksiDele.
 
 ## Lõksud
 

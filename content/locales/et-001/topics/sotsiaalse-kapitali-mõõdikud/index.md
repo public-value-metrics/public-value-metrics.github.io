@@ -44,7 +44,7 @@ Putnam'i binDimiSe-/brändimiSe-jaotuS (raamistik, ei formula):
 
 - DigiTaalseD platvormid, mis ruuTivaD vastastikust abi, vabaTahtlikuSt, või kogukonna-grAnte ("lokaalnE-ühendaja"-teenus, näiteks), ehitavaD literAalseLt brändimiSe-kapitali-infrastruktuuri; nende eduKuSe-mõõdik peaks olema tehtud ühenduste võrgustikU-mitmekesisus, ei lihtsalt transaktsioonI-loenDus — vaata [valitsus-kui-platVorm](../valitsus-kui-platvorm/) laieMa mustri jaoks infrastruktuuriST, millE peal teised ehitavaD väärtust.
 - Kus programmi muutuSe-teooria explicit sihib sotsiaalsEt kapitali tulemuSeNa (kogukonna-vastupanuvõime-fond, sotsiaalnE-recept-kirjutamise-teenus), peaks selle [muutuSe teooria](../muutuse-teooria/) ja [logikMudel](../logiline-mudel/) nimetama spetsiifilisE pilari (usaldus, kodaniku-engagement, võrgustikU-tugi), mida see eeldab liigutama, selle asemel, et kasutada diferentseerimaTa "ehita kogukonda"-tulemust, mida ei saaB mõõta vastu ONS-baasJoonele.
-- SotsiaalsE-kapitali-indikaatorid on kasulik õiglusE-lätS koos [Index of Multiple Deprivation'iGa](../index-of-multiple-deprivation/): ala saaB olla sissetulek-puudulik, kuid sotsiaalselt rikas, või vastuPidi, ja need kaks osutaVaD väga erinevateLe interventsioonidELe.
+- SotsiaalsE-kapitali-indikaatorid on kasulik õiglusE-lätS koos [Index of Multiple Deprivation'iGa](../mitmekordse-puuduse-indeks/): ala saaB olla sissetulek-puudulik, kuid sotsiaalselt rikas, või vastuPidi, ja need kaks osutaVaD väga erinevateLe interventsioonidELe.
 
 ## Lõksud
 

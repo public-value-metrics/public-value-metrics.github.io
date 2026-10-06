@@ -37,7 +37,7 @@ La capacità ingegneristica all'interno di un ente pubblico è essa stessa un bi
 
 - Nomina sempre il comparatore: il caso aziendale di una funzionalità dovrebbe dichiarare cosa altro le stesse settimane-team potrebbero fornire, non solo il proprio ritorno.
 - Tratta "abbiamo capacità ingegneristica libera" come l'inizio di un'analisi del costo opportunità, non la fine — la capacità libera ha ancora un miglior uso alternativo, anche se quell'uso è il rimborso del debito tecnico (vedi [debito tecnico come erosione del valore pubblico](../debito-tecnico-come-erosione-del-valore-pubblico/)).
-- Collega questo direttamente a [value for money](../value-for-money/): il test "economia" del VFM è privo di significato senza un onesto comparatore di costo opportunità, e a [costo del ritardo nei programmi pubblici](../costo-del-ritardo-nei-programmi-pubblici/), che prezza la dimensione temporale della stessa logica dell'alternativa rinunciata.
+- Collega questo direttamente a [value for money](../valore-per-il-denaro/): il test "economia" del VFM è privo di significato senza un onesto comparatore di costo opportunità, e a [costo del ritardo nei programmi pubblici](../costo-del-ritardo-nei-programmi-pubblici/), che prezza la dimensione temporale della stessa logica dell'alternativa rinunciata.
 
 ## Insidie
 

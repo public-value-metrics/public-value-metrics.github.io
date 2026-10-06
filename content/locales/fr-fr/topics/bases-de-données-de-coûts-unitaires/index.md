@@ -20,7 +20,7 @@ méthodologiquement exigeant et long à mener de zéro pour chaque projet. Une b
 partagée et publiée transforme ce qui serait un exercice de recherche de plusieurs mois en une
 simple consultation, ce qui explique précisément pourquoi ces bases comptent à la fois pour les
 calculs de [retour social sur investissement](../retour-social-sur-investissement/) et pour les
-évaluations de candidatures dans le cadre du [Social Value Act](../social-value-act/) : sans elles,
+évaluations de candidatures dans le cadre du [Social Value Act](../loi-sur-la-valeur-sociale/) : sans elles,
 une monétisation rigoureuse ne serait accessible qu'aux organisations assez grandes pour commander
 leurs propres études.
 
@@ -70,7 +70,7 @@ données ouvertes de Global Value Exchange derrière un service de consultation,
 la source et la date à côté du chiffre, garde le proxy auditable plutôt que d'en faire un nombre
 magique enfoui dans une feuille de calcul. Voir
 [retour social sur investissement](../retour-social-sur-investissement/) et
-[Social Value Act](../social-value-act/) pour les deux principaux endroits où ces proxys sont
+[Social Value Act](../loi-sur-la-valeur-sociale/) pour les deux principaux endroits où ces proxys sont
 utilisés.
 
 ## Pièges à éviter

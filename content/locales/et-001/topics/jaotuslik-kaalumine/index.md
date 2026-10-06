@@ -54,7 +54,7 @@ KaalumataJäetult on kaks programmi võrdsed. JaotuslikuleMõjule kaalutuna on P
 Jaotuslik kaalumine ilmub harva otse tarkvaraTarneMõõdikutes, kuid see peaks kujundama, kuidas inseneri- ja andmeMeeskonnad disainivad mõõtmist ja sihtimist:
 
 - Impact-dashboardI või kasuArvutajA ehitamisel paljasta mõjutatute sissetuleku- või deprivatsiooniProfiil, mitte ainult agregeeritud kasuSumma — agregeeritud näitajad jaotusliku lahtiJaotuseta peidavad täpselt ülalKirjeldatud pöörde.
-- Ühenda teenuseDisaini sihtimisLoogika sama deprivatsiooniAndmetega, mida Green Book kasutab — vaata [mitmekordse deprivatsiooni indeks](../index-of-multiple-deprivation/) — nii et digiTeenuse ulatust saab hinnata õigluse, mitte ainult efektiivsuse jaoks (vaieldav neljas E [value for money](../value-for-money/)'s).
+- Ühenda teenuseDisaini sihtimisLoogika sama deprivatsiooniAndmetega, mida Green Book kasutab — vaata [mitmekordse deprivatsiooni indeks](../mitmekordse-puuduse-indeks/) — nii et digiTeenuse ulatust saab hinnata õigluse, mitte ainult efektiivsuse jaoks (vaieldav neljas E [value for money](../raha-eest-saadav-väärtus/)'s).
 - Kui algoritm eraldab nappi ressurssi (vastuvõtuAegu, juhtumitöötajaAega, toetust), toodab kaalumata "maksimeeri koguKasu" eesmärgiFunktsioon konstruktsiooni poolest sama kallutatuse, mida Green Booki kaalumine eksisteerib korrigeerima — märgi see selgeSõnaliselt poliitikaOmanikele enne optimeerimist.
 
 ## Lõksud

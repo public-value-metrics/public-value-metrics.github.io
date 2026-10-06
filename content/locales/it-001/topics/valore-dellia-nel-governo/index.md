@@ -8,7 +8,7 @@ Il Central Digital and Data Office (CDDO) britannico ha pubblicato il suo Genera
 
 ## Il calcolo
 
-L'adozione dell'IA viene valutata come un'aggiunta a, non un sostituto di, la valutazione standard di [value for money](../value-for-money/), con i termini specifici dell'IA rese esplicite piuttosto che fuse in un singolo numero di "guadagno di produttività":
+L'adozione dell'IA viene valutata come un'aggiunta a, non un sostituto di, la valutazione standard di [value for money](../valore-per-il-denaro/), con i termini specifici dell'IA rese esplicite piuttosto che fuse in un singolo numero di "guadagno di produttività":
 
 ```
 Valore netto di un sistema IA =

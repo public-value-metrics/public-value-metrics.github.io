@@ -20,7 +20,7 @@ metodologis, dan lambat jika dijalankan dari nol untuk setiap proyek. Pustaka pr
 dipublikasikan mengubah apa yang tadinya merupakan pekerjaan riset berbulan-bulan menjadi sekadar
 pencarian, dan itulah tepatnya mengapa basis data ini penting baik untuk perhitungan
 [laba sosial atas investasi](../laba-atas-investasi-sosial/) maupun untuk evaluasi pengajuan
-[Social Value Act](../social-value-act/): tanpa basis data ini, monetisasi yang ketat hanya akan
+[Social Value Act](../undang-undang-nilai-sosial/): tanpa basis data ini, monetisasi yang ketat hanya akan
 terjangkau bagi organisasi yang cukup besar untuk menugaskan studinya sendiri.
 
 ## Matematika
@@ -69,7 +69,7 @@ masing-masing memilih nilai yang sedikit berbeda untuk hasil yang sama. Membungk
 Global Value Exchange di balik layanan pencarian, dengan sumber dan tanggal selalu ditampilkan
 bersama angkanya, menjaga proksi tersebut tetap dapat diaudit, bukan sekadar angka ajaib yang
 terkubur dalam sebuah spreadsheet. Lihat [laba sosial atas investasi](../laba-atas-investasi-sosial/)
-dan [social value act](../social-value-act/) untuk dua tempat utama proksi ini digunakan.
+dan [social value act](../undang-undang-nilai-sosial/) untuk dua tempat utama proksi ini digunakan.
 
 ## Jebakan Umum
 
