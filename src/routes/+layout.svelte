@@ -85,6 +85,17 @@
 	// (the root picker, /about/), there's nothing to preserve — go to that
 	// locale's home.
 	function navigateToLocale(next) {
+		// The picker also calls this when it merely *follows* the URL (a
+		// link, Back/Forward, a direct load): it applies the new locale and
+		// fires onChange. Those are not user choices, and `page` can still
+		// hold the previous route at that moment, so navigating from it
+		// would bounce the reader back to the locale they just left. The
+		// address bar is the source of truth: if it already names `next`,
+		// there is nothing to do.
+		if (typeof window !== 'undefined') {
+			const urlLocale = window.location.pathname.split('/')[1];
+			if (urlLocale === next) return;
+		}
 		const links = page.data?.localeLinks;
 		if (links?.[next]) {
 			goto(resolve(`${links[next]}`.slice(1)), { refreshAll: true });
