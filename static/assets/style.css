@@ -239,7 +239,11 @@ pre {
 }
 
 .search-picker-panel[hidden],
-.search-picker-tooltip[hidden] {
+.search-picker-tooltip[hidden],
+.theme-picker-tooltip[hidden],
+.locale-picker-tooltip[hidden],
+.text-size-picker-tooltip[hidden],
+.share-picker-tooltip[hidden] {
 	display: none;
 }
 
@@ -274,7 +278,13 @@ pre {
 	background-color: var(--lily-surface-alt);
 }
 
-.search-picker-tooltip {
+/* Hover/focus tooltip, the same on all five pickers: floats under the
+ * button's end edge without taking part in the bar's layout. */
+.search-picker-tooltip,
+.theme-picker-tooltip,
+.locale-picker-tooltip,
+.text-size-picker-tooltip,
+.share-picker-tooltip {
 	position: absolute;
 	inset-inline-end: 0;
 	top: calc(100% + 0.35rem);
