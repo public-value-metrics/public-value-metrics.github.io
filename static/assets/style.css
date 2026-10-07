@@ -179,6 +179,7 @@ pre {
  * the share picker's link/button rows and status message to the theme.
  * ------------------------------------------------------------------------ */
 
+.search-picker,
 .theme-picker,
 .locale-picker,
 .text-size-picker,
@@ -186,6 +187,7 @@ pre {
 	position: relative;
 }
 
+.search-picker-button,
 .theme-picker-button,
 .locale-picker-button,
 .text-size-picker-button,
@@ -205,12 +207,85 @@ pre {
 	cursor: pointer;
 }
 
+.search-picker-button:hover,
 .theme-picker-button:hover,
 .locale-picker-button:hover,
 .text-size-picker-button:hover,
 .share-picker-button:hover {
 	background-color: var(--lily-surface-alt);
 	border-color: var(--lily-border-strong);
+}
+
+/* The search picker's button matches the 40px minimum the theme gives the
+ * other four pickers' buttons. */
+.search-picker-button {
+	min-width: 2.5rem;
+	min-height: 2.5rem;
+}
+
+/* The search picker's panel is placed like the other pickers' lists. Its
+ * panel opens like the other pickers' lists, leftward from the button's end
+ * edge, and holds a search field plus a submit button. */
+.search-picker-panel {
+	position: absolute;
+	inset-inline-end: 0;
+	top: calc(100% + 0.35rem);
+	z-index: 200;
+	padding: 0.5rem;
+	background-color: var(--lily-surface);
+	border: 1px solid var(--lily-border);
+	border-radius: var(--lily-radius-md);
+	box-shadow: var(--lily-shadow-lg);
+}
+
+.search-picker-panel[hidden],
+.search-picker-tooltip[hidden] {
+	display: none;
+}
+
+.search-picker-form {
+	display: flex;
+	gap: 0.4rem;
+	align-items: center;
+}
+
+.search-picker-input {
+	width: min(16rem, 60vw);
+	height: 2.25rem;
+	padding: 0 0.6rem;
+	border: 1px solid var(--lily-border);
+	border-radius: var(--lily-radius-sm);
+	background-color: var(--lily-surface);
+	color: var(--lily-text);
+	font: inherit;
+}
+
+.search-picker-submit {
+	height: 2.25rem;
+	padding: 0 0.6rem;
+	border: 1px solid var(--lily-border);
+	border-radius: var(--lily-radius-sm);
+	background-color: var(--lily-surface);
+	color: var(--lily-text);
+	cursor: pointer;
+}
+
+.search-picker-submit:hover {
+	background-color: var(--lily-surface-alt);
+}
+
+.search-picker-tooltip {
+	position: absolute;
+	inset-inline-end: 0;
+	top: calc(100% + 0.35rem);
+	z-index: 200;
+	padding: 0.2rem 0.5rem;
+	border-radius: var(--lily-radius-sm);
+	background-color: var(--lily-text);
+	color: var(--lily-surface);
+	font-size: 0.8em;
+	white-space: nowrap;
+	pointer-events: none;
 }
 
 .theme-picker-list,

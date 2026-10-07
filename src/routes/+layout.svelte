@@ -5,7 +5,7 @@
 	import { page } from '$app/state';
 	import { Footer, Header, SkipLink } from '@lilydesignsystem/svelte-headless';
 	import PickerBar from '@lilydesignsystem/svelte-picker-bar';
-	import { DEFAULT_LOCALE, localeLabel } from '#lib/locales.js';
+	import { DEFAULT_LOCALE, localeLabel, matchLocale } from '#lib/locales.js';
 	import { ui } from '#lib/i18n.js';
 
 	let { data, children } = $props();
@@ -22,6 +22,16 @@
 	const locales = $derived(data?.locales ?? []);
 	const locale = $derived(page.params.locale);
 	const t = $derived(ui(locale ?? DEFAULT_LOCALE));
+
+	// The locale the picker falls back to when the URL names none and the
+	// visitor has not stored a choice: the one matching the browser's language
+	// if the book has it (`cy_GB` → `cy-gb`), else the default. On "/" the
+	// picker navigates to this locale, which is how a first visit is redirected.
+	// Prerendering has no `navigator`, so there it is always the default.
+	const fallbackLocale =
+		(typeof navigator !== 'undefined' &&
+			matchLocale([navigator.language, ...(navigator.languages ?? [])], locales)) ||
+		DEFAULT_LOCALE;
 
 	// Contents/Topics/Search only make sense once a locale is chosen; outside
 	// a locale (the root picker, /about/) the nav only offers Home and About.
@@ -170,7 +180,7 @@
 			locales={locales}
 			localeProps={{
 				value: locale ?? '',
-				defaultValue: DEFAULT_LOCALE,
+				defaultValue: fallbackLocale,
 				storageKey: 'public-value-metrics.locale',
 				localeLabels: Object.fromEntries(locales.map((code) => [code, localeLabel(code)])),
 				onChange: navigateToLocale

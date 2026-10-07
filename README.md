@@ -75,7 +75,7 @@ In the book, every non-English locale translates both the `topics/` directory na
 
 ## Sitemap
 
-`scripts/build-sitemap.mjs` (part of `pnpm run build`) writes `build/sitemap.xml` from the generated HTML — one entry per canonical page, percent-encoded, alias redirects excluded — and `static/robots.txt` points to it. See `spec/sitemap/index.md`.
+`scripts/build-sitemap.mjs` (part of `pnpm run build`) writes `build/sitemap.xml` from the generated HTML — one entry per canonical page, percent-encoded — and `static/robots.txt` points to it. See `spec/sitemap/index.md`.
 
 ## AI-readable outputs
 

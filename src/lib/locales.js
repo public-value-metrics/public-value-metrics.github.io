@@ -60,3 +60,26 @@ export const DEFAULT_LOCALE = 'en-gb-oxendict';
 export function localeLabel(code) {
 	return LOCALE_LABELS[code] ?? code;
 }
+
+/**
+ * Chooses which available locale best matches the browser's preferred
+ * languages (`navigator.language` / `navigator.languages`), or `null` if none
+ * does. Tags are normalised first, so `cy_GB`, `cy-GB` and `CY-gb` are all
+ * `cy-gb`. For each preferred tag in order, the first of these that exists
+ * wins: the exact locale (`cy-gb`); the language's World locale (`de-AT` →
+ * `de-001`); any other locale in that language (`pt-AO` → `pt-pt`).
+ */
+export function matchLocale(preferred, available) {
+	const set = new Set(available);
+	for (const raw of preferred) {
+		if (!raw) continue;
+		const tag = String(raw).trim().toLowerCase().replace(/_/g, '-');
+		const language = tag.split('-')[0];
+		if (!language) continue;
+		if (set.has(tag)) return tag;
+		if (set.has(`${language}-001`)) return `${language}-001`;
+		const sameLanguage = available.find((code) => code.split('-')[0] === language);
+		if (sameLanguage) return sameLanguage;
+	}
+	return null;
+}
