@@ -50,6 +50,23 @@
 				]
 	);
 
+	// Project links for the header's link picker (a home icon, leftmost). Labels
+	// are proper names or file names, so they need no translation; only the
+	// picker's own name (`t.pickerLinks`) does. All open in a new tab.
+	const projectLinks = [
+		{ id: 'github', label: 'GitHub', href: 'https://github.com/public-value-metrics/public-value-metrics', newTab: true },
+		{ id: 'codeberg', label: 'Codeberg', href: 'https://codeberg.org/public-value-metrics/public-value-metrics', newTab: true },
+		{ id: 'gitlab', label: 'GitLab', href: 'https://gitlab.com/public-value-metrics/public-value-metrics', newTab: true },
+		{ id: 'llms', label: 'llms.txt', href: '/llms.txt', newTab: true },
+		{
+			id: 'green-book',
+			label: 'The Green Book',
+			href: 'https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government',
+			newTab: true
+		},
+		{ id: 'lily', label: 'Lily Design System', href: 'https://github.com/LilyDesignSystem', newTab: true }
+	];
+
 	const shareTargets = $derived([
 		{
 			id: 'email',
@@ -165,7 +182,9 @@
 
 		<PickerBar
 			class="site-controls"
+			links={projectLinks}
 			labels={{
+				link: t.pickerLinks,
 				search: t.navSearch,
 				searchInput: t.searchInputLabel,
 				searchSubmit: t.navSearch,

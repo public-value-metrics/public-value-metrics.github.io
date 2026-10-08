@@ -63,7 +63,7 @@ static/assets/style.css  the site's own styling; Lily ships none
 static/assets/themes/  Lily theme CSS, synced from node_modules (generated — do not edit, not committed)
 ```
 
-The Lily headless components (`ArticleLayout`, `Header`, `Card`, ...) come from `@lilydesignsystem/svelte-headless`; the header's theme/locale/text-size/share row comes from `@lilydesignsystem/svelte-picker-bar`. Both are regular npm dependencies — see `package.json`.
+The Lily headless components (`ArticleLayout`, `Header`, `Card`, ...) come from `@lilydesignsystem/svelte-headless`; the header's link/search/theme/locale/text-size/share row comes from `@lilydesignsystem/svelte-picker-bar`. Both are regular npm dependencies — see `package.json`.
 
 Content lives under `$lib/server`, so the book's Markdown can never reach a browser bundle: pages read it from `+page.server.js` loads, which run at build time under prerendering.
 

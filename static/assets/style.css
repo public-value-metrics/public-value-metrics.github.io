@@ -301,23 +301,12 @@ pre {
 .theme-picker-list,
 .locale-picker-list,
 .text-size-picker-list,
+.link-picker-list,
 .share-picker-list {
-	position: absolute;
-	/* The theme stylesheet sets `inset-inline-start: 0` on these same
-	 * classes (opening the list rightward from the button). That's a
-	 * different logical property from `inset-inline-end`, so neither
-	 * layer wins outright — both apply, the box is over-constrained, and
-	 * the browser silently keeps `inset-inline-start` and drops this
-	 * rule's end offset. `inset-inline-start: auto` cancels the theme's
-	 * value explicitly, so only the end offset below takes effect and
-	 * every list opens leftward, anchored to its own button's end edge —
-	 * never past the viewport, whichever of the four pickers it is.
-	 */
-	inset-inline-start: auto;
-	inset-inline-end: 0;
-	top: calc(100% + 0.35rem);
+	/* Placement is the theme's: it anchors each list to its button and flips it
+	 * to stay inside the viewport (`position-area`, `position-try-fallbacks`).
+	 * Overriding position/inset here defeats that and overflows on phones. */
 	z-index: 200;
-	min-width: 14rem;
 	max-height: 60vh;
 	margin: 0;
 	padding: 0.25rem;
@@ -332,6 +321,7 @@ pre {
 .theme-picker-list[hidden],
 .locale-picker-list[hidden],
 .text-size-picker-list[hidden],
+.link-picker-list[hidden],
 .share-picker-list[hidden] {
 	display: none;
 }
@@ -931,6 +921,54 @@ pre {
 }
 
 @media (max-width: 40rem) {
+	/* Search on a phone: the panel opens over the row of picker buttons, the
+	 * full width of that row, so it stays inside the header and covers neither
+	 * the nav links nor the page. The other pickers are hidden (not removed,
+	 * so the row keeps its height) only while the panel is open. The theme
+	 * positions the panel inside :where(), which has no specificity, so these
+	 * plain class selectors win. Logical properties keep it right for RTL. */
+	.site-controls {
+		position: relative;
+	}
+
+	.site-controls .search-picker {
+		position: static;
+	}
+
+	.site-controls .search-picker-panel {
+		/* The theme anchors popups with `position-area`; opt out so the panel
+		 * is placed by the insets below instead. */
+		position: absolute;
+		position-area: none;
+		position-anchor: none;
+		margin: 0;
+		inset-inline: 0;
+		top: 0;
+		height: 100%;
+		padding: 0;
+		border: 0;
+		border-radius: 0;
+		box-shadow: none;
+		width: auto;
+		max-width: none;
+		min-width: 0;
+		background-color: var(--lily-surface);
+	}
+
+	.site-controls .search-picker-form {
+		height: 100%;
+	}
+
+	.site-controls .search-picker-input {
+		flex: 1;
+		width: auto;
+		min-width: 0;
+	}
+
+	.site-controls:has(.search-picker-panel:not([hidden])) > :not(.search-picker) {
+		visibility: hidden;
+	}
+
 	.site-body {
 		padding: var(--lily-space-md);
 	}
