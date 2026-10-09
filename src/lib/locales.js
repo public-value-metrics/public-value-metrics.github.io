@@ -52,7 +52,11 @@ export const LOCALE_LABELS = {
 	'ro-001': 'Română',
 	'hu-001': 'Magyar',
 	'el-001': 'Ελληνικά',
-	'fi-001': 'Suomi'
+	'fi-001': 'Suomi',
+	'is-001': 'Íslenska',
+	'sw-001': 'Kiswahili',
+	'th-001': 'ไทย',
+	'zh-tw': '中文 - 台灣'
 };
 
 export const DEFAULT_LOCALE = 'en-gb-oxendict';

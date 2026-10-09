@@ -31,6 +31,7 @@
     "hu-001",
     "id-001",
     "id-id",
+    "is-001",
     "it-001",
     "ja-001",
     "ja-jp",
@@ -46,13 +47,16 @@
     "ru-ru",
     "sv-001",
     "sv-se",
+    "sw-001",
+    "th-001",
     "tr-001",
     "uk-001",
     "ur-001",
     "ur-pk",
     "vi-001",
     "zh-001",
-    "zh-cn"
+    "zh-cn",
+    "zh-tw"
   ],
   "topicUrlPattern": "https://public-value-metrics.github.io/<locale>/topics/<slug>/",
   "parts": [
