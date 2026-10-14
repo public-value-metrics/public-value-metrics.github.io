@@ -133,10 +133,14 @@ This book is maintained in fifty-two locales, tracked across directories with a 
 - `nl-nl` — Nederlands (Nederland)
 - `nl-001` — Nederlands (World) — content-identical to `nl-nl`; this book has no Netherlands-specific subject matter
 - `vi-001` — Tiếng Việt (World)
+- `vi-vn` — Tiếng Việt (Việt Nam) — content-identical to `vi-001`; this book has no Vietnam-specific subject matter
 - `da-001` — Dansk (World)
 - `et-001` — Eesti (World)
+- `et-et` — Eesti (Eesti) — content-identical to `et-001`; this book has no Estonia-specific subject matter
 - `it-001` — Italiano (World)
+- `it-it` — Italiano (Italia) — content-identical to `it-001`; this book has no Italy-specific subject matter
 - `tr-001` — Türkçe (World)
+- `tr-tr` — Türkçe (Türkiye) — content-identical to `tr-001`; this book has no Türkiye-specific subject matter
 - `pl-001` — Polski (World)
 - `uk-001` — Українська (World)
 - `cs-001` — Čeština (World)
@@ -144,9 +148,12 @@ This book is maintained in fifty-two locales, tracked across directories with a 
 - `hu-001` — Magyar (World)
 - `el-001` — Ελληνικά (World)
 - `fi-001` — Suomi (World)
+- `fi-fi` — Suomi (Suomi) — content-identical to `fi-001`; this book has no Finland-specific subject matter
 - `is-001` — Íslenska (World)
+- `is-is` — Íslenska (Ísland) — content-identical to `is-001`; this book has no Iceland-specific subject matter
 - `sw-001` — Kiswahili (World)
 - `th-001` — ไทย (World)
+- `th-th` — ไทย (ประเทศไทย) — content-identical to `th-001`; this book has no Thailand-specific subject matter
 - `zh-tw` — 中文 (Taiwan) — Traditional script, converted from `zh-001`
 
 See [locale-help](https://github.com/SixArm/locale-help) for the conventions this repo follows: locale directory naming, slug format, and the `.locale-peer-id` cross-locale tracking file.

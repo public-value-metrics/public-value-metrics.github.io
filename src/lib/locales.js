@@ -42,10 +42,14 @@ export const LOCALE_LABELS = {
 	'nl-nl': 'Nederlands - Nederland',
 	'nl-001': 'Nederlands',
 	'vi-001': 'Tiếng Việt',
+	'vi-vn': 'Tiếng Việt - Việt Nam',
 	'da-001': 'Dansk',
 	'et-001': 'Eesti',
+	'et-et': 'Eesti - Eesti',
 	'it-001': 'Italiano',
+	'it-it': 'Italiano - Italia',
 	'tr-001': 'Türkçe',
+	'tr-tr': 'Türkçe - Türkiye',
 	'pl-001': 'Polski',
 	'uk-001': 'Українська',
 	'cs-001': 'Čeština',
@@ -53,9 +57,12 @@ export const LOCALE_LABELS = {
 	'hu-001': 'Magyar',
 	'el-001': 'Ελληνικά',
 	'fi-001': 'Suomi',
+	'fi-fi': 'Suomi - Suomi',
 	'is-001': 'Íslenska',
+	'is-is': 'Íslenska - Ísland',
 	'sw-001': 'Kiswahili',
 	'th-001': 'ไทย',
+	'th-th': 'ไทย - ประเทศไทย',
 	'zh-tw': '中文 - 台灣'
 };
 
