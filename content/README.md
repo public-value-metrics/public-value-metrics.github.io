@@ -94,7 +94,7 @@ New here? Start with [public value](locales/en-gb-oxendict/topics/public-value/)
 
 ## Locales
 
-This book is maintained in fifty-two locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. The English locales (`en-gb-oxendict`, `en-gb`, `en-001`, `en-us`) use the `topics/` directory and English slugs; every other locale translates the `topics/` directory name and each topic's slug into its own language and script (for example `locales/cs-001/témata/veřejná-hodnota/`):
+This book is maintained in fifty-three locales, tracked across directories with a [`.locale-peer-id`](https://github.com/SixArm/locale-help) file so translations of the same topic can be found regardless of slug spelling. The English locales (`en-gb-oxendict`, `en-gb`, `en-001`, `en-us`) use the `topics/` directory and English slugs; every other locale translates the `topics/` directory name and each topic's slug into its own language and script (for example `locales/cs-001/témata/veřejná-hodnota/`):
 
 - `en-gb-oxendict` — English (Great Britain, Oxford spelling) — the canonical locale this README links into
 - `en-001` — English (World)
@@ -152,6 +152,7 @@ This book is maintained in fifty-two locales, tracked across directories with a 
 - `is-001` — Íslenska (World)
 - `is-is` — Íslenska (Ísland) — content-identical to `is-001`; this book has no Iceland-specific subject matter
 - `sw-001` — Kiswahili (World)
+- `sw-tz` — Kiswahili (Tanzania) — content-identical to `sw-001`; this book has no Tanzania-specific subject matter
 - `th-001` — ไทย (World)
 - `th-th` — ไทย (ประเทศไทย) — content-identical to `th-001`; this book has no Thailand-specific subject matter
 - `zh-tw` — 中文 (Taiwan) — Traditional script, converted from `zh-001`

@@ -1648,6 +1648,7 @@ const TRANSLATIONS = {
 	'is-001': is,
 	'is-is': is,
 	'sw-001': sw,
+	'sw-tz': sw,
 	'th-001': th,
 	'th-th': th,
 	'zh-tw': zhTw,

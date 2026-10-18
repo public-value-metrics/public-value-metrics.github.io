@@ -61,6 +61,7 @@ export const LOCALE_LABELS = {
 	'is-001': 'Íslenska',
 	'is-is': 'Íslenska - Ísland',
 	'sw-001': 'Kiswahili',
+	'sw-tz': 'Kiswahili - Tanzania',
 	'th-001': 'ไทย',
 	'th-th': 'ไทย - ประเทศไทย',
 	'zh-tw': '中文 - 台灣'
